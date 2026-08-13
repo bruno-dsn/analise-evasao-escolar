@@ -1,0 +1,4106 @@
+ano,unidade_geografica,nivel_geografico,localizacao,dependencia,taxa_aprovacao,taxa_reprovacao,taxa_abandono
+2019,Brasil,Brasil,Total,Total,86.1,9.1,4.8
+2019,Brasil,Brasil,Urbana,Total,86.1,9.2,4.7
+2019,Brasil,Brasil,Rural,Total,85.8,7.5,6.7
+2019,Brasil,Brasil,Total,Federal,88.5,9.8,1.7
+2019,Brasil,Brasil,Urbana,Federal,88.4,9.9,1.7
+2019,Brasil,Brasil,Rural,Federal,89.6,9.1,1.3
+2019,Brasil,Brasil,Total,Estadual,84.5,10.0,5.5
+2019,Brasil,Brasil,Urbana,Estadual,84.5,10.1,5.4
+2019,Brasil,Brasil,Rural,Estadual,85.1,7.6,7.3
+2019,Brasil,Brasil,Total,Municipal,88.7,7.4,3.9
+2019,Brasil,Brasil,Urbana,Municipal,88.9,7.6,3.5
+2019,Brasil,Brasil,Rural,Municipal,86.7,5.2,8.1
+2019,Brasil,Brasil,Total,Privada,96.4,3.4,0.2
+2019,Brasil,Brasil,Urbana,Privada,96.4,3.4,0.2
+2019,Brasil,Brasil,Rural,Privada,94.4,3.2,2.4
+2019,Brasil,Brasil,Total,Pública,84.7,10.0,5.3
+2019,Brasil,Brasil,Urbana,Pública,84.6,10.1,5.3
+2019,Brasil,Brasil,Rural,Pública,85.5,7.7,6.8
+2019,Norte,Regiao,Total,Total,81.5,9.5,9.0
+2019,Norte,Regiao,Urbana,Total,81.5,9.8,8.7
+2019,Norte,Regiao,Rural,Total,81.7,7.1,11.2
+2019,Norte,Regiao,Total,Federal,89.6,8.7,1.7
+2019,Norte,Regiao,Urbana,Federal,89.4,8.8,1.8
+2019,Norte,Regiao,Rural,Federal,90.7,8.2,1.1
+2019,Norte,Regiao,Total,Estadual,80.2,10.0,9.8
+2019,Norte,Regiao,Urbana,Estadual,80.0,10.4,9.6
+2019,Norte,Regiao,Rural,Estadual,81.2,7.1,11.7
+2019,Norte,Regiao,Total,Municipal,60.0,35.8,4.2
+2019,Norte,Regiao,Urbana,Municipal,60.0,35.8,4.2
+2019,Norte,Regiao,Rural,Municipal,,,
+2019,Norte,Regiao,Total,Privada,96.5,3.1,0.4
+2019,Norte,Regiao,Urbana,Privada,96.6,3.1,0.3
+2019,Norte,Regiao,Rural,Privada,92.5,3.1,4.4
+2019,Norte,Regiao,Total,Pública,80.5,9.9,9.6
+2019,Norte,Regiao,Urbana,Pública,80.3,10.3,9.4
+2019,Norte,Regiao,Rural,Pública,81.5,7.1,11.4
+2019,Nordeste,Regiao,Total,Total,86.3,8.5,5.2
+2019,Nordeste,Regiao,Urbana,Total,86.3,8.6,5.1
+2019,Nordeste,Regiao,Rural,Total,86.6,7.2,6.2
+2019,Nordeste,Regiao,Total,Federal,86.1,11.4,2.5
+2019,Nordeste,Regiao,Urbana,Federal,85.8,11.7,2.5
+2019,Nordeste,Regiao,Rural,Federal,88.3,9.5,2.2
+2019,Nordeste,Regiao,Total,Estadual,85.3,8.9,5.8
+2019,Nordeste,Regiao,Urbana,Estadual,85.2,9.1,5.7
+2019,Nordeste,Regiao,Rural,Estadual,86.2,7.2,6.6
+2019,Nordeste,Regiao,Total,Municipal,82.2,6.2,11.6
+2019,Nordeste,Regiao,Urbana,Municipal,79.5,7.4,13.1
+2019,Nordeste,Regiao,Rural,Municipal,84.9,5.0,10.1
+2019,Nordeste,Regiao,Total,Privada,95.6,3.9,0.5
+2019,Nordeste,Regiao,Urbana,Privada,95.6,3.9,0.5
+2019,Nordeste,Regiao,Rural,Privada,93.2,3.2,3.6
+2019,Nordeste,Regiao,Total,Pública,85.3,9.0,5.7
+2019,Nordeste,Regiao,Urbana,Pública,85.2,9.2,5.6
+2019,Nordeste,Regiao,Rural,Pública,86.4,7.3,6.3
+2019,Sudeste,Regiao,Total,Total,88.1,8.5,3.4
+2019,Sudeste,Regiao,Urbana,Total,88.0,8.5,3.5
+2019,Sudeste,Regiao,Rural,Total,91.8,5.8,2.4
+2019,Sudeste,Regiao,Total,Federal,89.9,8.9,1.2
+2019,Sudeste,Regiao,Urbana,Federal,89.8,9.0,1.2
+2019,Sudeste,Regiao,Rural,Federal,90.8,8.4,0.8
+2019,Sudeste,Regiao,Total,Estadual,86.4,9.5,4.1
+2019,Sudeste,Regiao,Urbana,Estadual,86.3,9.5,4.2
+2019,Sudeste,Regiao,Rural,Estadual,91.6,5.7,2.7
+2019,Sudeste,Regiao,Total,Municipal,91.8,6.4,1.8
+2019,Sudeste,Regiao,Urbana,Municipal,91.7,6.4,1.9
+2019,Sudeste,Regiao,Rural,Municipal,93.9,4.6,1.5
+2019,Sudeste,Regiao,Total,Privada,96.6,3.3,0.1
+2019,Sudeste,Regiao,Urbana,Privada,96.6,3.3,0.1
+2019,Sudeste,Regiao,Rural,Privada,95.6,3.3,1.1
+2019,Sudeste,Regiao,Total,Pública,86.6,9.4,4.0
+2019,Sudeste,Regiao,Urbana,Pública,86.5,9.5,4.0
+2019,Sudeste,Regiao,Rural,Pública,91.5,6.1,2.4
+2019,Sul,Regiao,Total,Total,84.0,11.7,4.3
+2019,Sul,Regiao,Urbana,Total,83.8,11.8,4.4
+2019,Sul,Regiao,Rural,Total,87.8,8.7,3.5
+2019,Sul,Regiao,Total,Federal,89.1,9.5,1.4
+2019,Sul,Regiao,Urbana,Federal,89.0,9.6,1.4
+2019,Sul,Regiao,Rural,Federal,90.1,8.9,1.0
+2019,Sul,Regiao,Total,Estadual,81.8,13.1,5.1
+2019,Sul,Regiao,Urbana,Estadual,81.6,13.3,5.1
+2019,Sul,Regiao,Rural,Estadual,87.3,8.9,3.8
+2019,Sul,Regiao,Total,Municipal,75.9,15.7,8.4
+2019,Sul,Regiao,Urbana,Municipal,74.5,16.9,8.6
+2019,Sul,Regiao,Rural,Municipal,88.1,5.0,6.9
+2019,Sul,Regiao,Total,Privada,96.6,3.1,0.3
+2019,Sul,Regiao,Urbana,Privada,96.7,3.1,0.2
+2019,Sul,Regiao,Rural,Privada,95.6,2.9,1.5
+2019,Sul,Regiao,Total,Pública,82.1,13.0,4.9
+2019,Sul,Regiao,Urbana,Pública,81.8,13.1,5.1
+2019,Sul,Regiao,Rural,Pública,87.6,8.8,3.6
+2019,Centro-Oeste,Regiao,Total,Total,85.2,10.0,4.8
+2019,Centro-Oeste,Regiao,Urbana,Total,85.4,9.9,4.7
+2019,Centro-Oeste,Regiao,Rural,Total,80.8,12.1,7.1
+2019,Centro-Oeste,Regiao,Total,Federal,90.5,8.3,1.2
+2019,Centro-Oeste,Regiao,Urbana,Federal,91.0,7.7,1.3
+2019,Centro-Oeste,Regiao,Rural,Federal,88.9,10.2,0.9
+2019,Centro-Oeste,Regiao,Total,Estadual,83.1,11.1,5.8
+2019,Centro-Oeste,Regiao,Urbana,Estadual,83.4,11.0,5.6
+2019,Centro-Oeste,Regiao,Rural,Estadual,78.4,12.9,8.7
+2019,Centro-Oeste,Regiao,Total,Municipal,89.9,5.9,4.2
+2019,Centro-Oeste,Regiao,Urbana,Municipal,90.4,4.7,4.9
+2019,Centro-Oeste,Regiao,Rural,Municipal,88.9,8.4,2.7
+2019,Centro-Oeste,Regiao,Total,Privada,96.6,3.2,0.2
+2019,Centro-Oeste,Regiao,Urbana,Privada,96.6,3.2,0.2
+2019,Centro-Oeste,Regiao,Rural,Privada,96.2,3.1,0.7
+2019,Centro-Oeste,Regiao,Total,Pública,83.4,11.0,5.6
+2019,Centro-Oeste,Regiao,Urbana,Pública,83.7,10.9,5.4
+2019,Centro-Oeste,Regiao,Rural,Pública,80.2,12.5,7.3
+2019,Rondônia,UF,Total,Total,86.4,8.0,5.6
+2019,Rondônia,UF,Urbana,Total,86.3,8.2,5.5
+2019,Rondônia,UF,Rural,Total,87.8,4.9,7.3
+2019,Rondônia,UF,Total,Federal,92.9,6.6,0.5
+2019,Rondônia,UF,Urbana,Federal,92.7,7.0,0.3
+2019,Rondônia,UF,Rural,Federal,93.8,5.7,0.5
+2019,Rondônia,UF,Total,Estadual,85.3,8.3,6.4
+2019,Rondônia,UF,Urbana,Estadual,85.4,8.4,6.2
+2019,Rondônia,UF,Rural,Estadual,80.8,5.1,14.1
+2019,Rondônia,UF,Total,Municipal,,,
+2019,Rondônia,UF,Urbana,Municipal,,,
+2019,Rondônia,UF,Rural,Municipal,,,
+2019,Rondônia,UF,Total,Privada,94.1,5.2,0.7
+2019,Rondônia,UF,Urbana,Privada,94.0,5.6,0.4
+2019,Rondônia,UF,Rural,Privada,94.4,3.3,2.3
+2019,Rondônia,UF,Total,Pública,85.9,8.2,5.9
+2019,Rondônia,UF,Urbana,Pública,85.9,8.3,5.8
+2019,Rondônia,UF,Rural,Pública,86.1,5.4,8.5
+2019,Acre,UF,Total,Total,82.8,10.8,6.4
+2019,Acre,UF,Urbana,Total,81.6,12.7,5.7
+2019,Acre,UF,Rural,Total,87.6,3.5,8.9
+2019,Acre,UF,Total,Federal,90.8,7.4,1.8
+2019,Acre,UF,Urbana,Federal,90.8,7.4,1.8
+2019,Acre,UF,Total,Estadual,81.8,11.3,6.9
+2019,Acre,UF,Urbana,Estadual,80.1,13.6,6.3
+2019,Acre,UF,Rural,Estadual,87.6,3.5,8.9
+2019,Acre,UF,Total,Municipal,,,
+2019,Acre,UF,Urbana,Municipal,,,
+2019,Acre,UF,Rural,Municipal,,,
+2019,Acre,UF,Total,Privada,96.8,3.1,0.1
+2019,Acre,UF,Urbana,Privada,96.8,3.1,0.1
+2019,Acre,UF,Total,Pública,82.2,11.1,6.7
+2019,Acre,UF,Urbana,Pública,80.7,13.3,6.0
+2019,Acre,UF,Rural,Pública,87.6,3.5,8.9
+2019,Amazonas,UF,Total,Total,82.9,6.9,10.2
+2019,Amazonas,UF,Urbana,Total,82.8,7.2,10.0
+2019,Amazonas,UF,Rural,Total,83.5,5.7,10.8
+2019,Amazonas,UF,Total,Federal,88.3,10.9,0.8
+2019,Amazonas,UF,Urbana,Federal,88.3,10.8,0.9
+2019,Amazonas,UF,Rural,Federal,87.7,12.3,0.0
+2019,Amazonas,UF,Total,Estadual,82.3,6.9,10.8
+2019,Amazonas,UF,Urbana,Estadual,82.0,7.2,10.8
+2019,Amazonas,UF,Rural,Estadual,83.4,5.6,11.0
+2019,Amazonas,UF,Total,Municipal,,,
+2019,Amazonas,UF,Urbana,Municipal,,,
+2019,Amazonas,UF,Rural,Municipal,,,
+2019,Amazonas,UF,Total,Privada,96.0,3.8,0.2
+2019,Amazonas,UF,Urbana,Privada,96.1,3.8,0.1
+2019,Amazonas,UF,Rural,Privada,89.1,10.9,0.0
+2019,Amazonas,UF,Total,Pública,82.4,7.0,10.6
+2019,Amazonas,UF,Urbana,Pública,82.2,7.3,10.5
+2019,Amazonas,UF,Rural,Pública,83.5,5.7,10.8
+2019,Roraima,UF,Total,Total,83.8,9.1,7.1
+2019,Roraima,UF,Urbana,Total,83.4,10.5,6.1
+2019,Roraima,UF,Rural,Total,85.5,3.3,11.2
+2019,Roraima,UF,Total,Federal,93.4,4.9,1.7
+2019,Roraima,UF,Urbana,Federal,92.4,5.9,1.7
+2019,Roraima,UF,Rural,Federal,96.0,2.3,1.7
+2019,Roraima,UF,Total,Estadual,82.3,9.8,7.9
+2019,Roraima,UF,Urbana,Estadual,81.9,11.3,6.8
+2019,Roraima,UF,Rural,Estadual,84.1,3.4,12.5
+2019,Roraima,UF,Total,Municipal,,,
+2019,Roraima,UF,Urbana,Municipal,,,
+2019,Roraima,UF,Rural,Municipal,,,
+2019,Roraima,UF,Total,Privada,96.1,3.8,0.1
+2019,Roraima,UF,Urbana,Privada,96.0,3.9,0.1
+2019,Roraima,UF,Rural,Privada,100.0,0.0,0.0
+2019,Roraima,UF,Total,Pública,83.2,9.4,7.4
+2019,Roraima,UF,Urbana,Pública,82.6,10.9,6.5
+2019,Roraima,UF,Rural,Pública,85.4,3.3,11.3
+2019,Pará,UF,Total,Total,78.6,11.3,10.1
+2019,Pará,UF,Urbana,Total,78.7,11.5,9.8
+2019,Pará,UF,Rural,Total,77.8,8.9,13.3
+2019,Pará,UF,Total,Federal,88.5,7.9,3.6
+2019,Pará,UF,Urbana,Federal,88.7,7.6,3.7
+2019,Pará,UF,Rural,Federal,82.5,16.4,1.1
+2019,Pará,UF,Total,Estadual,76.8,12.1,11.1
+2019,Pará,UF,Urbana,Estadual,76.7,12.5,10.8
+2019,Pará,UF,Rural,Estadual,77.6,9.0,13.4
+2019,Pará,UF,Total,Municipal,60.0,35.8,4.2
+2019,Pará,UF,Urbana,Municipal,60.0,35.8,4.2
+2019,Pará,UF,Rural,Municipal,,,
+2019,Pará,UF,Total,Privada,97.0,2.5,0.5
+2019,Pará,UF,Urbana,Privada,97.1,2.5,0.4
+2019,Pará,UF,Rural,Privada,91.6,2.6,5.8
+2019,Pará,UF,Total,Pública,77.0,12.0,11.0
+2019,Pará,UF,Urbana,Pública,76.9,12.4,10.7
+2019,Pará,UF,Rural,Pública,77.6,9.0,13.4
+2019,Amapá,UF,Total,Total,79.3,11.0,9.7
+2019,Amapá,UF,Urbana,Total,79.8,10.9,9.3
+2019,Amapá,UF,Rural,Total,75.5,12.3,12.2
+2019,Amapá,UF,Total,Federal,92.1,7.2,0.7
+2019,Amapá,UF,Urbana,Federal,92.1,7.2,0.7
+2019,Amapá,UF,Total,Estadual,76.7,12.2,11.1
+2019,Amapá,UF,Urbana,Estadual,77.0,12.1,10.9
+2019,Amapá,UF,Rural,Estadual,75.4,12.7,11.9
+2019,Amapá,UF,Total,Municipal,,,
+2019,Amapá,UF,Urbana,Municipal,,,
+2019,Amapá,UF,Rural,Municipal,,,
+2019,Amapá,UF,Total,Privada,97.7,1.2,1.1
+2019,Amapá,UF,Urbana,Privada,99.1,0.9,0.0
+2019,Amapá,UF,Rural,Privada,78.5,4.1,17.4
+2019,Amapá,UF,Total,Pública,77.6,11.9,10.5
+2019,Amapá,UF,Urbana,Pública,77.9,11.8,10.3
+2019,Amapá,UF,Rural,Pública,75.4,12.7,11.9
+2019,Tocantins,UF,Total,Total,87.9,7.9,4.2
+2019,Tocantins,UF,Urbana,Total,88.1,7.7,4.2
+2019,Tocantins,UF,Rural,Total,85.7,9.5,4.8
+2019,Tocantins,UF,Total,Federal,84.9,12.8,2.3
+2019,Tocantins,UF,Urbana,Federal,84.3,13.1,2.6
+2019,Tocantins,UF,Rural,Federal,86.2,12.0,1.8
+2019,Tocantins,UF,Total,Estadual,87.7,7.8,4.5
+2019,Tocantins,UF,Urbana,Estadual,87.9,7.7,4.4
+2019,Tocantins,UF,Rural,Estadual,84.7,9.6,5.7
+2019,Tocantins,UF,Total,Municipal,,,
+2019,Tocantins,UF,Urbana,Municipal,,,
+2019,Tocantins,UF,Rural,Municipal,,,
+2019,Tocantins,UF,Total,Privada,94.9,4.9,0.2
+2019,Tocantins,UF,Urbana,Privada,94.6,5.2,0.2
+2019,Tocantins,UF,Rural,Privada,100.0,0.0,0.0
+2019,Tocantins,UF,Total,Pública,87.5,8.0,4.5
+2019,Tocantins,UF,Urbana,Pública,87.7,7.9,4.4
+2019,Tocantins,UF,Rural,Pública,85.0,10.0,5.0
+2019,Maranhão,UF,Total,Total,90.6,4.7,4.7
+2019,Maranhão,UF,Urbana,Total,91.1,4.7,4.2
+2019,Maranhão,UF,Rural,Total,88.3,5.3,6.4
+2019,Maranhão,UF,Total,Federal,89.4,8.5,2.1
+2019,Maranhão,UF,Urbana,Federal,89.2,9.0,1.8
+2019,Maranhão,UF,Rural,Federal,90.0,6.6,3.4
+2019,Maranhão,UF,Total,Estadual,90.5,4.7,4.8
+2019,Maranhão,UF,Urbana,Estadual,90.9,4.6,4.5
+2019,Maranhão,UF,Rural,Estadual,88.2,5.3,6.5
+2019,Maranhão,UF,Total,Municipal,87.1,1.8,11.1
+2019,Maranhão,UF,Urbana,Municipal,91.8,0.6,7.6
+2019,Maranhão,UF,Rural,Municipal,80.6,3.4,16.0
+2019,Maranhão,UF,Total,Privada,94.8,3.7,1.5
+2019,Maranhão,UF,Urbana,Privada,95.4,3.7,0.9
+2019,Maranhão,UF,Rural,Privada,88.6,3.4,8.0
+2019,Maranhão,UF,Total,Pública,90.4,4.8,4.8
+2019,Maranhão,UF,Urbana,Pública,90.8,4.7,4.5
+2019,Maranhão,UF,Rural,Pública,88.3,5.3,6.4
+2019,Piauí,UF,Total,Total,84.7,8.1,7.2
+2019,Piauí,UF,Urbana,Total,85.1,8.1,6.8
+2019,Piauí,UF,Rural,Total,79.5,7.4,13.1
+2019,Piauí,UF,Total,Federal,86.0,11.8,2.2
+2019,Piauí,UF,Urbana,Federal,86.0,11.9,2.1
+2019,Piauí,UF,Rural,Federal,85.9,11.3,2.8
+2019,Piauí,UF,Total,Estadual,83.3,8.4,8.3
+2019,Piauí,UF,Urbana,Estadual,83.6,8.4,8.0
+2019,Piauí,UF,Rural,Estadual,78.7,7.1,14.2
+2019,Piauí,UF,Total,Municipal,89.3,10.7,0.0
+2019,Piauí,UF,Urbana,Municipal,89.5,10.5,0.0
+2019,Piauí,UF,Rural,Municipal,87.5,12.5,0.0
+2019,Piauí,UF,Total,Privada,95.3,4.1,0.6
+2019,Piauí,UF,Urbana,Privada,95.3,4.1,0.6
+2019,Piauí,UF,Rural,Privada,100.0,0.0,0.0
+2019,Piauí,UF,Total,Pública,83.5,8.6,7.9
+2019,Piauí,UF,Urbana,Pública,83.8,8.6,7.6
+2019,Piauí,UF,Rural,Pública,79.3,7.5,13.2
+2019,Ceará,UF,Total,Total,92.7,3.8,3.5
+2019,Ceará,UF,Urbana,Total,92.6,3.9,3.5
+2019,Ceará,UF,Rural,Total,93.9,2.8,3.3
+2019,Ceará,UF,Total,Federal,85.3,12.8,1.9
+2019,Ceará,UF,Urbana,Federal,84.8,13.4,1.8
+2019,Ceará,UF,Rural,Federal,90.0,7.6,2.4
+2019,Ceará,UF,Total,Estadual,92.4,3.8,3.8
+2019,Ceará,UF,Urbana,Estadual,92.3,3.8,3.9
+2019,Ceará,UF,Rural,Estadual,94.0,2.7,3.3
+2019,Ceará,UF,Total,Municipal,,,
+2019,Ceará,UF,Urbana,Municipal,,,
+2019,Ceará,UF,Rural,Municipal,,,
+2019,Ceará,UF,Total,Privada,96.6,3.1,0.3
+2019,Ceará,UF,Urbana,Privada,96.6,3.1,0.3
+2019,Ceará,UF,Rural,Privada,94.6,4.3,1.1
+2019,Ceará,UF,Total,Pública,92.3,3.9,3.8
+2019,Ceará,UF,Urbana,Pública,92.2,4.0,3.8
+2019,Ceará,UF,Rural,Pública,93.9,2.8,3.3
+2019,Rio Grande do Norte,UF,Total,Total,77.6,14.9,7.5
+2019,Rio Grande do Norte,UF,Urbana,Total,77.5,15.0,7.5
+2019,Rio Grande do Norte,UF,Rural,Total,78.6,11.5,9.9
+2019,Rio Grande do Norte,UF,Total,Federal,88.0,10.3,1.7
+2019,Rio Grande do Norte,UF,Urbana,Federal,87.6,10.6,1.8
+2019,Rio Grande do Norte,UF,Rural,Federal,91.3,7.3,1.4
+2019,Rio Grande do Norte,UF,Total,Estadual,73.5,17.0,9.5
+2019,Rio Grande do Norte,UF,Urbana,Estadual,73.6,17.2,9.2
+2019,Rio Grande do Norte,UF,Rural,Estadual,73.3,13.4,13.3
+2019,Rio Grande do Norte,UF,Total,Municipal,,,
+2019,Rio Grande do Norte,UF,Urbana,Municipal,,,
+2019,Rio Grande do Norte,UF,Rural,Municipal,,,
+2019,Rio Grande do Norte,UF,Total,Privada,94.5,5.0,0.5
+2019,Rio Grande do Norte,UF,Urbana,Privada,94.5,5.1,0.4
+2019,Rio Grande do Norte,UF,Rural,Privada,100.0,0.0,0.0
+2019,Rio Grande do Norte,UF,Total,Pública,75.2,16.3,8.5
+2019,Rio Grande do Norte,UF,Urbana,Pública,75.0,16.5,8.5
+2019,Rio Grande do Norte,UF,Rural,Pública,78.4,11.6,10.0
+2019,Paraíba,UF,Total,Total,83.3,10.4,6.3
+2019,Paraíba,UF,Urbana,Total,83.3,10.4,6.3
+2019,Paraíba,UF,Rural,Total,82.7,10.9,6.4
+2019,Paraíba,UF,Total,Federal,91.8,7.2,1.0
+2019,Paraíba,UF,Urbana,Federal,91.8,7.3,0.9
+2019,Paraíba,UF,Rural,Federal,93.2,3.7,3.1
+2019,Paraíba,UF,Total,Estadual,80.6,11.9,7.5
+2019,Paraíba,UF,Urbana,Estadual,80.5,11.9,7.6
+2019,Paraíba,UF,Rural,Estadual,82.3,11.2,6.5
+2019,Paraíba,UF,Total,Municipal,65.7,5.1,29.2
+2019,Paraíba,UF,Urbana,Municipal,65.7,5.1,29.2
+2019,Paraíba,UF,Rural,Municipal,,,
+2019,Paraíba,UF,Total,Privada,95.6,3.6,0.8
+2019,Paraíba,UF,Urbana,Privada,95.6,3.6,0.8
+2019,Paraíba,UF,Rural,Privada,,,
+2019,Paraíba,UF,Total,Pública,81.2,11.6,7.2
+2019,Paraíba,UF,Urbana,Pública,81.1,11.6,7.3
+2019,Paraíba,UF,Rural,Pública,82.7,10.9,6.4
+2019,Pernambuco,UF,Total,Total,93.5,5.1,1.4
+2019,Pernambuco,UF,Urbana,Total,93.6,5.0,1.4
+2019,Pernambuco,UF,Rural,Total,90.4,6.8,2.8
+2019,Pernambuco,UF,Total,Federal,78.7,17.3,4.0
+2019,Pernambuco,UF,Urbana,Federal,77.1,18.3,4.6
+2019,Pernambuco,UF,Rural,Federal,83.5,14.4,2.1
+2019,Pernambuco,UF,Total,Estadual,93.6,4.9,1.5
+2019,Pernambuco,UF,Urbana,Estadual,93.7,4.9,1.4
+2019,Pernambuco,UF,Rural,Estadual,91.1,6.0,2.9
+2019,Pernambuco,UF,Total,Municipal,94.4,1.1,4.5
+2019,Pernambuco,UF,Urbana,Municipal,100.0,0.0,0.0
+2019,Pernambuco,UF,Rural,Municipal,89.8,2.0,8.2
+2019,Pernambuco,UF,Total,Privada,95.8,3.7,0.5
+2019,Pernambuco,UF,Urbana,Privada,95.8,3.8,0.4
+2019,Pernambuco,UF,Rural,Privada,98.8,0.8,0.4
+2019,Pernambuco,UF,Total,Pública,93.2,5.3,1.5
+2019,Pernambuco,UF,Urbana,Pública,93.4,5.1,1.5
+2019,Pernambuco,UF,Rural,Pública,90.3,6.9,2.8
+2019,Alagoas,UF,Total,Total,86.7,7.2,6.1
+2019,Alagoas,UF,Urbana,Total,86.4,7.4,6.2
+2019,Alagoas,UF,Rural,Total,93.6,3.3,3.1
+2019,Alagoas,UF,Total,Federal,79.4,16.4,4.2
+2019,Alagoas,UF,Urbana,Federal,79.4,16.4,4.2
+2019,Alagoas,UF,Total,Estadual,86.0,6.9,7.1
+2019,Alagoas,UF,Urbana,Estadual,85.4,7.2,7.4
+2019,Alagoas,UF,Rural,Estadual,93.6,3.3,3.1
+2019,Alagoas,UF,Total,Municipal,,,
+2019,Alagoas,UF,Urbana,Municipal,,,
+2019,Alagoas,UF,Rural,Municipal,,,
+2019,Alagoas,UF,Total,Privada,95.3,4.1,0.6
+2019,Alagoas,UF,Urbana,Privada,95.3,4.1,0.6
+2019,Alagoas,UF,Rural,Privada,96.4,0.0,3.6
+2019,Alagoas,UF,Total,Pública,85.4,7.7,6.9
+2019,Alagoas,UF,Urbana,Pública,84.9,8.0,7.1
+2019,Alagoas,UF,Rural,Pública,93.6,3.3,3.1
+2019,Sergipe,UF,Total,Total,81.2,12.5,6.3
+2019,Sergipe,UF,Urbana,Total,81.4,12.5,6.1
+2019,Sergipe,UF,Rural,Total,78.2,13.1,8.7
+2019,Sergipe,UF,Total,Federal,84.4,13.0,2.6
+2019,Sergipe,UF,Urbana,Federal,86.9,10.0,3.1
+2019,Sergipe,UF,Rural,Federal,80.5,17.8,1.7
+2019,Sergipe,UF,Total,Estadual,78.1,14.2,7.7
+2019,Sergipe,UF,Urbana,Estadual,78.1,14.3,7.6
+2019,Sergipe,UF,Rural,Estadual,77.7,12.2,10.1
+2019,Sergipe,UF,Total,Municipal,,,
+2019,Sergipe,UF,Urbana,Municipal,,,
+2019,Sergipe,UF,Rural,Municipal,,,
+2019,Sergipe,UF,Total,Privada,95.2,4.5,0.3
+2019,Sergipe,UF,Urbana,Privada,95.2,4.5,0.3
+2019,Sergipe,UF,Rural,Privada,,,
+2019,Sergipe,UF,Total,Pública,78.3,14.2,7.5
+2019,Sergipe,UF,Urbana,Pública,78.3,14.2,7.5
+2019,Sergipe,UF,Rural,Pública,78.2,13.1,8.7
+2019,Bahia,UF,Total,Total,79.4,13.5,7.1
+2019,Bahia,UF,Urbana,Total,79.2,13.8,7.0
+2019,Bahia,UF,Rural,Total,81.8,10.6,7.6
+2019,Bahia,UF,Total,Federal,87.7,9.8,2.5
+2019,Bahia,UF,Urbana,Federal,87.1,10.2,2.7
+2019,Bahia,UF,Rural,Federal,92.3,6.8,0.9
+2019,Bahia,UF,Total,Estadual,77.5,14.7,7.8
+2019,Bahia,UF,Urbana,Estadual,77.3,14.9,7.8
+2019,Bahia,UF,Rural,Estadual,79.8,11.8,8.4
+2019,Bahia,UF,Total,Municipal,80.8,7.7,11.5
+2019,Bahia,UF,Urbana,Municipal,74.2,10.9,14.9
+2019,Bahia,UF,Rural,Municipal,85.2,5.5,9.3
+2019,Bahia,UF,Total,Privada,95.6,3.9,0.5
+2019,Bahia,UF,Urbana,Privada,95.6,3.9,0.5
+2019,Bahia,UF,Rural,Privada,94.7,3.3,2.0
+2019,Bahia,UF,Total,Pública,77.8,14.5,7.7
+2019,Bahia,UF,Urbana,Pública,77.6,14.7,7.7
+2019,Bahia,UF,Rural,Pública,80.8,11.2,8.0
+2019,Minas Gerais,UF,Total,Total,84.4,11.0,4.6
+2019,Minas Gerais,UF,Urbana,Total,84.2,11.1,4.7
+2019,Minas Gerais,UF,Rural,Total,91.4,5.9,2.7
+2019,Minas Gerais,UF,Total,Federal,90.8,8.7,0.5
+2019,Minas Gerais,UF,Urbana,Federal,90.3,9.1,0.6
+2019,Minas Gerais,UF,Rural,Federal,92.4,7.1,0.5
+2019,Minas Gerais,UF,Total,Estadual,82.8,11.9,5.3
+2019,Minas Gerais,UF,Urbana,Estadual,82.6,12.0,5.4
+2019,Minas Gerais,UF,Rural,Estadual,90.6,5.8,3.6
+2019,Minas Gerais,UF,Total,Municipal,90.4,7.3,2.3
+2019,Minas Gerais,UF,Urbana,Municipal,90.4,7.4,2.2
+2019,Minas Gerais,UF,Rural,Municipal,89.6,6.7,3.7
+2019,Minas Gerais,UF,Total,Privada,95.7,4.1,0.2
+2019,Minas Gerais,UF,Urbana,Privada,95.7,4.1,0.2
+2019,Minas Gerais,UF,Rural,Privada,96.5,2.3,1.2
+2019,Minas Gerais,UF,Total,Pública,83.2,11.7,5.1
+2019,Minas Gerais,UF,Urbana,Pública,82.9,11.9,5.2
+2019,Minas Gerais,UF,Rural,Pública,91.1,6.2,2.7
+2019,Espírito Santo,UF,Total,Total,88.8,9.1,2.1
+2019,Espírito Santo,UF,Urbana,Total,88.7,9.3,2.0
+2019,Espírito Santo,UF,Rural,Total,91.9,6.3,1.8
+2019,Espírito Santo,UF,Total,Federal,90.2,8.5,1.3
+2019,Espírito Santo,UF,Urbana,Federal,90.6,8.1,1.3
+2019,Espírito Santo,UF,Rural,Federal,88.4,10.1,1.5
+2019,Espírito Santo,UF,Total,Estadual,87.6,10.1,2.3
+2019,Espírito Santo,UF,Urbana,Estadual,87.4,10.3,2.3
+2019,Espírito Santo,UF,Rural,Estadual,93.4,5.1,1.5
+2019,Espírito Santo,UF,Total,Municipal,97.5,2.5,0.0
+2019,Espírito Santo,UF,Urbana,Municipal,,,
+2019,Espírito Santo,UF,Rural,Municipal,97.5,2.5,0.0
+2019,Espírito Santo,UF,Total,Privada,96.5,3.2,0.3
+2019,Espírito Santo,UF,Urbana,Privada,96.7,3.1,0.2
+2019,Espírito Santo,UF,Rural,Privada,93.4,3.7,2.9
+2019,Espírito Santo,UF,Total,Pública,87.8,10.0,2.2
+2019,Espírito Santo,UF,Urbana,Pública,87.6,10.1,2.3
+2019,Espírito Santo,UF,Rural,Pública,91.4,7.1,1.5
+2019,Rio de Janeiro,UF,Total,Total,81.7,12.5,5.8
+2019,Rio de Janeiro,UF,Urbana,Total,81.5,12.6,5.9
+2019,Rio de Janeiro,UF,Rural,Total,86.8,9.3,3.9
+2019,Rio de Janeiro,UF,Total,Federal,85.8,12.1,2.1
+2019,Rio de Janeiro,UF,Urbana,Federal,86.0,12.0,2.0
+2019,Rio de Janeiro,UF,Rural,Federal,83.0,14.6,2.4
+2019,Rio de Janeiro,UF,Total,Estadual,78.1,14.5,7.4
+2019,Rio de Janeiro,UF,Urbana,Estadual,77.8,14.7,7.5
+2019,Rio de Janeiro,UF,Rural,Estadual,86.4,9.3,4.3
+2019,Rio de Janeiro,UF,Total,Municipal,80.7,13.4,5.9
+2019,Rio de Janeiro,UF,Urbana,Municipal,80.7,13.4,5.9
+2019,Rio de Janeiro,UF,Rural,Municipal,,,
+2019,Rio de Janeiro,UF,Total,Privada,94.4,5.2,0.4
+2019,Rio de Janeiro,UF,Urbana,Privada,94.4,5.2,0.4
+2019,Rio de Janeiro,UF,Rural,Privada,97.1,2.8,0.1
+2019,Rio de Janeiro,UF,Total,Pública,78.5,14.4,7.1
+2019,Rio de Janeiro,UF,Urbana,Pública,78.2,14.5,7.3
+2019,Rio de Janeiro,UF,Rural,Pública,86.2,9.6,4.2
+2019,São Paulo,UF,Total,Total,92.3,5.7,2.0
+2019,São Paulo,UF,Urbana,Total,92.2,5.7,2.1
+2019,São Paulo,UF,Rural,Total,95.8,3.2,1.0
+2019,São Paulo,UF,Total,Federal,96.1,3.4,0.5
+2019,São Paulo,UF,Urbana,Federal,96.1,3.4,0.5
+2019,São Paulo,UF,Total,Estadual,91.1,6.4,2.5
+2019,São Paulo,UF,Urbana,Estadual,91.0,6.5,2.5
+2019,São Paulo,UF,Rural,Estadual,95.8,3.1,1.1
+2019,São Paulo,UF,Total,Municipal,94.0,5.0,1.0
+2019,São Paulo,UF,Urbana,Municipal,94.0,5.0,1.0
+2019,São Paulo,UF,Rural,Municipal,95.6,3.8,0.6
+2019,São Paulo,UF,Total,Privada,97.7,2.3,0.0
+2019,São Paulo,UF,Urbana,Privada,97.8,2.2,0.0
+2019,São Paulo,UF,Rural,Privada,95.5,4.2,0.3
+2019,São Paulo,UF,Total,Pública,91.2,6.4,2.4
+2019,São Paulo,UF,Urbana,Pública,91.1,6.4,2.5
+2019,São Paulo,UF,Rural,Pública,95.8,3.1,1.1
+2019,Paraná,UF,Total,Total,89.1,7.8,3.1
+2019,Paraná,UF,Urbana,Total,89.0,8.0,3.0
+2019,Paraná,UF,Rural,Total,92.7,5.1,2.2
+2019,Paraná,UF,Total,Federal,92.8,6.2,1.0
+2019,Paraná,UF,Urbana,Federal,92.6,6.3,1.1
+2019,Paraná,UF,Rural,Federal,96.4,3.6,0.0
+2019,Paraná,UF,Total,Estadual,87.6,8.8,3.6
+2019,Paraná,UF,Urbana,Estadual,87.4,8.9,3.7
+2019,Paraná,UF,Rural,Estadual,92.6,5.2,2.2
+2019,Paraná,UF,Total,Municipal,,,
+2019,Paraná,UF,Urbana,Municipal,,,
+2019,Paraná,UF,Rural,Municipal,,,
+2019,Paraná,UF,Total,Privada,97.2,2.7,0.1
+2019,Paraná,UF,Urbana,Privada,97.2,2.7,0.1
+2019,Paraná,UF,Rural,Privada,96.3,3.3,0.4
+2019,Paraná,UF,Total,Pública,87.8,8.7,3.5
+2019,Paraná,UF,Urbana,Pública,87.5,8.9,3.6
+2019,Paraná,UF,Rural,Pública,92.6,5.1,2.3
+2019,Santa Catarina,UF,Total,Total,82.0,12.9,5.1
+2019,Santa Catarina,UF,Urbana,Total,81.9,13.0,5.1
+2019,Santa Catarina,UF,Rural,Total,86.4,9.6,4.0
+2019,Santa Catarina,UF,Total,Federal,91.8,6.9,1.3
+2019,Santa Catarina,UF,Urbana,Federal,91.8,6.8,1.4
+2019,Santa Catarina,UF,Rural,Federal,91.7,8.1,0.2
+2019,Santa Catarina,UF,Total,Estadual,79.2,14.7,6.1
+2019,Santa Catarina,UF,Urbana,Estadual,79.1,14.9,6.0
+2019,Santa Catarina,UF,Rural,Estadual,85.1,10.1,4.8
+2019,Santa Catarina,UF,Total,Municipal,95.9,3.0,1.1
+2019,Santa Catarina,UF,Urbana,Municipal,96.6,3.4,0.0
+2019,Santa Catarina,UF,Rural,Municipal,93.8,1.8,4.4
+2019,Santa Catarina,UF,Total,Privada,96.5,3.2,0.3
+2019,Santa Catarina,UF,Urbana,Privada,96.5,3.2,0.3
+2019,Santa Catarina,UF,Rural,Privada,96.6,3.4,0.0
+2019,Santa Catarina,UF,Total,Pública,80.0,14.3,5.7
+2019,Santa Catarina,UF,Urbana,Pública,79.8,14.4,5.8
+2019,Santa Catarina,UF,Rural,Pública,86.3,9.7,4.0
+2019,Rio Grande do Sul,UF,Total,Total,79.2,15.5,5.3
+2019,Rio Grande do Sul,UF,Urbana,Total,79.0,15.6,5.4
+2019,Rio Grande do Sul,UF,Rural,Total,82.2,12.9,4.9
+2019,Rio Grande do Sul,UF,Total,Federal,85.1,13.3,1.6
+2019,Rio Grande do Sul,UF,Urbana,Federal,84.2,14.2,1.6
+2019,Rio Grande do Sul,UF,Rural,Federal,89.0,9.7,1.3
+2019,Rio Grande do Sul,UF,Total,Estadual,76.5,17.2,6.3
+2019,Rio Grande do Sul,UF,Urbana,Estadual,76.4,17.3,6.3
+2019,Rio Grande do Sul,UF,Rural,Estadual,79.4,14.6,6.0
+2019,Rio Grande do Sul,UF,Total,Municipal,73.3,17.3,9.4
+2019,Rio Grande do Sul,UF,Urbana,Municipal,72.2,18.3,9.5
+2019,Rio Grande do Sul,UF,Rural,Municipal,85.9,6.2,7.9
+2019,Rio Grande do Sul,UF,Total,Privada,95.9,3.7,0.4
+2019,Rio Grande do Sul,UF,Urbana,Privada,95.9,3.8,0.3
+2019,Rio Grande do Sul,UF,Rural,Privada,94.4,2.2,3.4
+2019,Rio Grande do Sul,UF,Total,Pública,76.9,17.0,6.1
+2019,Rio Grande do Sul,UF,Urbana,Pública,76.7,17.2,6.1
+2019,Rio Grande do Sul,UF,Rural,Pública,81.9,13.2,4.9
+2019,Mato Grosso do Sul,UF,Total,Total,83.1,10.9,6.0
+2019,Mato Grosso do Sul,UF,Urbana,Total,83.3,11.1,5.6
+2019,Mato Grosso do Sul,UF,Rural,Total,80.8,8.3,10.9
+2019,Mato Grosso do Sul,UF,Total,Federal,92.8,4.1,3.1
+2019,Mato Grosso do Sul,UF,Urbana,Federal,93.0,3.9,3.1
+2019,Mato Grosso do Sul,UF,Rural,Federal,92.2,5.3,2.5
+2019,Mato Grosso do Sul,UF,Total,Estadual,81.1,12.1,6.8
+2019,Mato Grosso do Sul,UF,Urbana,Estadual,81.3,12.3,6.4
+2019,Mato Grosso do Sul,UF,Rural,Estadual,78.2,9.0,12.8
+2019,Mato Grosso do Sul,UF,Total,Municipal,95.5,4.5,0.0
+2019,Mato Grosso do Sul,UF,Urbana,Municipal,,,
+2019,Mato Grosso do Sul,UF,Rural,Municipal,95.5,4.5,0.0
+2019,Mato Grosso do Sul,UF,Total,Privada,96.6,3.3,0.1
+2019,Mato Grosso do Sul,UF,Urbana,Privada,96.7,3.3,0.0
+2019,Mato Grosso do Sul,UF,Rural,Privada,93.2,5.5,1.3
+2019,Mato Grosso do Sul,UF,Total,Pública,81.7,11.7,6.6
+2019,Mato Grosso do Sul,UF,Urbana,Pública,81.8,11.9,6.3
+2019,Mato Grosso do Sul,UF,Rural,Pública,80.0,8.5,11.5
+2019,Mato Grosso,UF,Total,Total,73.2,17.2,9.6
+2019,Mato Grosso,UF,Urbana,Total,72.8,17.3,9.9
+2019,Mato Grosso,UF,Rural,Total,76.2,15.8,8.0
+2019,Mato Grosso,UF,Total,Federal,91.2,8.2,0.6
+2019,Mato Grosso,UF,Urbana,Federal,91.8,7.6,0.6
+2019,Mato Grosso,UF,Rural,Federal,89.4,10.1,0.5
+2019,Mato Grosso,UF,Total,Estadual,70.1,18.9,11.0
+2019,Mato Grosso,UF,Urbana,Estadual,69.4,19.3,11.3
+2019,Mato Grosso,UF,Rural,Estadual,74.6,16.5,8.9
+2019,Mato Grosso,UF,Total,Municipal,79.7,20.3,0.0
+2019,Mato Grosso,UF,Urbana,Municipal,,,
+2019,Mato Grosso,UF,Rural,Municipal,79.7,20.3,0.0
+2019,Mato Grosso,UF,Total,Privada,97.1,2.8,0.1
+2019,Mato Grosso,UF,Urbana,Privada,97.1,2.8,0.1
+2019,Mato Grosso,UF,Rural,Privada,100.0,0.0,0.0
+2019,Mato Grosso,UF,Total,Pública,71.3,18.3,10.4
+2019,Mato Grosso,UF,Urbana,Pública,70.6,18.7,10.7
+2019,Mato Grosso,UF,Rural,Pública,76.1,15.9,8.0
+2019,Goiás,UF,Total,Total,92.9,5.2,1.9
+2019,Goiás,UF,Urbana,Total,92.9,5.1,2.0
+2019,Goiás,UF,Rural,Total,93.0,5.4,1.6
+2019,Goiás,UF,Total,Federal,89.8,9.4,0.8
+2019,Goiás,UF,Urbana,Federal,89.6,9.6,0.8
+2019,Goiás,UF,Rural,Federal,90.5,8.9,0.6
+2019,Goiás,UF,Total,Estadual,92.4,5.3,2.3
+2019,Goiás,UF,Urbana,Estadual,92.4,5.4,2.2
+2019,Goiás,UF,Rural,Estadual,93.7,3.9,2.4
+2019,Goiás,UF,Total,Municipal,90.4,4.4,5.2
+2019,Goiás,UF,Urbana,Municipal,90.4,4.7,4.9
+2019,Goiás,UF,Rural,Municipal,90.3,2.2,7.5
+2019,Goiás,UF,Total,Privada,96.6,3.0,0.4
+2019,Goiás,UF,Urbana,Privada,96.6,3.0,0.4
+2019,Goiás,UF,Rural,Privada,97.2,2.2,0.6
+2019,Goiás,UF,Total,Pública,92.3,5.5,2.2
+2019,Goiás,UF,Urbana,Pública,92.3,5.5,2.2
+2019,Goiás,UF,Rural,Pública,92.4,5.8,1.8
+2019,Distrito Federal,UF,Total,Total,86.1,10.2,3.7
+2019,Distrito Federal,UF,Urbana,Total,86.1,10.2,3.7
+2019,Distrito Federal,UF,Rural,Total,86.8,10.6,2.6
+2019,Distrito Federal,UF,Total,Federal,87.4,11.6,1.0
+2019,Distrito Federal,UF,Urbana,Federal,89.4,9.7,0.9
+2019,Distrito Federal,UF,Rural,Federal,77.5,21.1,1.4
+2019,Distrito Federal,UF,Total,Estadual,82.9,12.2,4.9
+2019,Distrito Federal,UF,Urbana,Estadual,82.7,12.3,5.0
+2019,Distrito Federal,UF,Rural,Estadual,88.3,8.5,3.2
+2019,Distrito Federal,UF,Total,Privada,96.4,3.6,0.0
+2019,Distrito Federal,UF,Urbana,Privada,96.3,3.6,0.1
+2019,Distrito Federal,UF,Rural,Privada,98.1,1.9,0.0
+2019,Distrito Federal,UF,Total,Pública,83.1,12.2,4.7
+2019,Distrito Federal,UF,Urbana,Pública,83.0,12.2,4.8
+2019,Distrito Federal,UF,Rural,Pública,85.8,11.4,2.8
+2020,Brasil,Brasil,Total,Total,95.0,2.7,2.3
+2020,Brasil,Brasil,Urbana,Total,95.0,2.7,2.3
+2020,Brasil,Brasil,Rural,Total,95.0,2.6,2.4
+2020,Brasil,Brasil,Total,Federal,88.2,10.0,1.8
+2020,Brasil,Brasil,Urbana,Federal,89.2,9.1,1.7
+2020,Brasil,Brasil,Rural,Federal,82.5,15.2,2.3
+2020,Brasil,Brasil,Total,Estadual,94.6,2.8,2.6
+2020,Brasil,Brasil,Urbana,Estadual,94.5,2.9,2.6
+2020,Brasil,Brasil,Rural,Estadual,96.0,1.6,2.4
+2020,Brasil,Brasil,Total,Municipal,97.2,1.3,1.5
+2020,Brasil,Brasil,Urbana,Municipal,97.4,1.3,1.3
+2020,Brasil,Brasil,Rural,Municipal,96.0,1.2,2.8
+2020,Brasil,Brasil,Total,Privada,98.8,0.7,0.5
+2020,Brasil,Brasil,Urbana,Privada,98.9,0.7,0.4
+2020,Brasil,Brasil,Rural,Privada,93.8,2.0,4.2
+2020,Brasil,Brasil,Total,Pública,94.4,3.0,2.6
+2020,Brasil,Brasil,Urbana,Pública,94.4,3.1,2.5
+2020,Brasil,Brasil,Rural,Pública,95.1,2.6,2.3
+2020,Norte,Regiao,Total,Total,96.9,2.0,1.1
+2020,Norte,Regiao,Urbana,Total,96.9,2.1,1.0
+2020,Norte,Regiao,Rural,Total,96.9,1.5,1.6
+2020,Norte,Regiao,Total,Federal,88.3,11.0,0.7
+2020,Norte,Regiao,Urbana,Federal,89.5,9.7,0.8
+2020,Norte,Regiao,Rural,Federal,81.9,17.6,0.5
+2020,Norte,Regiao,Total,Estadual,97.0,1.8,1.2
+2020,Norte,Regiao,Urbana,Estadual,97.0,1.9,1.1
+2020,Norte,Regiao,Rural,Estadual,97.5,1.0,1.5
+2020,Norte,Regiao,Total,Municipal,97.6,0.0,2.4
+2020,Norte,Regiao,Urbana,Municipal,97.6,0.0,2.4
+2020,Norte,Regiao,Rural,Municipal,,,
+2020,Norte,Regiao,Total,Privada,98.1,0.8,1.1
+2020,Norte,Regiao,Urbana,Privada,98.3,0.8,0.9
+2020,Norte,Regiao,Rural,Privada,94.3,0.8,4.9
+2020,Norte,Regiao,Total,Pública,96.8,2.1,1.1
+2020,Norte,Regiao,Urbana,Pública,96.8,2.2,1.0
+2020,Norte,Regiao,Rural,Pública,97.0,1.6,1.4
+2020,Nordeste,Regiao,Total,Total,97.0,0.8,2.2
+2020,Nordeste,Regiao,Urbana,Total,97.2,0.8,2.0
+2020,Nordeste,Regiao,Rural,Total,95.3,1.5,3.2
+2020,Nordeste,Regiao,Total,Federal,85.3,11.7,3.0
+2020,Nordeste,Regiao,Urbana,Federal,85.9,11.0,3.1
+2020,Nordeste,Regiao,Rural,Federal,80.9,16.0,3.1
+2020,Nordeste,Regiao,Total,Estadual,97.3,0.4,2.3
+2020,Nordeste,Regiao,Urbana,Estadual,97.4,0.4,2.2
+2020,Nordeste,Regiao,Rural,Estadual,96.3,0.6,3.1
+2020,Nordeste,Regiao,Total,Municipal,93.2,1.3,5.5
+2020,Nordeste,Regiao,Urbana,Municipal,90.0,1.7,8.3
+2020,Nordeste,Regiao,Rural,Municipal,96.0,1.0,3.0
+2020,Nordeste,Regiao,Total,Privada,98.1,0.8,1.1
+2020,Nordeste,Regiao,Urbana,Privada,98.3,0.7,1.0
+2020,Nordeste,Regiao,Rural,Privada,91.1,3.3,5.6
+2020,Nordeste,Regiao,Total,Pública,96.9,0.8,2.3
+2020,Nordeste,Regiao,Urbana,Pública,97.0,0.8,2.2
+2020,Nordeste,Regiao,Rural,Pública,95.4,1.4,3.2
+2020,Sudeste,Regiao,Total,Total,94.8,3.0,2.2
+2020,Sudeste,Regiao,Urbana,Total,94.8,2.9,2.3
+2020,Sudeste,Regiao,Rural,Total,94.2,4.1,1.7
+2020,Sudeste,Regiao,Total,Federal,92.0,7.1,0.9
+2020,Sudeste,Regiao,Urbana,Federal,92.7,6.4,0.9
+2020,Sudeste,Regiao,Rural,Federal,86.7,12.1,1.2
+2020,Sudeste,Regiao,Total,Estadual,94.0,3.4,2.6
+2020,Sudeste,Regiao,Urbana,Estadual,94.0,3.4,2.6
+2020,Sudeste,Regiao,Rural,Estadual,94.9,3.6,1.5
+2020,Sudeste,Regiao,Total,Municipal,98.1,1.2,0.7
+2020,Sudeste,Regiao,Urbana,Municipal,98.1,1.2,0.7
+2020,Sudeste,Regiao,Rural,Municipal,98.7,0.5,0.8
+2020,Sudeste,Regiao,Total,Privada,99.1,0.6,0.3
+2020,Sudeste,Regiao,Urbana,Privada,99.2,0.6,0.2
+2020,Sudeste,Regiao,Rural,Privada,95.7,1.0,3.3
+2020,Sudeste,Regiao,Total,Pública,94.0,3.4,2.6
+2020,Sudeste,Regiao,Urbana,Pública,94.0,3.4,2.6
+2020,Sudeste,Regiao,Rural,Pública,94.1,4.4,1.5
+2020,Sul,Regiao,Total,Total,91.0,4.8,4.2
+2020,Sul,Regiao,Urbana,Total,90.9,4.8,4.3
+2020,Sul,Regiao,Rural,Total,92.9,3.8,3.3
+2020,Sul,Regiao,Total,Federal,88.0,10.8,1.2
+2020,Sul,Regiao,Urbana,Federal,88.5,10.2,1.3
+2020,Sul,Regiao,Rural,Federal,85.7,13.5,0.8
+2020,Sul,Regiao,Total,Estadual,89.8,5.2,5.0
+2020,Sul,Regiao,Urbana,Estadual,89.7,5.3,5.0
+2020,Sul,Regiao,Rural,Estadual,93.7,2.7,3.6
+2020,Sul,Regiao,Total,Municipal,96.5,0.6,2.9
+2020,Sul,Regiao,Urbana,Municipal,97.4,0.2,2.4
+2020,Sul,Regiao,Rural,Municipal,90.8,3.3,5.9
+2020,Sul,Regiao,Total,Privada,99.1,0.7,0.2
+2020,Sul,Regiao,Urbana,Privada,99.1,0.7,0.2
+2020,Sul,Regiao,Rural,Privada,95.6,1.9,2.5
+2020,Sul,Regiao,Total,Pública,89.8,5.3,4.9
+2020,Sul,Regiao,Urbana,Pública,89.7,5.4,4.9
+2020,Sul,Regiao,Rural,Pública,92.8,3.9,3.3
+2020,Centro-Oeste,Regiao,Total,Total,93.4,5.5,1.1
+2020,Centro-Oeste,Regiao,Urbana,Total,93.4,5.5,1.1
+2020,Centro-Oeste,Regiao,Rural,Total,92.2,6.0,1.8
+2020,Centro-Oeste,Regiao,Total,Federal,87.5,10.3,2.2
+2020,Centro-Oeste,Regiao,Urbana,Federal,90.1,8.5,1.4
+2020,Centro-Oeste,Regiao,Rural,Federal,77.4,17.5,5.1
+2020,Centro-Oeste,Regiao,Total,Estadual,92.8,6.0,1.2
+2020,Centro-Oeste,Regiao,Urbana,Estadual,92.7,6.1,1.2
+2020,Centro-Oeste,Regiao,Rural,Estadual,94.7,4.1,1.2
+2020,Centro-Oeste,Regiao,Total,Municipal,90.9,6.7,2.4
+2020,Centro-Oeste,Regiao,Urbana,Municipal,88.3,8.9,2.8
+2020,Centro-Oeste,Regiao,Rural,Municipal,98.9,0.0,1.1
+2020,Centro-Oeste,Regiao,Total,Privada,98.9,0.8,0.3
+2020,Centro-Oeste,Regiao,Urbana,Privada,99.0,0.7,0.3
+2020,Centro-Oeste,Regiao,Rural,Privada,94.6,3.2,2.2
+2020,Centro-Oeste,Regiao,Total,Pública,92.5,6.2,1.3
+2020,Centro-Oeste,Regiao,Urbana,Pública,92.6,6.2,1.2
+2020,Centro-Oeste,Regiao,Rural,Pública,92.1,6.1,1.8
+2020,Rondônia,UF,Total,Total,90.8,6.9,2.3
+2020,Rondônia,UF,Urbana,Total,91.6,6.7,1.7
+2020,Rondônia,UF,Rural,Total,78.6,9.2,12.2
+2020,Rondônia,UF,Total,Federal,85.2,14.6,0.2
+2020,Rondônia,UF,Urbana,Federal,88.2,11.7,0.1
+2020,Rondônia,UF,Rural,Federal,77.2,22.4,0.4
+2020,Rondônia,UF,Total,Estadual,90.9,6.6,2.5
+2020,Rondônia,UF,Urbana,Estadual,91.4,6.7,1.9
+2020,Rondônia,UF,Rural,Estadual,73.8,3.4,22.8
+2020,Rondônia,UF,Total,Municipal,,,
+2020,Rondônia,UF,Urbana,Municipal,,,
+2020,Rondônia,UF,Rural,Municipal,,,
+2020,Rondônia,UF,Total,Privada,96.4,2.0,1.6
+2020,Rondônia,UF,Urbana,Privada,97.3,2.4,0.3
+2020,Rondônia,UF,Rural,Privada,92.5,0.3,7.2
+2020,Rondônia,UF,Total,Pública,90.5,7.2,2.3
+2020,Rondônia,UF,Urbana,Pública,91.2,7.0,1.8
+2020,Rondônia,UF,Rural,Pública,75.2,11.4,13.4
+2020,Acre,UF,Total,Total,86.0,10.7,3.3
+2020,Acre,UF,Urbana,Total,83.3,13.5,3.2
+2020,Acre,UF,Rural,Total,94.5,1.3,4.2
+2020,Acre,UF,Total,Federal,97.1,1.2,1.7
+2020,Acre,UF,Urbana,Federal,97.1,1.2,1.7
+2020,Acre,UF,Total,Estadual,85.3,11.2,3.5
+2020,Acre,UF,Urbana,Estadual,82.3,14.4,3.3
+2020,Acre,UF,Rural,Estadual,94.5,1.3,4.2
+2020,Acre,UF,Total,Municipal,,,
+2020,Acre,UF,Urbana,Municipal,,,
+2020,Acre,UF,Rural,Municipal,,,
+2020,Acre,UF,Total,Privada,99.5,0.1,0.4
+2020,Acre,UF,Urbana,Privada,99.5,0.1,0.4
+2020,Acre,UF,Total,Pública,85.4,11.1,3.5
+2020,Acre,UF,Urbana,Pública,82.4,14.3,3.3
+2020,Acre,UF,Rural,Pública,94.5,1.3,4.2
+2020,Amazonas,UF,Total,Total,98.5,1.4,0.1
+2020,Amazonas,UF,Urbana,Total,98.6,1.3,0.1
+2020,Amazonas,UF,Rural,Total,97.7,1.8,0.5
+2020,Amazonas,UF,Total,Federal,87.0,12.7,0.3
+2020,Amazonas,UF,Urbana,Federal,87.1,12.5,0.4
+2020,Amazonas,UF,Rural,Federal,85.6,14.4,0.0
+2020,Amazonas,UF,Total,Estadual,98.8,1.0,0.2
+2020,Amazonas,UF,Urbana,Estadual,99.0,0.9,0.1
+2020,Amazonas,UF,Rural,Estadual,98.0,1.6,0.4
+2020,Amazonas,UF,Total,Municipal,,,
+2020,Amazonas,UF,Urbana,Municipal,,,
+2020,Amazonas,UF,Rural,Municipal,,,
+2020,Amazonas,UF,Total,Privada,98.4,1.3,0.3
+2020,Amazonas,UF,Urbana,Privada,98.4,1.3,0.3
+2020,Amazonas,UF,Rural,Privada,100.0,0.0,0.0
+2020,Amazonas,UF,Total,Pública,98.5,1.4,0.1
+2020,Amazonas,UF,Urbana,Pública,98.6,1.3,0.1
+2020,Amazonas,UF,Rural,Pública,97.7,1.8,0.5
+2020,Roraima,UF,Total,Total,98.4,0.8,0.8
+2020,Roraima,UF,Urbana,Total,99.1,0.3,0.6
+2020,Roraima,UF,Rural,Total,95.9,2.4,1.7
+2020,Roraima,UF,Total,Federal,91.4,8.2,0.4
+2020,Roraima,UF,Urbana,Federal,92.2,6.6,1.2
+2020,Roraima,UF,Rural,Federal,91.1,8.7,0.2
+2020,Roraima,UF,Total,Estadual,98.6,0.6,0.8
+2020,Roraima,UF,Urbana,Estadual,99.1,0.3,0.6
+2020,Roraima,UF,Rural,Estadual,96.5,1.6,1.9
+2020,Roraima,UF,Total,Municipal,,,
+2020,Roraima,UF,Urbana,Municipal,,,
+2020,Roraima,UF,Rural,Municipal,,,
+2020,Roraima,UF,Total,Privada,99.5,0.3,0.2
+2020,Roraima,UF,Urbana,Privada,99.5,0.3,0.2
+2020,Roraima,UF,Rural,Privada,100.0,0.0,0.0
+2020,Roraima,UF,Total,Pública,98.3,0.8,0.9
+2020,Roraima,UF,Urbana,Pública,99.1,0.3,0.6
+2020,Roraima,UF,Rural,Pública,95.9,2.4,1.7
+2020,Pará,UF,Total,Total,99.2,0.1,0.7
+2020,Pará,UF,Urbana,Total,99.2,0.1,0.7
+2020,Pará,UF,Rural,Total,99.4,0.2,0.4
+2020,Pará,UF,Total,Federal,94.8,4.3,0.9
+2020,Pará,UF,Urbana,Federal,95.5,3.7,0.8
+2020,Pará,UF,Rural,Federal,71.2,26.0,2.8
+2020,Pará,UF,Total,Estadual,99.4,0.0,0.6
+2020,Pará,UF,Urbana,Estadual,99.4,0.0,0.6
+2020,Pará,UF,Rural,Estadual,99.6,0.0,0.4
+2020,Pará,UF,Total,Municipal,97.6,0.0,2.4
+2020,Pará,UF,Urbana,Municipal,97.6,0.0,2.4
+2020,Pará,UF,Rural,Municipal,,,
+2020,Pará,UF,Total,Privada,97.9,0.6,1.5
+2020,Pará,UF,Urbana,Privada,98.0,0.6,1.4
+2020,Pará,UF,Rural,Privada,91.6,2.2,6.2
+2020,Pará,UF,Total,Pública,99.4,0.1,0.5
+2020,Pará,UF,Urbana,Pública,99.3,0.1,0.6
+2020,Pará,UF,Rural,Pública,99.5,0.1,0.4
+2020,Amapá,UF,Total,Total,90.7,6.9,2.4
+2020,Amapá,UF,Urbana,Total,90.0,7.7,2.3
+2020,Amapá,UF,Rural,Total,94.9,1.6,3.5
+2020,Amapá,UF,Total,Federal,88.7,10.1,1.2
+2020,Amapá,UF,Urbana,Federal,88.7,10.1,1.2
+2020,Amapá,UF,Total,Estadual,89.9,7.4,2.7
+2020,Amapá,UF,Urbana,Estadual,89.1,8.4,2.5
+2020,Amapá,UF,Rural,Estadual,94.8,1.7,3.5
+2020,Amapá,UF,Total,Municipal,,,
+2020,Amapá,UF,Urbana,Municipal,,,
+2020,Amapá,UF,Rural,Municipal,,,
+2020,Amapá,UF,Total,Privada,98.9,0.5,0.6
+2020,Amapá,UF,Urbana,Privada,99.1,0.5,0.4
+2020,Amapá,UF,Rural,Privada,97.0,0.0,3.0
+2020,Amapá,UF,Total,Pública,89.9,7.5,2.6
+2020,Amapá,UF,Urbana,Pública,89.1,8.4,2.5
+2020,Amapá,UF,Rural,Pública,94.8,1.7,3.5
+2020,Tocantins,UF,Total,Total,93.2,2.7,4.1
+2020,Tocantins,UF,Urbana,Total,93.3,2.5,4.2
+2020,Tocantins,UF,Rural,Total,92.5,4.4,3.1
+2020,Tocantins,UF,Total,Federal,80.0,18.2,1.8
+2020,Tocantins,UF,Urbana,Federal,79.1,18.7,2.2
+2020,Tocantins,UF,Rural,Federal,82.2,16.8,1.0
+2020,Tocantins,UF,Total,Estadual,93.5,2.0,4.5
+2020,Tocantins,UF,Urbana,Estadual,93.5,2.0,4.5
+2020,Tocantins,UF,Rural,Estadual,94.1,2.2,3.7
+2020,Tocantins,UF,Total,Municipal,,,
+2020,Tocantins,UF,Urbana,Municipal,,,
+2020,Tocantins,UF,Rural,Municipal,,,
+2020,Tocantins,UF,Total,Privada,99.3,0.5,0.2
+2020,Tocantins,UF,Urbana,Privada,99.3,0.5,0.2
+2020,Tocantins,UF,Rural,Privada,99.2,0.8,0.0
+2020,Tocantins,UF,Total,Pública,92.9,2.8,4.3
+2020,Tocantins,UF,Urbana,Pública,92.9,2.6,4.5
+2020,Tocantins,UF,Rural,Pública,92.2,4.6,3.2
+2020,Maranhão,UF,Total,Total,92.3,2.4,5.3
+2020,Maranhão,UF,Urbana,Total,92.5,2.4,5.1
+2020,Maranhão,UF,Rural,Total,90.8,2.3,6.9
+2020,Maranhão,UF,Total,Federal,81.6,15.6,2.8
+2020,Maranhão,UF,Urbana,Federal,83.5,14.4,2.1
+2020,Maranhão,UF,Rural,Federal,74.7,20.0,5.3
+2020,Maranhão,UF,Total,Estadual,92.4,2.0,5.6
+2020,Maranhão,UF,Urbana,Estadual,92.5,2.1,5.4
+2020,Maranhão,UF,Rural,Estadual,91.8,1.4,6.8
+2020,Maranhão,UF,Total,Municipal,92.7,0.1,7.2
+2020,Maranhão,UF,Urbana,Municipal,99.5,0.0,0.5
+2020,Maranhão,UF,Rural,Municipal,84.4,0.3,15.3
+2020,Maranhão,UF,Total,Privada,96.9,1.4,1.7
+2020,Maranhão,UF,Urbana,Privada,97.5,1.5,1.0
+2020,Maranhão,UF,Rural,Privada,90.5,0.3,9.2
+2020,Maranhão,UF,Total,Pública,92.0,2.5,5.5
+2020,Maranhão,UF,Urbana,Pública,92.2,2.5,5.3
+2020,Maranhão,UF,Rural,Pública,90.8,2.3,6.9
+2020,Piauí,UF,Total,Total,93.5,1.2,5.3
+2020,Piauí,UF,Urbana,Total,93.7,1.2,5.1
+2020,Piauí,UF,Rural,Total,90.2,2.0,7.8
+2020,Piauí,UF,Total,Federal,83.7,14.3,2.0
+2020,Piauí,UF,Urbana,Federal,83.5,14.5,2.0
+2020,Piauí,UF,Rural,Federal,85.6,12.9,1.5
+2020,Piauí,UF,Total,Estadual,93.6,0.4,6.0
+2020,Piauí,UF,Urbana,Estadual,93.8,0.3,5.9
+2020,Piauí,UF,Rural,Estadual,90.5,1.0,8.5
+2020,Piauí,UF,Total,Municipal,74.3,5.1,20.6
+2020,Piauí,UF,Urbana,Municipal,72.0,5.9,22.1
+2020,Piauí,UF,Rural,Municipal,88.2,0.0,11.8
+2020,Piauí,UF,Total,Privada,98.3,1.0,0.7
+2020,Piauí,UF,Urbana,Privada,98.3,1.0,0.7
+2020,Piauí,UF,Rural,Privada,100.0,0.0,0.0
+2020,Piauí,UF,Total,Pública,92.9,1.2,5.9
+2020,Piauí,UF,Urbana,Pública,93.1,1.2,5.7
+2020,Piauí,UF,Rural,Pública,90.1,2.0,7.9
+2020,Ceará,UF,Total,Total,97.0,0.2,2.8
+2020,Ceará,UF,Urbana,Total,97.0,0.2,2.8
+2020,Ceará,UF,Rural,Total,97.3,0.6,2.1
+2020,Ceará,UF,Total,Federal,80.9,14.4,4.7
+2020,Ceará,UF,Urbana,Federal,82.6,13.4,4.0
+2020,Ceará,UF,Rural,Federal,66.4,22.6,11.0
+2020,Ceará,UF,Total,Estadual,97.1,0.0,2.9
+2020,Ceará,UF,Urbana,Estadual,97.0,0.0,3.0
+2020,Ceará,UF,Rural,Estadual,98.2,0.0,1.8
+2020,Ceará,UF,Total,Municipal,,,
+2020,Ceará,UF,Urbana,Municipal,,,
+2020,Ceará,UF,Rural,Municipal,,,
+2020,Ceará,UF,Total,Privada,98.8,0.6,0.6
+2020,Ceará,UF,Urbana,Privada,98.8,0.6,0.6
+2020,Ceará,UF,Rural,Privada,86.3,0.0,13.7
+2020,Ceará,UF,Total,Pública,96.8,0.2,3.0
+2020,Ceará,UF,Urbana,Pública,96.8,0.2,3.0
+2020,Ceará,UF,Rural,Pública,97.4,0.6,2.0
+2020,Rio Grande do Norte,UF,Total,Total,98.4,1.0,0.6
+2020,Rio Grande do Norte,UF,Urbana,Total,98.4,1.0,0.6
+2020,Rio Grande do Norte,UF,Rural,Total,98.0,1.6,0.4
+2020,Rio Grande do Norte,UF,Total,Federal,92.9,6.1,1.0
+2020,Rio Grande do Norte,UF,Urbana,Federal,92.8,6.2,1.0
+2020,Rio Grande do Norte,UF,Rural,Federal,93.8,5.6,0.6
+2020,Rio Grande do Norte,UF,Total,Estadual,99.3,0.3,0.4
+2020,Rio Grande do Norte,UF,Urbana,Estadual,99.2,0.3,0.5
+2020,Rio Grande do Norte,UF,Rural,Estadual,99.7,0.1,0.2
+2020,Rio Grande do Norte,UF,Total,Municipal,,,
+2020,Rio Grande do Norte,UF,Urbana,Municipal,,,
+2020,Rio Grande do Norte,UF,Rural,Municipal,,,
+2020,Rio Grande do Norte,UF,Total,Privada,97.4,1.1,1.5
+2020,Rio Grande do Norte,UF,Urbana,Privada,97.4,1.1,1.5
+2020,Rio Grande do Norte,UF,Rural,Privada,100.0,0.0,0.0
+2020,Rio Grande do Norte,UF,Total,Pública,98.5,1.0,0.5
+2020,Rio Grande do Norte,UF,Urbana,Pública,98.6,0.9,0.5
+2020,Rio Grande do Norte,UF,Rural,Pública,98.0,1.7,0.3
+2020,Paraíba,UF,Total,Total,97.1,0.5,2.4
+2020,Paraíba,UF,Urbana,Total,97.0,0.5,2.5
+2020,Paraíba,UF,Rural,Total,98.2,0.2,1.6
+2020,Paraíba,UF,Total,Federal,91.2,7.5,1.3
+2020,Paraíba,UF,Urbana,Federal,91.1,7.7,1.2
+2020,Paraíba,UF,Rural,Federal,95.7,2.5,1.8
+2020,Paraíba,UF,Total,Estadual,97.2,0.1,2.7
+2020,Paraíba,UF,Urbana,Estadual,97.2,0.1,2.7
+2020,Paraíba,UF,Rural,Estadual,98.2,0.2,1.6
+2020,Paraíba,UF,Total,Municipal,99.7,0.0,0.3
+2020,Paraíba,UF,Urbana,Municipal,99.7,0.0,0.3
+2020,Paraíba,UF,Rural,Municipal,,,
+2020,Paraíba,UF,Total,Privada,98.0,0.6,1.4
+2020,Paraíba,UF,Urbana,Privada,98.0,0.6,1.4
+2020,Paraíba,UF,Rural,Privada,,,
+2020,Paraíba,UF,Total,Pública,96.9,0.4,2.7
+2020,Paraíba,UF,Urbana,Pública,96.9,0.5,2.6
+2020,Paraíba,UF,Rural,Pública,98.2,0.2,1.6
+2020,Pernambuco,UF,Total,Total,98.8,0.9,0.3
+2020,Pernambuco,UF,Urbana,Total,98.9,0.8,0.3
+2020,Pernambuco,UF,Rural,Total,96.7,2.4,0.9
+2020,Pernambuco,UF,Total,Federal,79.8,15.3,4.9
+2020,Pernambuco,UF,Urbana,Federal,80.0,14.0,6.0
+2020,Pernambuco,UF,Rural,Federal,79.4,19.5,1.1
+2020,Pernambuco,UF,Total,Estadual,99.3,0.5,0.2
+2020,Pernambuco,UF,Urbana,Estadual,99.4,0.5,0.1
+2020,Pernambuco,UF,Rural,Estadual,98.4,0.7,0.9
+2020,Pernambuco,UF,Total,Municipal,96.9,0.0,3.1
+2020,Pernambuco,UF,Urbana,Municipal,92.9,0.0,7.1
+2020,Pernambuco,UF,Rural,Municipal,100.0,0.0,0.0
+2020,Pernambuco,UF,Total,Privada,98.6,0.6,0.8
+2020,Pernambuco,UF,Urbana,Privada,98.6,0.6,0.8
+2020,Pernambuco,UF,Rural,Privada,98.9,1.1,0.0
+2020,Pernambuco,UF,Total,Pública,98.8,0.9,0.3
+2020,Pernambuco,UF,Urbana,Pública,98.9,0.8,0.3
+2020,Pernambuco,UF,Rural,Pública,96.6,2.4,1.0
+2020,Alagoas,UF,Total,Total,99.2,0.3,0.5
+2020,Alagoas,UF,Urbana,Total,99.2,0.3,0.5
+2020,Alagoas,UF,Rural,Total,99.7,0.1,0.2
+2020,Alagoas,UF,Total,Federal,87.0,9.4,3.6
+2020,Alagoas,UF,Urbana,Federal,87.0,9.4,3.6
+2020,Alagoas,UF,Total,Estadual,99.7,0.0,0.3
+2020,Alagoas,UF,Urbana,Estadual,99.7,0.0,0.3
+2020,Alagoas,UF,Rural,Estadual,99.9,0.0,0.1
+2020,Alagoas,UF,Total,Municipal,,,
+2020,Alagoas,UF,Urbana,Municipal,,,
+2020,Alagoas,UF,Rural,Municipal,,,
+2020,Alagoas,UF,Total,Privada,98.1,0.8,1.1
+2020,Alagoas,UF,Urbana,Privada,98.2,0.7,1.1
+2020,Alagoas,UF,Rural,Privada,70.6,23.5,5.9
+2020,Alagoas,UF,Total,Pública,99.3,0.3,0.4
+2020,Alagoas,UF,Urbana,Pública,99.3,0.3,0.4
+2020,Alagoas,UF,Rural,Pública,99.9,0.0,0.1
+2020,Sergipe,UF,Total,Total,97.6,0.4,2.0
+2020,Sergipe,UF,Urbana,Total,97.7,0.3,2.0
+2020,Sergipe,UF,Rural,Total,95.4,2.7,1.9
+2020,Sergipe,UF,Total,Federal,86.4,12.7,0.9
+2020,Sergipe,UF,Urbana,Federal,88.4,11.3,0.3
+2020,Sergipe,UF,Rural,Federal,83.3,14.7,2.0
+2020,Sergipe,UF,Total,Estadual,97.6,0.0,2.4
+2020,Sergipe,UF,Urbana,Estadual,97.6,0.0,2.4
+2020,Sergipe,UF,Rural,Estadual,98.1,0.0,1.9
+2020,Sergipe,UF,Total,Municipal,,,
+2020,Sergipe,UF,Urbana,Municipal,,,
+2020,Sergipe,UF,Rural,Municipal,,,
+2020,Sergipe,UF,Total,Privada,99.0,0.6,0.4
+2020,Sergipe,UF,Urbana,Privada,99.0,0.6,0.4
+2020,Sergipe,UF,Rural,Privada,,,
+2020,Sergipe,UF,Total,Pública,97.3,0.4,2.3
+2020,Sergipe,UF,Urbana,Pública,97.4,0.2,2.4
+2020,Sergipe,UF,Rural,Pública,95.4,2.7,1.9
+2020,Bahia,UF,Total,Total,98.7,0.3,1.0
+2020,Bahia,UF,Urbana,Total,98.8,0.3,0.9
+2020,Bahia,UF,Rural,Total,98.3,0.6,1.1
+2020,Bahia,UF,Total,Federal,81.6,11.3,7.1
+2020,Bahia,UF,Urbana,Federal,81.5,11.4,7.1
+2020,Bahia,UF,Rural,Federal,92.9,0.0,7.1
+2020,Bahia,UF,Total,Estadual,99.2,0.1,0.7
+2020,Bahia,UF,Urbana,Estadual,99.2,0.1,0.7
+2020,Bahia,UF,Rural,Estadual,99.3,0.0,0.7
+2020,Bahia,UF,Total,Municipal,94.5,1.5,4.0
+2020,Bahia,UF,Urbana,Municipal,88.4,1.8,9.8
+2020,Bahia,UF,Rural,Municipal,97.8,1.3,0.9
+2020,Bahia,UF,Total,Privada,97.9,0.8,1.3
+2020,Bahia,UF,Urbana,Privada,98.4,0.5,1.1
+2020,Bahia,UF,Rural,Privada,90.7,4.7,4.6
+2020,Bahia,UF,Total,Pública,98.9,0.3,0.8
+2020,Bahia,UF,Urbana,Pública,98.8,0.3,0.9
+2020,Bahia,UF,Rural,Pública,99.2,0.1,0.7
+2020,Minas Gerais,UF,Total,Total,90.7,2.0,7.3
+2020,Minas Gerais,UF,Urbana,Total,90.6,2.0,7.4
+2020,Minas Gerais,UF,Rural,Total,93.1,3.0,3.9
+2020,Minas Gerais,UF,Total,Federal,91.8,7.4,0.8
+2020,Minas Gerais,UF,Urbana,Federal,92.7,6.4,0.9
+2020,Minas Gerais,UF,Rural,Federal,87.7,11.8,0.5
+2020,Minas Gerais,UF,Total,Estadual,89.7,2.0,8.3
+2020,Minas Gerais,UF,Urbana,Estadual,89.5,2.0,8.5
+2020,Minas Gerais,UF,Rural,Estadual,94.7,0.7,4.6
+2020,Minas Gerais,UF,Total,Municipal,96.7,1.6,1.7
+2020,Minas Gerais,UF,Urbana,Municipal,96.7,1.7,1.6
+2020,Minas Gerais,UF,Rural,Municipal,96.4,0.6,3.0
+2020,Minas Gerais,UF,Total,Privada,98.9,0.7,0.4
+2020,Minas Gerais,UF,Urbana,Privada,99.1,0.7,0.2
+2020,Minas Gerais,UF,Rural,Privada,91.6,0.9,7.5
+2020,Minas Gerais,UF,Total,Pública,89.8,2.2,8.0
+2020,Minas Gerais,UF,Urbana,Pública,89.7,2.1,8.2
+2020,Minas Gerais,UF,Rural,Pública,93.2,3.2,3.6
+2020,Espírito Santo,UF,Total,Total,97.1,0.7,2.2
+2020,Espírito Santo,UF,Urbana,Total,97.2,0.6,2.2
+2020,Espírito Santo,UF,Rural,Total,95.2,2.5,2.3
+2020,Espírito Santo,UF,Total,Federal,87.0,11.0,2.0
+2020,Espírito Santo,UF,Urbana,Federal,86.8,11.4,1.8
+2020,Espírito Santo,UF,Rural,Federal,87.7,9.4,2.9
+2020,Espírito Santo,UF,Total,Estadual,97.5,0.0,2.5
+2020,Espírito Santo,UF,Urbana,Estadual,97.5,0.0,2.5
+2020,Espírito Santo,UF,Rural,Estadual,98.7,0.0,1.3
+2020,Espírito Santo,UF,Total,Municipal,100.0,0.0,0.0
+2020,Espírito Santo,UF,Urbana,Municipal,,,
+2020,Espírito Santo,UF,Rural,Municipal,100.0,0.0,0.0
+2020,Espírito Santo,UF,Total,Privada,99.2,0.4,0.4
+2020,Espírito Santo,UF,Urbana,Privada,99.6,0.4,0.0
+2020,Espírito Santo,UF,Rural,Privada,95.7,0.7,3.6
+2020,Espírito Santo,UF,Total,Pública,96.8,0.7,2.5
+2020,Espírito Santo,UF,Urbana,Pública,96.9,0.6,2.5
+2020,Espírito Santo,UF,Rural,Pública,95.1,3.1,1.8
+2020,Rio de Janeiro,UF,Total,Total,91.7,7.8,0.5
+2020,Rio de Janeiro,UF,Urbana,Total,91.6,7.9,0.5
+2020,Rio de Janeiro,UF,Rural,Total,93.0,6.4,0.6
+2020,Rio de Janeiro,UF,Total,Federal,92.6,6.3,1.1
+2020,Rio de Janeiro,UF,Urbana,Federal,93.4,5.6,1.0
+2020,Rio de Janeiro,UF,Rural,Federal,78.3,20.0,1.7
+2020,Rio de Janeiro,UF,Total,Estadual,90.1,9.5,0.4
+2020,Rio de Janeiro,UF,Urbana,Estadual,89.9,9.6,0.5
+2020,Rio de Janeiro,UF,Rural,Estadual,93.3,6.2,0.5
+2020,Rio de Janeiro,UF,Total,Municipal,94.2,2.7,3.1
+2020,Rio de Janeiro,UF,Urbana,Municipal,94.2,2.7,3.1
+2020,Rio de Janeiro,UF,Rural,Municipal,,,
+2020,Rio de Janeiro,UF,Total,Privada,98.2,1.1,0.7
+2020,Rio de Janeiro,UF,Urbana,Privada,98.2,1.1,0.7
+2020,Rio de Janeiro,UF,Rural,Privada,98.1,1.4,0.5
+2020,Rio de Janeiro,UF,Total,Pública,90.1,9.4,0.5
+2020,Rio de Janeiro,UF,Urbana,Pública,90.1,9.5,0.4
+2020,Rio de Janeiro,UF,Rural,Pública,92.7,6.7,0.6
+2020,São Paulo,UF,Total,Total,97.8,1.8,0.4
+2020,São Paulo,UF,Urbana,Total,97.8,1.7,0.5
+2020,São Paulo,UF,Rural,Total,96.0,3.8,0.2
+2020,São Paulo,UF,Total,Federal,95.2,4.7,0.1
+2020,São Paulo,UF,Urbana,Federal,95.2,4.7,0.1
+2020,São Paulo,UF,Total,Estadual,97.5,2.0,0.5
+2020,São Paulo,UF,Urbana,Estadual,97.5,2.0,0.5
+2020,São Paulo,UF,Rural,Estadual,95.7,4.1,0.2
+2020,São Paulo,UF,Total,Municipal,99.0,0.8,0.2
+2020,São Paulo,UF,Urbana,Municipal,99.0,0.8,0.2
+2020,São Paulo,UF,Rural,Municipal,99.5,0.5,0.0
+2020,São Paulo,UF,Total,Privada,99.6,0.4,0.0
+2020,São Paulo,UF,Urbana,Privada,99.6,0.4,0.0
+2020,São Paulo,UF,Rural,Privada,98.7,1.0,0.3
+2020,São Paulo,UF,Total,Pública,97.5,2.0,0.5
+2020,São Paulo,UF,Urbana,Pública,97.5,2.0,0.5
+2020,São Paulo,UF,Rural,Pública,95.8,4.0,0.2
+2020,Paraná,UF,Total,Total,92.4,4.5,3.1
+2020,Paraná,UF,Urbana,Total,92.3,4.5,3.2
+2020,Paraná,UF,Rural,Total,96.0,2.4,1.6
+2020,Paraná,UF,Total,Federal,90.6,8.7,0.7
+2020,Paraná,UF,Urbana,Federal,90.5,8.8,0.7
+2020,Paraná,UF,Rural,Federal,91.7,8.3,0.0
+2020,Paraná,UF,Total,Estadual,91.3,5.0,3.7
+2020,Paraná,UF,Urbana,Estadual,91.1,5.2,3.7
+2020,Paraná,UF,Rural,Estadual,96.0,2.4,1.6
+2020,Paraná,UF,Total,Municipal,100.0,0.0,0.0
+2020,Paraná,UF,Urbana,Municipal,,,
+2020,Paraná,UF,Rural,Municipal,100.0,0.0,0.0
+2020,Paraná,UF,Total,Privada,99.4,0.6,0.0
+2020,Paraná,UF,Urbana,Privada,99.4,0.6,0.0
+2020,Paraná,UF,Rural,Privada,98.2,1.1,0.7
+2020,Paraná,UF,Total,Pública,91.3,5.1,3.6
+2020,Paraná,UF,Urbana,Pública,91.1,5.2,3.7
+2020,Paraná,UF,Rural,Pública,96.0,2.5,1.5
+2020,Santa Catarina,UF,Total,Total,86.4,10.0,3.6
+2020,Santa Catarina,UF,Urbana,Total,86.3,10.1,3.6
+2020,Santa Catarina,UF,Rural,Total,89.9,6.7,3.4
+2020,Santa Catarina,UF,Total,Federal,86.4,12.4,1.2
+2020,Santa Catarina,UF,Urbana,Federal,86.8,11.9,1.3
+2020,Santa Catarina,UF,Rural,Federal,81.8,18.1,0.1
+2020,Santa Catarina,UF,Total,Estadual,84.5,11.3,4.2
+2020,Santa Catarina,UF,Urbana,Estadual,84.3,11.4,4.3
+2020,Santa Catarina,UF,Rural,Estadual,90.7,5.3,4.0
+2020,Santa Catarina,UF,Total,Municipal,96.1,0.5,3.4
+2020,Santa Catarina,UF,Urbana,Municipal,99.3,0.7,0.0
+2020,Santa Catarina,UF,Rural,Municipal,88.4,0.0,11.6
+2020,Santa Catarina,UF,Total,Privada,99.2,0.6,0.2
+2020,Santa Catarina,UF,Urbana,Privada,99.2,0.6,0.2
+2020,Santa Catarina,UF,Rural,Privada,100.0,0.0,0.0
+2020,Santa Catarina,UF,Total,Pública,84.6,11.3,4.1
+2020,Santa Catarina,UF,Urbana,Pública,84.5,11.5,4.0
+2020,Santa Catarina,UF,Rural,Pública,89.4,7.0,3.6
+2020,Rio Grande do Sul,UF,Total,Total,92.7,1.1,6.2
+2020,Rio Grande do Sul,UF,Urbana,Total,92.8,1.0,6.2
+2020,Rio Grande do Sul,UF,Rural,Total,90.4,4.1,5.5
+2020,Rio Grande do Sul,UF,Total,Federal,89.5,9.0,1.5
+2020,Rio Grande do Sul,UF,Urbana,Federal,91.6,6.6,1.8
+2020,Rio Grande do Sul,UF,Rural,Federal,86.5,12.2,1.3
+2020,Rio Grande do Sul,UF,Total,Estadual,91.9,1.0,7.1
+2020,Rio Grande do Sul,UF,Urbana,Estadual,91.9,0.9,7.2
+2020,Rio Grande do Sul,UF,Rural,Estadual,91.4,1.8,6.8
+2020,Rio Grande do Sul,UF,Total,Municipal,96.6,0.6,2.8
+2020,Rio Grande do Sul,UF,Urbana,Municipal,97.2,0.2,2.6
+2020,Rio Grande do Sul,UF,Rural,Municipal,91.6,4.3,4.1
+2020,Rio Grande do Sul,UF,Total,Privada,98.6,1.1,0.3
+2020,Rio Grande do Sul,UF,Urbana,Privada,98.7,1.1,0.2
+2020,Rio Grande do Sul,UF,Rural,Privada,89.2,4.4,6.4
+2020,Rio Grande do Sul,UF,Total,Pública,91.9,1.1,7.0
+2020,Rio Grande do Sul,UF,Urbana,Pública,92.0,1.0,7.0
+2020,Rio Grande do Sul,UF,Rural,Pública,90.4,4.1,5.5
+2020,Mato Grosso do Sul,UF,Total,Total,87.2,12.1,0.7
+2020,Mato Grosso do Sul,UF,Urbana,Total,87.1,12.2,0.7
+2020,Mato Grosso do Sul,UF,Rural,Total,87.5,11.0,1.5
+2020,Mato Grosso do Sul,UF,Total,Federal,92.8,5.4,1.8
+2020,Mato Grosso do Sul,UF,Urbana,Federal,95.0,3.7,1.3
+2020,Mato Grosso do Sul,UF,Rural,Federal,82.7,13.5,3.8
+2020,Mato Grosso do Sul,UF,Total,Estadual,85.6,13.7,0.7
+2020,Mato Grosso do Sul,UF,Urbana,Estadual,85.4,13.9,0.7
+2020,Mato Grosso do Sul,UF,Rural,Estadual,88.0,11.1,0.9
+2020,Mato Grosso do Sul,UF,Total,Municipal,100.0,0.0,0.0
+2020,Mato Grosso do Sul,UF,Urbana,Municipal,,,
+2020,Mato Grosso do Sul,UF,Rural,Municipal,100.0,0.0,0.0
+2020,Mato Grosso do Sul,UF,Total,Privada,98.8,0.8,0.4
+2020,Mato Grosso do Sul,UF,Urbana,Privada,99.3,0.5,0.2
+2020,Mato Grosso do Sul,UF,Rural,Privada,88.4,7.1,4.5
+2020,Mato Grosso do Sul,UF,Total,Pública,86.0,13.2,0.8
+2020,Mato Grosso do Sul,UF,Urbana,Pública,85.9,13.4,0.7
+2020,Mato Grosso do Sul,UF,Rural,Pública,87.5,11.3,1.2
+2020,Mato Grosso,UF,Total,Total,98.0,1.3,0.7
+2020,Mato Grosso,UF,Urbana,Total,98.3,1.1,0.6
+2020,Mato Grosso,UF,Rural,Total,96.1,2.6,1.3
+2020,Mato Grosso,UF,Total,Federal,87.2,12.3,0.5
+2020,Mato Grosso,UF,Urbana,Federal,89.1,10.3,0.6
+2020,Mato Grosso,UF,Rural,Federal,81.0,18.7,0.3
+2020,Mato Grosso,UF,Total,Estadual,98.7,0.6,0.7
+2020,Mato Grosso,UF,Urbana,Estadual,98.8,0.6,0.6
+2020,Mato Grosso,UF,Rural,Estadual,98.0,0.6,1.4
+2020,Mato Grosso,UF,Total,Municipal,,,
+2020,Mato Grosso,UF,Urbana,Municipal,,,
+2020,Mato Grosso,UF,Rural,Municipal,,,
+2020,Mato Grosso,UF,Total,Privada,99.0,0.6,0.4
+2020,Mato Grosso,UF,Urbana,Privada,99.0,0.7,0.3
+2020,Mato Grosso,UF,Rural,Privada,100.0,0.0,0.0
+2020,Mato Grosso,UF,Total,Pública,97.9,1.3,0.8
+2020,Mato Grosso,UF,Urbana,Pública,98.2,1.1,0.7
+2020,Mato Grosso,UF,Rural,Pública,96.0,2.6,1.4
+2020,Goiás,UF,Total,Total,96.1,2.2,1.7
+2020,Goiás,UF,Urbana,Total,96.2,2.1,1.7
+2020,Goiás,UF,Rural,Total,89.5,5.4,5.1
+2020,Goiás,UF,Total,Federal,83.5,11.7,4.8
+2020,Goiás,UF,Urbana,Federal,87.3,10.6,2.1
+2020,Goiás,UF,Rural,Federal,68.7,16.1,15.2
+2020,Goiás,UF,Total,Estadual,96.2,2.0,1.8
+2020,Goiás,UF,Urbana,Estadual,96.2,2.0,1.8
+2020,Goiás,UF,Rural,Estadual,96.6,1.7,1.7
+2020,Goiás,UF,Total,Municipal,89.3,7.9,2.8
+2020,Goiás,UF,Urbana,Municipal,88.3,8.9,2.8
+2020,Goiás,UF,Rural,Municipal,97.4,0.0,2.6
+2020,Goiás,UF,Total,Privada,98.4,1.1,0.5
+2020,Goiás,UF,Urbana,Privada,98.5,1.1,0.4
+2020,Goiás,UF,Rural,Privada,95.9,2.4,1.7
+2020,Goiás,UF,Total,Pública,95.8,2.3,1.9
+2020,Goiás,UF,Urbana,Pública,95.9,2.3,1.8
+2020,Goiás,UF,Rural,Pública,88.5,5.9,5.6
+2020,Distrito Federal,UF,Total,Total,87.4,12.0,0.6
+2020,Distrito Federal,UF,Urbana,Total,87.5,11.9,0.6
+2020,Distrito Federal,UF,Rural,Total,85.5,14.5,0.0
+2020,Distrito Federal,UF,Total,Federal,88.5,9.9,1.6
+2020,Distrito Federal,UF,Urbana,Federal,90.5,7.6,1.9
+2020,Distrito Federal,UF,Rural,Federal,78.0,22.0,0.0
+2020,Distrito Federal,UF,Total,Estadual,83.8,15.5,0.7
+2020,Distrito Federal,UF,Urbana,Estadual,83.7,15.6,0.7
+2020,Distrito Federal,UF,Rural,Estadual,85.9,14.1,0.0
+2020,Distrito Federal,UF,Total,Privada,99.5,0.5,0.0
+2020,Distrito Federal,UF,Urbana,Privada,99.5,0.5,0.0
+2020,Distrito Federal,UF,Rural,Privada,100.0,0.0,0.0
+2020,Distrito Federal,UF,Total,Pública,84.0,15.3,0.7
+2020,Distrito Federal,UF,Urbana,Pública,84.0,15.3,0.7
+2020,Distrito Federal,UF,Rural,Pública,84.2,15.8,0.0
+2021,Brasil,Brasil,Total,Total,90.8,4.2,5.0
+2021,Brasil,Brasil,Urbana,Total,91.0,4.2,4.8
+2021,Brasil,Brasil,Rural,Total,87.9,5.3,6.8
+2021,Brasil,Brasil,Total,Federal,86.4,11.7,1.9
+2021,Brasil,Brasil,Urbana,Federal,87.2,10.9,1.9
+2021,Brasil,Brasil,Rural,Federal,80.7,16.8,2.5
+2021,Brasil,Brasil,Total,Estadual,89.8,4.4,5.8
+2021,Brasil,Brasil,Urbana,Estadual,89.9,4.4,5.7
+2021,Brasil,Brasil,Rural,Estadual,88.4,4.5,7.1
+2021,Brasil,Brasil,Total,Municipal,93.7,3.4,2.9
+2021,Brasil,Brasil,Urbana,Municipal,94.4,3.1,2.5
+2021,Brasil,Brasil,Rural,Municipal,87.7,5.1,7.2
+2021,Brasil,Brasil,Total,Privada,98.5,1.3,0.2
+2021,Brasil,Brasil,Urbana,Privada,98.6,1.2,0.2
+2021,Brasil,Brasil,Rural,Privada,91.2,3.1,5.7
+2021,Brasil,Brasil,Total,Pública,89.8,4.6,5.6
+2021,Brasil,Brasil,Urbana,Pública,89.9,4.6,5.5
+2021,Brasil,Brasil,Rural,Pública,87.8,5.3,6.9
+2021,Norte,Regiao,Total,Total,81.9,8.0,10.1
+2021,Norte,Regiao,Urbana,Total,81.7,8.3,10.0
+2021,Norte,Regiao,Rural,Total,83.6,6.0,10.4
+2021,Norte,Regiao,Total,Federal,85.3,12.3,2.4
+2021,Norte,Regiao,Urbana,Federal,86.5,11.4,2.1
+2021,Norte,Regiao,Rural,Federal,78.3,17.8,3.9
+2021,Norte,Regiao,Total,Estadual,80.8,8.2,11.0
+2021,Norte,Regiao,Urbana,Estadual,80.3,8.7,11.0
+2021,Norte,Regiao,Rural,Estadual,83.6,5.6,10.8
+2021,Norte,Regiao,Total,Municipal,97.3,0.0,2.7
+2021,Norte,Regiao,Urbana,Municipal,97.3,0.0,2.7
+2021,Norte,Regiao,Rural,Municipal,,,
+2021,Norte,Regiao,Total,Privada,98.1,1.6,0.3
+2021,Norte,Regiao,Urbana,Privada,98.3,1.5,0.2
+2021,Norte,Regiao,Rural,Privada,92.6,2.5,4.9
+2021,Norte,Regiao,Total,Pública,80.9,8.4,10.7
+2021,Norte,Regiao,Urbana,Pública,80.5,8.8,10.7
+2021,Norte,Regiao,Rural,Pública,83.4,6.0,10.6
+2021,Nordeste,Regiao,Total,Total,91.0,2.7,6.3
+2021,Nordeste,Regiao,Urbana,Total,91.2,2.7,6.1
+2021,Nordeste,Regiao,Rural,Total,88.7,3.7,7.6
+2021,Nordeste,Regiao,Total,Federal,84.8,12.6,2.6
+2021,Nordeste,Regiao,Urbana,Federal,85.3,12.0,2.7
+2021,Nordeste,Regiao,Rural,Federal,80.6,17.0,2.4
+2021,Nordeste,Regiao,Total,Estadual,90.5,2.5,7.0
+2021,Nordeste,Regiao,Urbana,Estadual,90.6,2.5,6.9
+2021,Nordeste,Regiao,Rural,Estadual,89.4,2.8,7.8
+2021,Nordeste,Regiao,Total,Municipal,85.0,4.8,10.2
+2021,Nordeste,Regiao,Urbana,Municipal,84.5,2.9,12.6
+2021,Nordeste,Regiao,Rural,Municipal,85.2,6.1,8.7
+2021,Nordeste,Regiao,Total,Privada,98.1,1.2,0.7
+2021,Nordeste,Regiao,Urbana,Privada,98.5,1.2,0.3
+2021,Nordeste,Regiao,Rural,Privada,84.2,4.1,11.7
+2021,Nordeste,Regiao,Total,Pública,90.3,2.9,6.8
+2021,Nordeste,Regiao,Urbana,Pública,90.5,2.8,6.7
+2021,Nordeste,Regiao,Rural,Pública,88.9,3.6,7.5
+2021,Sudeste,Regiao,Total,Total,93.8,3.2,3.0
+2021,Sudeste,Regiao,Urbana,Total,93.8,3.2,3.0
+2021,Sudeste,Regiao,Rural,Total,94.3,3.6,2.1
+2021,Sudeste,Regiao,Total,Federal,90.3,8.7,1.0
+2021,Sudeste,Regiao,Urbana,Federal,90.9,8.1,1.0
+2021,Sudeste,Regiao,Rural,Federal,85.5,12.8,1.7
+2021,Sudeste,Regiao,Total,Estadual,92.9,3.5,3.6
+2021,Sudeste,Regiao,Urbana,Estadual,92.9,3.5,3.6
+2021,Sudeste,Regiao,Rural,Estadual,95.4,2.5,2.1
+2021,Sudeste,Regiao,Total,Municipal,96.0,2.8,1.2
+2021,Sudeste,Regiao,Urbana,Municipal,96.0,2.9,1.1
+2021,Sudeste,Regiao,Rural,Municipal,96.7,2.3,1.0
+2021,Sudeste,Regiao,Total,Privada,98.7,1.2,0.1
+2021,Sudeste,Regiao,Urbana,Privada,98.7,1.2,0.1
+2021,Sudeste,Regiao,Rural,Privada,95.3,2.2,2.5
+2021,Sudeste,Regiao,Total,Pública,92.9,3.6,3.5
+2021,Sudeste,Regiao,Urbana,Pública,92.9,3.6,3.5
+2021,Sudeste,Regiao,Rural,Pública,94.2,3.7,2.1
+2021,Sul,Regiao,Total,Total,89.4,4.9,5.7
+2021,Sul,Regiao,Urbana,Total,89.4,4.9,5.7
+2021,Sul,Regiao,Rural,Total,91.6,4.1,4.3
+2021,Sul,Regiao,Total,Federal,86.5,11.4,2.1
+2021,Sul,Regiao,Urbana,Federal,86.6,11.5,1.9
+2021,Sul,Regiao,Rural,Federal,86.0,11.0,3.0
+2021,Sul,Regiao,Total,Estadual,88.2,5.1,6.7
+2021,Sul,Regiao,Urbana,Estadual,88.0,5.2,6.8
+2021,Sul,Regiao,Rural,Estadual,92.2,3.2,4.6
+2021,Sul,Regiao,Total,Municipal,86.8,5.3,7.9
+2021,Sul,Regiao,Urbana,Municipal,86.2,5.6,8.2
+2021,Sul,Regiao,Rural,Municipal,90.4,3.2,6.4
+2021,Sul,Regiao,Total,Privada,98.3,1.5,0.2
+2021,Sul,Regiao,Urbana,Privada,98.3,1.5,0.2
+2021,Sul,Regiao,Rural,Privada,95.5,3.1,1.4
+2021,Sul,Regiao,Total,Pública,88.1,5.4,6.5
+2021,Sul,Regiao,Urbana,Pública,88.0,5.4,6.6
+2021,Sul,Regiao,Rural,Pública,91.4,4.1,4.5
+2021,Centro-Oeste,Regiao,Total,Total,89.5,8.3,2.2
+2021,Centro-Oeste,Regiao,Urbana,Total,89.9,7.9,2.2
+2021,Centro-Oeste,Regiao,Rural,Total,82.6,14.3,3.1
+2021,Centro-Oeste,Regiao,Total,Federal,82.0,16.6,1.4
+2021,Centro-Oeste,Regiao,Urbana,Federal,84.9,13.9,1.2
+2021,Centro-Oeste,Regiao,Rural,Federal,70.4,27.5,2.1
+2021,Centro-Oeste,Regiao,Total,Estadual,88.4,9.0,2.6
+2021,Centro-Oeste,Regiao,Urbana,Estadual,88.7,8.8,2.5
+2021,Centro-Oeste,Regiao,Rural,Estadual,83.8,12.9,3.3
+2021,Centro-Oeste,Regiao,Total,Municipal,86.8,6.2,7.0
+2021,Centro-Oeste,Regiao,Urbana,Municipal,84.5,7.6,7.9
+2021,Centro-Oeste,Regiao,Rural,Municipal,92.8,2.7,4.5
+2021,Centro-Oeste,Regiao,Total,Privada,98.6,1.2,0.2
+2021,Centro-Oeste,Regiao,Urbana,Privada,98.7,1.2,0.1
+2021,Centro-Oeste,Regiao,Rural,Privada,95.7,2.8,1.5
+2021,Centro-Oeste,Regiao,Total,Pública,88.1,9.3,2.6
+2021,Centro-Oeste,Regiao,Urbana,Pública,88.5,9.0,2.5
+2021,Centro-Oeste,Regiao,Rural,Pública,82.1,14.8,3.1
+2021,Rondônia,UF,Total,Total,88.4,6.6,5.0
+2021,Rondônia,UF,Urbana,Total,88.7,6.5,4.8
+2021,Rondônia,UF,Rural,Total,83.5,8.4,8.1
+2021,Rondônia,UF,Total,Federal,84.1,15.0,0.9
+2021,Rondônia,UF,Urbana,Federal,86.5,13.3,0.2
+2021,Rondônia,UF,Rural,Federal,78.0,19.5,2.5
+2021,Rondônia,UF,Total,Estadual,88.3,6.2,5.5
+2021,Rondônia,UF,Urbana,Estadual,88.5,6.3,5.2
+2021,Rondônia,UF,Rural,Estadual,84.2,4.1,11.7
+2021,Rondônia,UF,Total,Municipal,,,
+2021,Rondônia,UF,Urbana,Municipal,,,
+2021,Rondônia,UF,Rural,Municipal,,,
+2021,Rondônia,UF,Total,Privada,94.6,4.0,1.4
+2021,Rondônia,UF,Urbana,Privada,95.4,4.5,0.1
+2021,Rondônia,UF,Rural,Privada,91.0,1.6,7.4
+2021,Rondônia,UF,Total,Pública,88.0,6.8,5.2
+2021,Rondônia,UF,Urbana,Pública,88.4,6.6,5.0
+2021,Rondônia,UF,Rural,Pública,81.9,9.9,8.2
+2021,Acre,UF,Total,Total,86.4,7.4,6.2
+2021,Acre,UF,Urbana,Total,86.1,9.1,4.8
+2021,Acre,UF,Rural,Total,87.2,2.1,10.7
+2021,Acre,UF,Total,Federal,84.1,14.5,1.4
+2021,Acre,UF,Urbana,Federal,84.1,14.5,1.4
+2021,Acre,UF,Total,Estadual,85.9,7.4,6.7
+2021,Acre,UF,Urbana,Estadual,85.5,9.3,5.2
+2021,Acre,UF,Rural,Estadual,87.2,2.1,10.7
+2021,Acre,UF,Total,Municipal,,,
+2021,Acre,UF,Urbana,Municipal,,,
+2021,Acre,UF,Rural,Municipal,,,
+2021,Acre,UF,Total,Privada,98.9,0.9,0.2
+2021,Acre,UF,Urbana,Privada,98.9,0.9,0.2
+2021,Acre,UF,Total,Pública,85.8,7.7,6.5
+2021,Acre,UF,Urbana,Pública,85.4,9.6,5.0
+2021,Acre,UF,Rural,Pública,87.2,2.1,10.7
+2021,Amazonas,UF,Total,Total,91.6,2.9,5.5
+2021,Amazonas,UF,Urbana,Total,91.6,2.9,5.5
+2021,Amazonas,UF,Rural,Total,91.8,2.6,5.6
+2021,Amazonas,UF,Total,Federal,87.2,11.6,1.2
+2021,Amazonas,UF,Urbana,Federal,87.0,11.8,1.2
+2021,Amazonas,UF,Rural,Federal,89.0,9.7,1.3
+2021,Amazonas,UF,Total,Estadual,91.5,2.6,5.9
+2021,Amazonas,UF,Urbana,Estadual,91.4,2.6,6.0
+2021,Amazonas,UF,Rural,Estadual,91.9,2.5,5.6
+2021,Amazonas,UF,Total,Municipal,,,
+2021,Amazonas,UF,Urbana,Municipal,,,
+2021,Amazonas,UF,Rural,Municipal,,,
+2021,Amazonas,UF,Total,Privada,96.8,3.0,0.2
+2021,Amazonas,UF,Urbana,Privada,96.8,3.0,0.2
+2021,Amazonas,UF,Rural,Privada,98.2,1.8,0.0
+2021,Amazonas,UF,Total,Pública,91.4,2.9,5.7
+2021,Amazonas,UF,Urbana,Pública,91.3,2.9,5.8
+2021,Amazonas,UF,Rural,Pública,91.8,2.6,5.6
+2021,Roraima,UF,Total,Total,86.7,8.5,4.8
+2021,Roraima,UF,Urbana,Total,85.8,9.4,4.8
+2021,Roraima,UF,Rural,Total,89.8,5.2,5.0
+2021,Roraima,UF,Total,Federal,87.5,11.8,0.7
+2021,Roraima,UF,Urbana,Federal,94.1,5.3,0.6
+2021,Roraima,UF,Rural,Federal,79.2,20.0,0.8
+2021,Roraima,UF,Total,Estadual,86.1,8.6,5.3
+2021,Roraima,UF,Urbana,Estadual,84.7,10.1,5.2
+2021,Roraima,UF,Rural,Estadual,91.1,3.2,5.7
+2021,Roraima,UF,Total,Municipal,,,
+2021,Roraima,UF,Urbana,Municipal,,,
+2021,Roraima,UF,Rural,Municipal,,,
+2021,Roraima,UF,Total,Privada,98.3,1.7,0.0
+2021,Roraima,UF,Urbana,Privada,98.3,1.7,0.0
+2021,Roraima,UF,Rural,Privada,100.0,0.0,0.0
+2021,Roraima,UF,Total,Pública,86.1,8.8,5.1
+2021,Roraima,UF,Urbana,Pública,85.1,9.9,5.0
+2021,Roraima,UF,Rural,Pública,89.7,5.2,5.1
+2021,Pará,UF,Total,Total,73.3,11.1,15.6
+2021,Pará,UF,Urbana,Total,73.0,11.5,15.5
+2021,Pará,UF,Rural,Total,75.4,8.3,16.3
+2021,Pará,UF,Total,Federal,87.1,7.8,5.1
+2021,Pará,UF,Urbana,Federal,88.3,7.7,4.0
+2021,Pará,UF,Rural,Federal,53.4,8.8,37.8
+2021,Pará,UF,Total,Estadual,71.0,12.0,17.0
+2021,Pará,UF,Urbana,Estadual,70.3,12.6,17.1
+2021,Pará,UF,Rural,Estadual,75.4,8.3,16.3
+2021,Pará,UF,Total,Municipal,97.3,0.0,2.7
+2021,Pará,UF,Urbana,Municipal,97.3,0.0,2.7
+2021,Pará,UF,Rural,Municipal,,,
+2021,Pará,UF,Total,Privada,98.8,0.8,0.4
+2021,Pará,UF,Urbana,Privada,98.9,0.8,0.3
+2021,Pará,UF,Rural,Privada,92.2,1.6,6.2
+2021,Pará,UF,Total,Pública,71.3,11.9,16.8
+2021,Pará,UF,Urbana,Pública,70.7,12.4,16.9
+2021,Pará,UF,Rural,Pública,75.3,8.3,16.4
+2021,Amapá,UF,Total,Total,77.1,15.4,7.5
+2021,Amapá,UF,Urbana,Total,77.0,15.7,7.3
+2021,Amapá,UF,Rural,Total,77.6,13.8,8.6
+2021,Amapá,UF,Total,Federal,85.1,14.0,0.9
+2021,Amapá,UF,Urbana,Federal,85.1,14.0,0.9
+2021,Amapá,UF,Total,Estadual,74.8,16.7,8.5
+2021,Amapá,UF,Urbana,Estadual,74.4,17.2,8.4
+2021,Amapá,UF,Rural,Estadual,76.9,14.1,9.0
+2021,Amapá,UF,Total,Municipal,,,
+2021,Amapá,UF,Urbana,Municipal,,,
+2021,Amapá,UF,Rural,Municipal,,,
+2021,Amapá,UF,Total,Privada,98.2,1.4,0.4
+2021,Amapá,UF,Urbana,Privada,98.9,0.9,0.2
+2021,Amapá,UF,Rural,Privada,91.2,6.6,2.2
+2021,Amapá,UF,Total,Pública,75.3,16.5,8.2
+2021,Amapá,UF,Urbana,Pública,75.0,17.0,8.0
+2021,Amapá,UF,Rural,Pública,76.9,14.1,9.0
+2021,Tocantins,UF,Total,Total,93.7,3.0,3.3
+2021,Tocantins,UF,Urbana,Total,94.1,2.6,3.3
+2021,Tocantins,UF,Rural,Total,89.5,7.4,3.1
+2021,Tocantins,UF,Total,Federal,78.7,18.9,2.4
+2021,Tocantins,UF,Urbana,Federal,78.9,17.7,3.4
+2021,Tocantins,UF,Rural,Federal,78.0,21.9,0.1
+2021,Tocantins,UF,Total,Estadual,94.2,2.3,3.5
+2021,Tocantins,UF,Urbana,Estadual,94.4,2.1,3.5
+2021,Tocantins,UF,Rural,Estadual,91.2,5.1,3.7
+2021,Tocantins,UF,Total,Municipal,,,
+2021,Tocantins,UF,Urbana,Municipal,,,
+2021,Tocantins,UF,Rural,Municipal,,,
+2021,Tocantins,UF,Total,Privada,98.4,1.4,0.2
+2021,Tocantins,UF,Urbana,Privada,98.6,1.3,0.1
+2021,Tocantins,UF,Rural,Privada,96.0,3.6,0.4
+2021,Tocantins,UF,Total,Pública,93.5,3.1,3.4
+2021,Tocantins,UF,Urbana,Pública,93.9,2.7,3.4
+2021,Tocantins,UF,Rural,Pública,89.2,7.6,3.2
+2021,Maranhão,UF,Total,Total,89.1,4.5,6.4
+2021,Maranhão,UF,Urbana,Total,89.6,4.3,6.1
+2021,Maranhão,UF,Rural,Total,86.0,5.3,8.7
+2021,Maranhão,UF,Total,Federal,79.8,17.7,2.5
+2021,Maranhão,UF,Urbana,Federal,80.6,17.6,1.8
+2021,Maranhão,UF,Rural,Federal,77.4,18.0,4.6
+2021,Maranhão,UF,Total,Estadual,89.0,4.1,6.9
+2021,Maranhão,UF,Urbana,Estadual,89.4,4.0,6.6
+2021,Maranhão,UF,Rural,Estadual,86.9,4.5,8.6
+2021,Maranhão,UF,Total,Municipal,93.6,0.6,5.8
+2021,Maranhão,UF,Urbana,Municipal,93.3,0.0,6.7
+2021,Maranhão,UF,Rural,Municipal,94.0,1.6,4.4
+2021,Maranhão,UF,Total,Privada,95.7,1.9,2.4
+2021,Maranhão,UF,Urbana,Privada,97.8,1.8,0.4
+2021,Maranhão,UF,Rural,Privada,77.4,2.6,20.0
+2021,Maranhão,UF,Total,Pública,88.7,4.6,6.7
+2021,Maranhão,UF,Urbana,Pública,89.1,4.5,6.4
+2021,Maranhão,UF,Rural,Pública,86.3,5.4,8.3
+2021,Piauí,UF,Total,Total,94.3,1.2,4.5
+2021,Piauí,UF,Urbana,Total,94.5,1.1,4.4
+2021,Piauí,UF,Rural,Total,90.8,1.9,7.3
+2021,Piauí,UF,Total,Federal,83.9,15.2,0.9
+2021,Piauí,UF,Urbana,Federal,84.6,14.4,1.0
+2021,Piauí,UF,Rural,Federal,77.3,22.2,0.5
+2021,Piauí,UF,Total,Estadual,94.6,0.2,5.2
+2021,Piauí,UF,Urbana,Estadual,94.8,0.2,5.0
+2021,Piauí,UF,Rural,Estadual,92.2,0.0,7.8
+2021,Piauí,UF,Total,Municipal,77.7,4.7,17.6
+2021,Piauí,UF,Urbana,Municipal,75.6,6.6,17.8
+2021,Piauí,UF,Rural,Municipal,82.8,0.0,17.2
+2021,Piauí,UF,Total,Privada,97.8,1.6,0.6
+2021,Piauí,UF,Urbana,Privada,97.8,1.6,0.6
+2021,Piauí,UF,Rural,Privada,98.5,1.5,0.0
+2021,Piauí,UF,Total,Pública,93.9,1.1,5.0
+2021,Piauí,UF,Urbana,Pública,94.1,1.1,4.8
+2021,Piauí,UF,Rural,Pública,90.8,1.9,7.3
+2021,Ceará,UF,Total,Total,97.8,0.3,1.9
+2021,Ceará,UF,Urbana,Total,97.8,0.3,1.9
+2021,Ceará,UF,Rural,Total,98.1,0.6,1.3
+2021,Ceará,UF,Total,Federal,81.5,16.3,2.2
+2021,Ceará,UF,Urbana,Federal,82.1,15.5,2.4
+2021,Ceará,UF,Rural,Federal,75.2,23.8,1.0
+2021,Ceará,UF,Total,Estadual,98.0,0.0,2.0
+2021,Ceará,UF,Urbana,Estadual,97.9,0.0,2.1
+2021,Ceará,UF,Rural,Estadual,98.8,0.0,1.2
+2021,Ceará,UF,Total,Municipal,,,
+2021,Ceará,UF,Urbana,Municipal,,,
+2021,Ceará,UF,Rural,Municipal,,,
+2021,Ceará,UF,Total,Privada,98.8,1.0,0.2
+2021,Ceará,UF,Urbana,Privada,98.8,1.0,0.2
+2021,Ceará,UF,Rural,Privada,81.8,0.0,18.2
+2021,Ceará,UF,Total,Pública,97.7,0.3,2.0
+2021,Ceará,UF,Urbana,Pública,97.7,0.3,2.0
+2021,Ceará,UF,Rural,Pública,98.2,0.6,1.2
+2021,Rio Grande do Norte,UF,Total,Total,74.6,10.7,14.7
+2021,Rio Grande do Norte,UF,Urbana,Total,74.7,10.9,14.4
+2021,Rio Grande do Norte,UF,Rural,Total,73.6,6.9,19.5
+2021,Rio Grande do Norte,UF,Total,Federal,91.1,7.5,1.4
+2021,Rio Grande do Norte,UF,Urbana,Federal,91.2,7.3,1.5
+2021,Rio Grande do Norte,UF,Rural,Federal,90.4,9.3,0.3
+2021,Rio Grande do Norte,UF,Total,Estadual,69.1,12.5,18.4
+2021,Rio Grande do Norte,UF,Urbana,Estadual,69.1,12.7,18.2
+2021,Rio Grande do Norte,UF,Rural,Estadual,67.4,6.1,26.5
+2021,Rio Grande do Norte,UF,Total,Municipal,,,
+2021,Rio Grande do Norte,UF,Urbana,Municipal,,,
+2021,Rio Grande do Norte,UF,Rural,Municipal,,,
+2021,Rio Grande do Norte,UF,Total,Privada,98.1,1.6,0.3
+2021,Rio Grande do Norte,UF,Urbana,Privada,98.1,1.6,0.3
+2021,Rio Grande do Norte,UF,Rural,Privada,96.8,0.0,3.2
+2021,Rio Grande do Norte,UF,Total,Pública,71.5,11.9,16.6
+2021,Rio Grande do Norte,UF,Urbana,Pública,71.4,12.2,16.4
+2021,Rio Grande do Norte,UF,Rural,Pública,73.5,7.0,19.5
+2021,Paraíba,UF,Total,Total,95.9,0.8,3.3
+2021,Paraíba,UF,Urbana,Total,95.8,0.8,3.4
+2021,Paraíba,UF,Rural,Total,96.8,0.6,2.6
+2021,Paraíba,UF,Total,Federal,88.5,10.3,1.2
+2021,Paraíba,UF,Urbana,Federal,88.6,10.3,1.1
+2021,Paraíba,UF,Rural,Federal,84.7,9.9,5.4
+2021,Paraíba,UF,Total,Estadual,96.0,0.2,3.8
+2021,Paraíba,UF,Urbana,Estadual,96.0,0.2,3.8
+2021,Paraíba,UF,Rural,Estadual,97.1,0.4,2.5
+2021,Paraíba,UF,Total,Municipal,73.8,7.3,18.9
+2021,Paraíba,UF,Urbana,Municipal,71.2,8.5,20.3
+2021,Paraíba,UF,Rural,Municipal,90.2,0.0,9.8
+2021,Paraíba,UF,Total,Privada,98.7,0.8,0.5
+2021,Paraíba,UF,Urbana,Privada,98.7,0.8,0.5
+2021,Paraíba,UF,Rural,Privada,,,
+2021,Paraíba,UF,Total,Pública,95.5,0.8,3.7
+2021,Paraíba,UF,Urbana,Pública,95.5,0.9,3.6
+2021,Paraíba,UF,Rural,Pública,96.8,0.6,2.6
+2021,Pernambuco,UF,Total,Total,94.1,4.5,1.4
+2021,Pernambuco,UF,Urbana,Total,94.5,4.2,1.3
+2021,Pernambuco,UF,Rural,Total,87.9,8.6,3.5
+2021,Pernambuco,UF,Total,Federal,83.5,13.3,3.2
+2021,Pernambuco,UF,Urbana,Federal,85.1,11.4,3.5
+2021,Pernambuco,UF,Rural,Federal,78.7,18.7,2.6
+2021,Pernambuco,UF,Total,Estadual,93.8,4.6,1.6
+2021,Pernambuco,UF,Urbana,Estadual,94.2,4.4,1.4
+2021,Pernambuco,UF,Rural,Estadual,88.6,7.7,3.7
+2021,Pernambuco,UF,Total,Municipal,93.7,5.5,0.8
+2021,Pernambuco,UF,Urbana,Municipal,,,
+2021,Pernambuco,UF,Rural,Municipal,93.7,5.5,0.8
+2021,Pernambuco,UF,Total,Privada,98.4,1.2,0.4
+2021,Pernambuco,UF,Urbana,Privada,98.4,1.2,0.4
+2021,Pernambuco,UF,Rural,Privada,98.4,1.6,0.0
+2021,Pernambuco,UF,Total,Pública,93.6,4.9,1.5
+2021,Pernambuco,UF,Urbana,Pública,94.0,4.6,1.4
+2021,Pernambuco,UF,Rural,Pública,87.7,8.7,3.6
+2021,Alagoas,UF,Total,Total,87.7,4.5,7.8
+2021,Alagoas,UF,Urbana,Total,87.6,4.6,7.8
+2021,Alagoas,UF,Rural,Total,89.1,3.8,7.1
+2021,Alagoas,UF,Total,Federal,80.1,14.2,5.7
+2021,Alagoas,UF,Urbana,Federal,80.1,14.2,5.7
+2021,Alagoas,UF,Total,Estadual,86.5,4.5,9.0
+2021,Alagoas,UF,Urbana,Estadual,86.4,4.5,9.1
+2021,Alagoas,UF,Rural,Estadual,89.1,3.9,7.0
+2021,Alagoas,UF,Total,Municipal,,,
+2021,Alagoas,UF,Urbana,Municipal,,,
+2021,Alagoas,UF,Rural,Municipal,,,
+2021,Alagoas,UF,Total,Privada,97.9,1.6,0.5
+2021,Alagoas,UF,Urbana,Privada,97.9,1.6,0.5
+2021,Alagoas,UF,Rural,Privada,100.0,0.0,0.0
+2021,Alagoas,UF,Total,Pública,86.3,4.9,8.8
+2021,Alagoas,UF,Urbana,Pública,86.1,5.0,8.9
+2021,Alagoas,UF,Rural,Pública,89.1,3.9,7.0
+2021,Sergipe,UF,Total,Total,94.8,2.1,3.1
+2021,Sergipe,UF,Urbana,Total,94.9,2.0,3.1
+2021,Sergipe,UF,Rural,Total,92.5,3.8,3.7
+2021,Sergipe,UF,Total,Federal,85.3,14.2,0.5
+2021,Sergipe,UF,Urbana,Federal,85.5,13.8,0.7
+2021,Sergipe,UF,Rural,Federal,85.0,14.8,0.2
+2021,Sergipe,UF,Total,Estadual,94.3,1.9,3.8
+2021,Sergipe,UF,Urbana,Estadual,94.3,2.0,3.7
+2021,Sergipe,UF,Rural,Estadual,94.3,1.1,4.6
+2021,Sergipe,UF,Total,Municipal,,,
+2021,Sergipe,UF,Urbana,Municipal,,,
+2021,Sergipe,UF,Rural,Municipal,,,
+2021,Sergipe,UF,Total,Privada,98.9,0.9,0.2
+2021,Sergipe,UF,Urbana,Privada,98.9,0.9,0.2
+2021,Sergipe,UF,Rural,Privada,,,
+2021,Sergipe,UF,Total,Pública,94.0,2.3,3.7
+2021,Sergipe,UF,Urbana,Pública,94.1,2.2,3.7
+2021,Sergipe,UF,Rural,Pública,92.5,3.8,3.7
+2021,Bahia,UF,Total,Total,88.2,1.2,10.6
+2021,Bahia,UF,Urbana,Total,88.3,1.2,10.5
+2021,Bahia,UF,Rural,Total,87.0,1.5,11.5
+2021,Bahia,UF,Total,Federal,84.7,9.3,6.0
+2021,Bahia,UF,Urbana,Federal,84.7,9.3,6.0
+2021,Bahia,UF,Rural,Federal,100.0,0.0,0.0
+2021,Bahia,UF,Total,Estadual,87.4,1.1,11.5
+2021,Bahia,UF,Urbana,Estadual,87.4,1.1,11.5
+2021,Bahia,UF,Rural,Estadual,87.3,0.8,11.9
+2021,Bahia,UF,Total,Municipal,83.5,5.8,10.7
+2021,Bahia,UF,Urbana,Municipal,84.9,2.4,12.7
+2021,Bahia,UF,Rural,Municipal,83.0,7.2,9.8
+2021,Bahia,UF,Total,Privada,98.0,1.2,0.8
+2021,Bahia,UF,Urbana,Privada,98.8,0.9,0.3
+2021,Bahia,UF,Rural,Privada,86.0,5.3,8.7
+2021,Bahia,UF,Total,Pública,87.3,1.2,11.5
+2021,Bahia,UF,Urbana,Pública,87.3,1.2,11.5
+2021,Bahia,UF,Rural,Pública,87.1,1.2,11.7
+2021,Minas Gerais,UF,Total,Total,92.0,4.5,3.5
+2021,Minas Gerais,UF,Urbana,Total,92.0,4.5,3.5
+2021,Minas Gerais,UF,Rural,Total,93.5,4.2,2.3
+2021,Minas Gerais,UF,Total,Federal,89.8,9.1,1.1
+2021,Minas Gerais,UF,Urbana,Federal,90.8,8.3,0.9
+2021,Minas Gerais,UF,Rural,Federal,85.8,12.3,1.9
+2021,Minas Gerais,UF,Total,Estadual,91.3,4.7,4.0
+2021,Minas Gerais,UF,Urbana,Estadual,91.1,4.8,4.1
+2021,Minas Gerais,UF,Rural,Estadual,96.3,1.5,2.2
+2021,Minas Gerais,UF,Total,Municipal,94.5,3.3,2.2
+2021,Minas Gerais,UF,Urbana,Municipal,94.5,3.2,2.3
+2021,Minas Gerais,UF,Rural,Municipal,94.4,4.3,1.3
+2021,Minas Gerais,UF,Total,Privada,98.6,1.2,0.2
+2021,Minas Gerais,UF,Urbana,Privada,98.7,1.2,0.1
+2021,Minas Gerais,UF,Rural,Privada,92.5,3.3,4.2
+2021,Minas Gerais,UF,Total,Pública,91.2,4.9,3.9
+2021,Minas Gerais,UF,Urbana,Pública,91.2,4.9,3.9
+2021,Minas Gerais,UF,Rural,Pública,93.6,4.3,2.1
+2021,Espírito Santo,UF,Total,Total,91.5,6.2,2.3
+2021,Espírito Santo,UF,Urbana,Total,91.4,6.2,2.4
+2021,Espírito Santo,UF,Rural,Total,92.3,5.7,2.0
+2021,Espírito Santo,UF,Total,Federal,87.9,10.2,1.9
+2021,Espírito Santo,UF,Urbana,Federal,87.6,10.3,2.1
+2021,Espírito Santo,UF,Rural,Federal,89.1,9.8,1.1
+2021,Espírito Santo,UF,Total,Estadual,90.9,6.6,2.5
+2021,Espírito Santo,UF,Urbana,Estadual,90.8,6.6,2.6
+2021,Espírito Santo,UF,Rural,Estadual,94.1,5.1,0.8
+2021,Espírito Santo,UF,Total,Municipal,98.5,1.5,0.0
+2021,Espírito Santo,UF,Urbana,Municipal,,,
+2021,Espírito Santo,UF,Rural,Municipal,98.5,1.5,0.0
+2021,Espírito Santo,UF,Total,Privada,98.2,1.3,0.5
+2021,Espírito Santo,UF,Urbana,Privada,98.6,1.3,0.1
+2021,Espírito Santo,UF,Rural,Privada,92.6,1.4,6.0
+2021,Espírito Santo,UF,Total,Pública,90.6,6.9,2.5
+2021,Espírito Santo,UF,Urbana,Pública,90.6,6.9,2.5
+2021,Espírito Santo,UF,Rural,Pública,92.2,6.8,1.0
+2021,Rio de Janeiro,UF,Total,Total,93.4,4.7,1.9
+2021,Rio de Janeiro,UF,Urbana,Total,93.4,4.7,1.9
+2021,Rio de Janeiro,UF,Rural,Total,92.9,4.5,2.6
+2021,Rio de Janeiro,UF,Total,Federal,90.0,8.8,1.2
+2021,Rio de Janeiro,UF,Urbana,Federal,90.7,8.2,1.1
+2021,Rio de Janeiro,UF,Rural,Federal,74.6,23.4,2.0
+2021,Rio de Janeiro,UF,Total,Estadual,92.4,5.3,2.3
+2021,Rio de Janeiro,UF,Urbana,Estadual,92.4,5.3,2.3
+2021,Rio de Janeiro,UF,Rural,Estadual,93.4,3.8,2.8
+2021,Rio de Janeiro,UF,Total,Municipal,88.8,6.6,4.6
+2021,Rio de Janeiro,UF,Urbana,Municipal,88.8,6.6,4.6
+2021,Rio de Janeiro,UF,Rural,Municipal,,,
+2021,Rio de Janeiro,UF,Total,Privada,97.9,1.8,0.3
+2021,Rio de Janeiro,UF,Urbana,Privada,98.0,1.8,0.2
+2021,Rio de Janeiro,UF,Rural,Privada,97.0,3.0,0.0
+2021,Rio de Janeiro,UF,Total,Pública,92.3,5.4,2.3
+2021,Rio de Janeiro,UF,Urbana,Pública,92.3,5.4,2.3
+2021,Rio de Janeiro,UF,Rural,Pública,92.7,4.6,2.7
+2021,São Paulo,UF,Total,Total,94.8,1.9,3.3
+2021,São Paulo,UF,Urbana,Total,94.8,1.9,3.3
+2021,São Paulo,UF,Rural,Total,96.6,1.7,1.7
+2021,São Paulo,UF,Total,Federal,93.4,6.4,0.2
+2021,São Paulo,UF,Urbana,Federal,93.4,6.4,0.2
+2021,São Paulo,UF,Total,Estadual,93.9,2.1,4.0
+2021,São Paulo,UF,Urbana,Estadual,93.9,2.1,4.0
+2021,São Paulo,UF,Rural,Estadual,96.5,1.8,1.7
+2021,São Paulo,UF,Total,Municipal,97.3,2.2,0.5
+2021,São Paulo,UF,Urbana,Municipal,97.3,2.2,0.5
+2021,São Paulo,UF,Rural,Municipal,97.3,1.6,1.1
+2021,São Paulo,UF,Total,Privada,99.1,0.9,0.0
+2021,São Paulo,UF,Urbana,Privada,99.1,0.9,0.0
+2021,São Paulo,UF,Rural,Privada,98.6,1.4,0.0
+2021,São Paulo,UF,Total,Pública,94.0,2.1,3.9
+2021,São Paulo,UF,Urbana,Pública,94.0,2.1,3.9
+2021,São Paulo,UF,Rural,Pública,96.5,1.8,1.7
+2021,Paraná,UF,Total,Total,96.2,2.6,1.2
+2021,Paraná,UF,Urbana,Total,96.2,2.7,1.1
+2021,Paraná,UF,Rural,Total,97.0,2.1,0.9
+2021,Paraná,UF,Total,Federal,89.8,9.6,0.6
+2021,Paraná,UF,Urbana,Federal,89.8,9.5,0.7
+2021,Paraná,UF,Rural,Federal,89.3,10.7,0.0
+2021,Paraná,UF,Total,Estadual,95.9,2.8,1.3
+2021,Paraná,UF,Urbana,Estadual,95.9,2.8,1.3
+2021,Paraná,UF,Rural,Estadual,97.2,1.9,0.9
+2021,Paraná,UF,Total,Municipal,,,
+2021,Paraná,UF,Urbana,Municipal,,,
+2021,Paraná,UF,Rural,Municipal,,,
+2021,Paraná,UF,Total,Privada,98.8,1.0,0.2
+2021,Paraná,UF,Urbana,Privada,98.8,1.0,0.2
+2021,Paraná,UF,Rural,Privada,96.3,3.5,0.2
+2021,Paraná,UF,Total,Pública,95.8,2.9,1.3
+2021,Paraná,UF,Urbana,Pública,95.7,3.0,1.3
+2021,Paraná,UF,Rural,Pública,97.0,2.0,1.0
+2021,Santa Catarina,UF,Total,Total,80.5,12.1,7.4
+2021,Santa Catarina,UF,Urbana,Total,80.4,12.2,7.4
+2021,Santa Catarina,UF,Rural,Total,86.3,8.5,5.2
+2021,Santa Catarina,UF,Total,Federal,86.6,10.9,2.5
+2021,Santa Catarina,UF,Urbana,Federal,86.9,10.5,2.6
+2021,Santa Catarina,UF,Rural,Federal,83.0,16.2,0.8
+2021,Santa Catarina,UF,Total,Estadual,77.5,13.8,8.7
+2021,Santa Catarina,UF,Urbana,Estadual,77.3,13.9,8.8
+2021,Santa Catarina,UF,Rural,Estadual,85.7,7.9,6.4
+2021,Santa Catarina,UF,Total,Municipal,97.7,1.7,0.6
+2021,Santa Catarina,UF,Urbana,Municipal,99.6,0.4,0.0
+2021,Santa Catarina,UF,Rural,Municipal,94.3,4.1,1.6
+2021,Santa Catarina,UF,Total,Privada,98.0,1.6,0.4
+2021,Santa Catarina,UF,Urbana,Privada,98.0,1.5,0.5
+2021,Santa Catarina,UF,Rural,Privada,98.0,2.0,0.0
+2021,Santa Catarina,UF,Total,Pública,78.0,13.6,8.4
+2021,Santa Catarina,UF,Urbana,Pública,77.8,13.8,8.4
+2021,Santa Catarina,UF,Rural,Pública,85.5,9.0,5.5
+2021,Rio Grande do Sul,UF,Total,Total,89.0,1.6,9.4
+2021,Rio Grande do Sul,UF,Urbana,Total,89.0,1.5,9.5
+2021,Rio Grande do Sul,UF,Rural,Total,87.6,4.3,8.1
+2021,Rio Grande do Sul,UF,Total,Federal,84.7,12.7,2.6
+2021,Rio Grande do Sul,UF,Urbana,Federal,84.3,13.6,2.1
+2021,Rio Grande do Sul,UF,Rural,Federal,86.5,9.4,4.1
+2021,Rio Grande do Sul,UF,Total,Estadual,88.0,0.9,11.1
+2021,Rio Grande do Sul,UF,Urbana,Estadual,88.0,0.8,11.2
+2021,Rio Grande do Sul,UF,Rural,Estadual,87.7,2.8,9.5
+2021,Rio Grande do Sul,UF,Total,Municipal,85.6,5.7,8.7
+2021,Rio Grande do Sul,UF,Urbana,Municipal,85.1,6.0,8.9
+2021,Rio Grande do Sul,UF,Rural,Municipal,89.1,2.9,8.0
+2021,Rio Grande do Sul,UF,Total,Privada,97.7,2.1,0.2
+2021,Rio Grande do Sul,UF,Urbana,Privada,97.8,2.1,0.1
+2021,Rio Grande do Sul,UF,Rural,Privada,91.8,4.0,4.2
+2021,Rio Grande do Sul,UF,Total,Pública,87.8,1.5,10.7
+2021,Rio Grande do Sul,UF,Urbana,Pública,87.8,1.4,10.8
+2021,Rio Grande do Sul,UF,Rural,Pública,87.4,4.3,8.3
+2021,Mato Grosso do Sul,UF,Total,Total,84.8,13.8,1.4
+2021,Mato Grosso do Sul,UF,Urbana,Total,85.3,13.5,1.2
+2021,Mato Grosso do Sul,UF,Rural,Total,79.2,18.2,2.6
+2021,Mato Grosso do Sul,UF,Total,Federal,86.3,11.2,2.5
+2021,Mato Grosso do Sul,UF,Urbana,Federal,90.6,6.8,2.6
+2021,Mato Grosso do Sul,UF,Rural,Federal,68.1,29.9,2.0
+2021,Mato Grosso do Sul,UF,Total,Estadual,83.3,15.3,1.4
+2021,Mato Grosso do Sul,UF,Urbana,Estadual,83.5,15.1,1.4
+2021,Mato Grosso do Sul,UF,Rural,Estadual,80.0,17.4,2.6
+2021,Mato Grosso do Sul,UF,Total,Municipal,98.0,2.0,0.0
+2021,Mato Grosso do Sul,UF,Urbana,Municipal,,,
+2021,Mato Grosso do Sul,UF,Rural,Municipal,98.0,2.0,0.0
+2021,Mato Grosso do Sul,UF,Total,Privada,98.2,1.5,0.3
+2021,Mato Grosso do Sul,UF,Urbana,Privada,98.7,1.2,0.1
+2021,Mato Grosso do Sul,UF,Rural,Privada,85.6,9.0,5.4
+2021,Mato Grosso do Sul,UF,Total,Pública,83.5,15.1,1.4
+2021,Mato Grosso do Sul,UF,Urbana,Pública,83.8,14.8,1.4
+2021,Mato Grosso do Sul,UF,Rural,Pública,78.8,18.7,2.5
+2021,Mato Grosso,UF,Total,Total,82.4,12.3,5.3
+2021,Mato Grosso,UF,Urbana,Total,82.5,12.0,5.5
+2021,Mato Grosso,UF,Rural,Total,82.0,14.1,3.9
+2021,Mato Grosso,UF,Total,Federal,81.0,18.6,0.4
+2021,Mato Grosso,UF,Urbana,Federal,82.4,17.2,0.4
+2021,Mato Grosso,UF,Rural,Federal,75.1,24.6,0.3
+2021,Mato Grosso,UF,Total,Estadual,81.0,12.9,6.1
+2021,Mato Grosso,UF,Urbana,Estadual,80.8,12.9,6.3
+2021,Mato Grosso,UF,Rural,Estadual,82.5,13.3,4.2
+2021,Mato Grosso,UF,Total,Municipal,,,
+2021,Mato Grosso,UF,Urbana,Municipal,,,
+2021,Mato Grosso,UF,Rural,Municipal,,,
+2021,Mato Grosso,UF,Total,Privada,98.8,1.0,0.2
+2021,Mato Grosso,UF,Urbana,Privada,98.8,1.0,0.2
+2021,Mato Grosso,UF,Rural,Privada,100.0,0.0,0.0
+2021,Mato Grosso,UF,Total,Pública,81.0,13.2,5.8
+2021,Mato Grosso,UF,Urbana,Pública,80.9,13.1,6.0
+2021,Mato Grosso,UF,Rural,Pública,82.0,14.2,3.8
+2021,Goiás,UF,Total,Total,96.6,2.2,1.2
+2021,Goiás,UF,Urbana,Total,96.8,2.0,1.2
+2021,Goiás,UF,Rural,Total,89.5,8.5,2.0
+2021,Goiás,UF,Total,Federal,79.0,19.2,1.8
+2021,Goiás,UF,Urbana,Federal,82.2,16.8,1.0
+2021,Goiás,UF,Rural,Federal,69.1,26.7,4.2
+2021,Goiás,UF,Total,Estadual,97.0,1.7,1.3
+2021,Goiás,UF,Urbana,Estadual,97.0,1.7,1.3
+2021,Goiás,UF,Rural,Estadual,97.6,1.3,1.1
+2021,Goiás,UF,Total,Municipal,85.2,6.8,8.0
+2021,Goiás,UF,Urbana,Municipal,84.5,7.6,7.9
+2021,Goiás,UF,Rural,Municipal,88.3,3.3,8.4
+2021,Goiás,UF,Total,Privada,98.6,1.2,0.2
+2021,Goiás,UF,Urbana,Privada,98.5,1.2,0.3
+2021,Goiás,UF,Rural,Privada,99.3,0.7,0.0
+2021,Goiás,UF,Total,Pública,96.4,2.3,1.3
+2021,Goiás,UF,Urbana,Pública,96.6,2.1,1.3
+2021,Goiás,UF,Rural,Pública,88.2,9.6,2.2
+2021,Distrito Federal,UF,Total,Total,88.0,11.0,1.0
+2021,Distrito Federal,UF,Urbana,Total,88.1,10.8,1.1
+2021,Distrito Federal,UF,Rural,Total,81.9,17.0,1.1
+2021,Distrito Federal,UF,Total,Federal,84.3,14.6,1.1
+2021,Distrito Federal,UF,Urbana,Federal,87.4,11.4,1.2
+2021,Distrito Federal,UF,Rural,Federal,66.3,33.1,0.6
+2021,Distrito Federal,UF,Total,Estadual,84.8,13.9,1.3
+2021,Distrito Federal,UF,Urbana,Estadual,84.8,13.8,1.4
+2021,Distrito Federal,UF,Rural,Estadual,83.0,15.5,1.5
+2021,Distrito Federal,UF,Total,Privada,98.9,1.1,0.0
+2021,Distrito Federal,UF,Urbana,Privada,98.9,1.1,0.0
+2021,Distrito Federal,UF,Rural,Privada,100.0,0.0,0.0
+2021,Distrito Federal,UF,Total,Pública,84.8,13.9,1.3
+2021,Distrito Federal,UF,Urbana,Pública,84.9,13.7,1.4
+2021,Distrito Federal,UF,Rural,Pública,79.8,18.9,1.3
+2022,Brasil,Brasil,Total,Total,86.6,7.7,5.7
+2022,Brasil,Brasil,Urbana,Total,86.7,7.8,5.5
+2022,Brasil,Brasil,Rural,Total,85.2,6.6,8.2
+2022,Brasil,Brasil,Total,Federal,88.3,9.5,2.2
+2022,Brasil,Brasil,Urbana,Federal,88.2,9.6,2.2
+2022,Brasil,Brasil,Rural,Federal,88.6,8.9,2.5
+2022,Brasil,Brasil,Total,Estadual,85.0,8.4,6.6
+2022,Brasil,Brasil,Urbana,Estadual,85.0,8.5,6.5
+2022,Brasil,Brasil,Rural,Estadual,84.5,6.6,8.9
+2022,Brasil,Brasil,Total,Municipal,91.4,4.6,4.0
+2022,Brasil,Brasil,Urbana,Municipal,91.7,4.9,3.4
+2022,Brasil,Brasil,Rural,Municipal,89.7,2.6,7.7
+2022,Brasil,Brasil,Total,Privada,96.9,2.4,0.7
+2022,Brasil,Brasil,Urbana,Privada,96.9,2.4,0.7
+2022,Brasil,Brasil,Rural,Privada,93.3,3.0,3.7
+2022,Brasil,Brasil,Total,Pública,85.1,8.4,6.5
+2022,Brasil,Brasil,Urbana,Pública,85.2,8.5,6.3
+2022,Brasil,Brasil,Rural,Pública,84.9,6.8,8.3
+2022,Norte,Regiao,Total,Total,82.4,8.8,8.8
+2022,Norte,Regiao,Urbana,Total,82.6,9.2,8.2
+2022,Norte,Regiao,Rural,Total,81.1,6.2,12.7
+2022,Norte,Regiao,Total,Federal,90.5,7.7,1.8
+2022,Norte,Regiao,Urbana,Federal,90.8,7.7,1.5
+2022,Norte,Regiao,Rural,Federal,88.2,7.7,4.1
+2022,Norte,Regiao,Total,Estadual,81.0,9.3,9.7
+2022,Norte,Regiao,Urbana,Estadual,81.1,9.9,9.0
+2022,Norte,Regiao,Rural,Estadual,80.7,6.2,13.1
+2022,Norte,Regiao,Total,Municipal,80.6,13.0,6.4
+2022,Norte,Regiao,Urbana,Municipal,80.6,13.0,6.4
+2022,Norte,Regiao,Rural,Municipal,,,
+2022,Norte,Regiao,Total,Privada,97.3,2.1,0.6
+2022,Norte,Regiao,Urbana,Privada,97.4,2.1,0.5
+2022,Norte,Regiao,Rural,Privada,94.7,1.6,3.7
+2022,Norte,Regiao,Total,Pública,81.3,9.3,9.4
+2022,Norte,Regiao,Urbana,Pública,81.4,9.8,8.8
+2022,Norte,Regiao,Rural,Pública,80.9,6.3,12.8
+2022,Nordeste,Regiao,Total,Total,85.7,7.6,6.7
+2022,Nordeste,Regiao,Urbana,Total,85.7,7.7,6.6
+2022,Nordeste,Regiao,Rural,Total,85.0,6.5,8.5
+2022,Nordeste,Regiao,Total,Federal,87.0,10.4,2.6
+2022,Nordeste,Regiao,Urbana,Federal,86.9,10.6,2.5
+2022,Nordeste,Regiao,Rural,Federal,88.1,9.1,2.8
+2022,Nordeste,Regiao,Total,Estadual,84.4,8.1,7.5
+2022,Nordeste,Regiao,Urbana,Estadual,84.4,8.2,7.4
+2022,Nordeste,Regiao,Rural,Estadual,84.5,6.6,8.9
+2022,Nordeste,Regiao,Total,Municipal,86.4,2.5,11.1
+2022,Nordeste,Regiao,Urbana,Municipal,79.8,2.9,17.3
+2022,Nordeste,Regiao,Rural,Municipal,89.0,2.4,8.6
+2022,Nordeste,Regiao,Total,Privada,96.5,2.4,1.1
+2022,Nordeste,Regiao,Urbana,Privada,96.6,2.3,1.1
+2022,Nordeste,Regiao,Rural,Privada,89.3,3.4,7.3
+2022,Nordeste,Regiao,Total,Pública,84.5,8.2,7.3
+2022,Nordeste,Regiao,Urbana,Pública,84.4,8.3,7.3
+2022,Nordeste,Regiao,Rural,Pública,84.8,6.6,8.6
+2022,Sudeste,Regiao,Total,Total,88.6,7.0,4.4
+2022,Sudeste,Regiao,Urbana,Total,88.6,7.0,4.4
+2022,Sudeste,Regiao,Rural,Total,92.2,4.6,3.2
+2022,Sudeste,Regiao,Total,Federal,89.6,8.9,1.5
+2022,Sudeste,Regiao,Urbana,Federal,89.4,9.1,1.5
+2022,Sudeste,Regiao,Rural,Federal,91.0,7.5,1.5
+2022,Sudeste,Regiao,Total,Estadual,87.0,7.8,5.2
+2022,Sudeste,Regiao,Urbana,Estadual,86.9,7.8,5.3
+2022,Sudeste,Regiao,Rural,Estadual,92.2,4.2,3.6
+2022,Sudeste,Regiao,Total,Municipal,93.4,4.7,1.9
+2022,Sudeste,Regiao,Urbana,Municipal,93.4,4.7,1.9
+2022,Sudeste,Regiao,Rural,Municipal,95.0,3.4,1.6
+2022,Sudeste,Regiao,Total,Privada,96.9,2.5,0.6
+2022,Sudeste,Regiao,Urbana,Privada,96.9,2.5,0.6
+2022,Sudeste,Regiao,Rural,Privada,94.6,3.5,1.9
+2022,Sudeste,Regiao,Total,Pública,87.2,7.8,5.0
+2022,Sudeste,Regiao,Urbana,Pública,87.1,7.8,5.1
+2022,Sudeste,Regiao,Rural,Pública,92.0,4.7,3.3
+2022,Sul,Regiao,Total,Total,85.4,8.6,6.0
+2022,Sul,Regiao,Urbana,Total,85.3,8.6,6.1
+2022,Sul,Regiao,Rural,Total,87.7,7.5,4.8
+2022,Sul,Regiao,Total,Federal,86.5,10.2,3.3
+2022,Sul,Regiao,Urbana,Federal,86.8,9.9,3.3
+2022,Sul,Regiao,Rural,Federal,85.2,11.6,3.2
+2022,Sul,Regiao,Total,Estadual,83.6,9.4,7.0
+2022,Sul,Regiao,Urbana,Estadual,83.4,9.5,7.1
+2022,Sul,Regiao,Rural,Estadual,87.7,7.1,5.2
+2022,Sul,Regiao,Total,Municipal,80.9,7.7,11.4
+2022,Sul,Regiao,Urbana,Municipal,79.9,8.3,11.8
+2022,Sul,Regiao,Rural,Municipal,86.8,4.1,9.1
+2022,Sul,Regiao,Total,Privada,97.2,2.5,0.3
+2022,Sul,Regiao,Urbana,Privada,97.2,2.4,0.4
+2022,Sul,Regiao,Rural,Privada,95.2,3.7,1.1
+2022,Sul,Regiao,Total,Pública,83.7,9.5,6.8
+2022,Sul,Regiao,Urbana,Pública,83.5,9.5,7.0
+2022,Sul,Regiao,Rural,Pública,87.4,7.6,5.0
+2022,Centro-Oeste,Regiao,Total,Total,86.7,8.8,4.5
+2022,Centro-Oeste,Regiao,Urbana,Total,87.0,8.6,4.4
+2022,Centro-Oeste,Regiao,Rural,Total,82.7,11.6,5.7
+2022,Centro-Oeste,Regiao,Total,Federal,88.8,8.9,2.3
+2022,Centro-Oeste,Regiao,Urbana,Federal,88.8,8.9,2.3
+2022,Centro-Oeste,Regiao,Rural,Federal,88.9,8.8,2.3
+2022,Centro-Oeste,Regiao,Total,Estadual,84.9,9.8,5.3
+2022,Centro-Oeste,Regiao,Urbana,Estadual,85.2,9.6,5.2
+2022,Centro-Oeste,Regiao,Rural,Estadual,80.8,12.7,6.5
+2022,Centro-Oeste,Regiao,Total,Municipal,94.3,3.8,1.9
+2022,Centro-Oeste,Regiao,Urbana,Municipal,93.0,4.3,2.7
+2022,Centro-Oeste,Regiao,Rural,Municipal,97.6,2.4,0.0
+2022,Centro-Oeste,Regiao,Total,Privada,97.2,2.2,0.6
+2022,Centro-Oeste,Regiao,Urbana,Privada,97.2,2.2,0.6
+2022,Centro-Oeste,Regiao,Rural,Privada,98.7,1.0,0.3
+2022,Centro-Oeste,Regiao,Total,Pública,85.1,9.8,5.1
+2022,Centro-Oeste,Regiao,Urbana,Pública,85.3,9.6,5.1
+2022,Centro-Oeste,Regiao,Rural,Pública,82.0,12.0,6.0
+2022,Rondônia,UF,Total,Total,86.6,6.3,7.1
+2022,Rondônia,UF,Urbana,Total,86.5,6.5,7.0
+2022,Rondônia,UF,Rural,Total,87.8,4.3,7.9
+2022,Rondônia,UF,Total,Federal,92.0,5.6,2.4
+2022,Rondônia,UF,Urbana,Federal,93.6,5.8,0.6
+2022,Rondônia,UF,Rural,Federal,87.9,5.0,7.1
+2022,Rondônia,UF,Total,Estadual,85.5,6.6,7.9
+2022,Rondônia,UF,Urbana,Estadual,85.5,6.7,7.8
+2022,Rondônia,UF,Rural,Estadual,84.2,4.8,11.0
+2022,Rondônia,UF,Total,Municipal,,,
+2022,Rondônia,UF,Urbana,Municipal,,,
+2022,Rondônia,UF,Rural,Municipal,,,
+2022,Rondônia,UF,Total,Privada,96.3,3.4,0.3
+2022,Rondônia,UF,Urbana,Privada,96.1,3.7,0.2
+2022,Rondônia,UF,Rural,Privada,97.2,2.1,0.7
+2022,Rondônia,UF,Total,Pública,85.9,6.6,7.5
+2022,Rondônia,UF,Urbana,Pública,86.0,6.6,7.4
+2022,Rondônia,UF,Rural,Pública,85.5,4.9,9.6
+2022,Acre,UF,Total,Total,83.5,7.6,8.9
+2022,Acre,UF,Urbana,Total,85.6,9.1,5.3
+2022,Acre,UF,Rural,Total,77.2,2.9,19.9
+2022,Acre,UF,Total,Federal,90.5,6.7,2.8
+2022,Acre,UF,Urbana,Federal,90.5,6.7,2.8
+2022,Acre,UF,Total,Estadual,82.8,7.8,9.4
+2022,Acre,UF,Urbana,Estadual,84.9,9.6,5.5
+2022,Acre,UF,Rural,Estadual,77.2,2.9,19.9
+2022,Acre,UF,Total,Municipal,,,
+2022,Acre,UF,Urbana,Municipal,,,
+2022,Acre,UF,Rural,Municipal,,,
+2022,Acre,UF,Total,Privada,90.1,5.5,4.4
+2022,Acre,UF,Urbana,Privada,90.1,5.5,4.4
+2022,Acre,UF,Total,Pública,83.1,7.7,9.2
+2022,Acre,UF,Urbana,Pública,85.3,9.4,5.3
+2022,Acre,UF,Rural,Pública,77.2,2.9,19.9
+2022,Amazonas,UF,Total,Total,85.1,7.1,7.8
+2022,Amazonas,UF,Urbana,Total,84.9,7.7,7.4
+2022,Amazonas,UF,Rural,Total,85.8,4.7,9.5
+2022,Amazonas,UF,Total,Federal,91.7,7.6,0.7
+2022,Amazonas,UF,Urbana,Federal,91.9,7.4,0.7
+2022,Amazonas,UF,Rural,Federal,90.1,9.8,0.1
+2022,Amazonas,UF,Total,Estadual,84.3,7.3,8.4
+2022,Amazonas,UF,Urbana,Estadual,83.9,8.0,8.1
+2022,Amazonas,UF,Rural,Estadual,85.7,4.6,9.7
+2022,Amazonas,UF,Total,Municipal,,,
+2022,Amazonas,UF,Urbana,Municipal,,,
+2022,Amazonas,UF,Rural,Municipal,,,
+2022,Amazonas,UF,Total,Privada,97.0,2.8,0.2
+2022,Amazonas,UF,Urbana,Privada,97.0,2.8,0.2
+2022,Amazonas,UF,Rural,Privada,98.0,2.0,0.0
+2022,Amazonas,UF,Total,Pública,84.5,7.3,8.2
+2022,Amazonas,UF,Urbana,Pública,84.2,8.0,7.8
+2022,Amazonas,UF,Rural,Pública,85.7,4.7,9.6
+2022,Roraima,UF,Total,Total,82.8,8.6,8.6
+2022,Roraima,UF,Urbana,Total,83.2,9.6,7.2
+2022,Roraima,UF,Rural,Total,81.1,4.3,14.6
+2022,Roraima,UF,Total,Federal,93.3,5.4,1.3
+2022,Roraima,UF,Urbana,Federal,95.0,4.5,0.5
+2022,Roraima,UF,Rural,Federal,89.0,7.4,3.6
+2022,Roraima,UF,Total,Estadual,81.3,9.1,9.6
+2022,Roraima,UF,Urbana,Estadual,81.6,10.4,8.0
+2022,Roraima,UF,Rural,Estadual,80.3,4.1,15.6
+2022,Roraima,UF,Total,Municipal,,,
+2022,Roraima,UF,Urbana,Municipal,,,
+2022,Roraima,UF,Rural,Municipal,,,
+2022,Roraima,UF,Total,Privada,97.3,2.4,0.3
+2022,Roraima,UF,Urbana,Privada,97.3,2.5,0.2
+2022,Roraima,UF,Rural,Privada,95.5,0.0,4.5
+2022,Roraima,UF,Total,Pública,82.0,8.9,9.1
+2022,Roraima,UF,Urbana,Pública,82.3,10.1,7.6
+2022,Roraima,UF,Rural,Pública,81.0,4.3,14.7
+2022,Pará,UF,Total,Total,78.4,10.8,10.8
+2022,Pará,UF,Urbana,Total,78.6,11.2,10.2
+2022,Pará,UF,Rural,Total,76.7,8.3,15.0
+2022,Pará,UF,Total,Federal,87.7,9.4,2.9
+2022,Pará,UF,Urbana,Federal,87.8,9.6,2.6
+2022,Pará,UF,Rural,Federal,81.8,3.5,14.7
+2022,Pará,UF,Total,Estadual,76.4,11.7,11.9
+2022,Pará,UF,Urbana,Estadual,76.4,12.2,11.4
+2022,Pará,UF,Rural,Estadual,76.5,8.5,15.0
+2022,Pará,UF,Total,Municipal,80.6,13.0,6.4
+2022,Pará,UF,Urbana,Municipal,80.6,13.0,6.4
+2022,Pará,UF,Rural,Municipal,,,
+2022,Pará,UF,Total,Privada,98.0,1.4,0.6
+2022,Pará,UF,Urbana,Privada,98.2,1.4,0.4
+2022,Pará,UF,Rural,Privada,91.3,1.3,7.4
+2022,Pará,UF,Total,Pública,76.7,11.6,11.7
+2022,Pará,UF,Urbana,Pública,76.7,12.1,11.2
+2022,Pará,UF,Rural,Pública,76.5,8.4,15.1
+2022,Amapá,UF,Total,Total,81.7,11.5,6.8
+2022,Amapá,UF,Urbana,Total,82.3,11.9,5.8
+2022,Amapá,UF,Rural,Total,78.4,9.3,12.3
+2022,Amapá,UF,Total,Federal,93.2,4.9,1.9
+2022,Amapá,UF,Urbana,Federal,93.2,4.9,1.9
+2022,Amapá,UF,Total,Estadual,79.4,13.0,7.6
+2022,Amapá,UF,Urbana,Estadual,79.7,13.6,6.7
+2022,Amapá,UF,Rural,Estadual,77.9,9.7,12.4
+2022,Amapá,UF,Total,Municipal,,,
+2022,Amapá,UF,Urbana,Municipal,,,
+2022,Amapá,UF,Rural,Municipal,,,
+2022,Amapá,UF,Total,Privada,98.9,0.4,0.7
+2022,Amapá,UF,Urbana,Privada,99.5,0.5,0.0
+2022,Amapá,UF,Rural,Privada,90.1,0.0,9.9
+2022,Amapá,UF,Total,Pública,80.3,12.5,7.2
+2022,Amapá,UF,Urbana,Pública,80.7,13.0,6.3
+2022,Amapá,UF,Rural,Pública,77.9,9.7,12.4
+2022,Tocantins,UF,Total,Total,92.2,4.3,3.5
+2022,Tocantins,UF,Urbana,Total,92.4,4.2,3.4
+2022,Tocantins,UF,Rural,Total,89.9,5.6,4.5
+2022,Tocantins,UF,Total,Federal,90.1,9.7,0.2
+2022,Tocantins,UF,Urbana,Federal,90.7,9.2,0.1
+2022,Tocantins,UF,Rural,Federal,88.5,11.1,0.4
+2022,Tocantins,UF,Total,Estadual,91.9,4.1,4.0
+2022,Tocantins,UF,Urbana,Estadual,92.1,4.1,3.8
+2022,Tocantins,UF,Rural,Estadual,89.7,4.8,5.5
+2022,Tocantins,UF,Total,Municipal,,,
+2022,Tocantins,UF,Urbana,Municipal,,,
+2022,Tocantins,UF,Rural,Municipal,,,
+2022,Tocantins,UF,Total,Privada,96.7,2.9,0.4
+2022,Tocantins,UF,Urbana,Privada,96.6,2.9,0.5
+2022,Tocantins,UF,Rural,Privada,98.2,1.8,0.0
+2022,Tocantins,UF,Total,Pública,91.8,4.4,3.8
+2022,Tocantins,UF,Urbana,Pública,92.1,4.2,3.7
+2022,Tocantins,UF,Rural,Pública,89.5,5.8,4.7
+2022,Maranhão,UF,Total,Total,90.6,4.6,4.8
+2022,Maranhão,UF,Urbana,Total,91.3,4.4,4.3
+2022,Maranhão,UF,Rural,Total,86.4,5.9,7.7
+2022,Maranhão,UF,Total,Federal,85.9,11.5,2.6
+2022,Maranhão,UF,Urbana,Federal,85.9,12.3,1.8
+2022,Maranhão,UF,Rural,Federal,85.9,8.5,5.6
+2022,Maranhão,UF,Total,Estadual,90.5,4.5,5.0
+2022,Maranhão,UF,Urbana,Estadual,91.2,4.2,4.6
+2022,Maranhão,UF,Rural,Estadual,86.2,6.0,7.8
+2022,Maranhão,UF,Total,Municipal,92.6,1.1,6.3
+2022,Maranhão,UF,Urbana,Municipal,84.7,0.0,15.3
+2022,Maranhão,UF,Rural,Municipal,95.0,1.4,3.6
+2022,Maranhão,UF,Total,Privada,95.8,2.2,2.0
+2022,Maranhão,UF,Urbana,Privada,97.3,1.9,0.8
+2022,Maranhão,UF,Rural,Privada,82.5,4.2,13.3
+2022,Maranhão,UF,Total,Pública,90.3,4.8,4.9
+2022,Maranhão,UF,Urbana,Pública,91.0,4.5,4.5
+2022,Maranhão,UF,Rural,Pública,86.6,5.9,7.5
+2022,Piauí,UF,Total,Total,90.5,1.7,7.8
+2022,Piauí,UF,Urbana,Total,90.8,1.7,7.5
+2022,Piauí,UF,Rural,Total,84.9,2.1,13.0
+2022,Piauí,UF,Total,Federal,92.6,6.4,1.0
+2022,Piauí,UF,Urbana,Federal,93.0,6.0,1.0
+2022,Piauí,UF,Rural,Federal,89.2,10.2,0.6
+2022,Piauí,UF,Total,Estadual,89.6,1.2,9.2
+2022,Piauí,UF,Urbana,Estadual,90.0,1.2,8.8
+2022,Piauí,UF,Rural,Estadual,84.3,1.3,14.4
+2022,Piauí,UF,Total,Municipal,,,
+2022,Piauí,UF,Urbana,Municipal,,,
+2022,Piauí,UF,Rural,Municipal,,,
+2022,Piauí,UF,Total,Privada,96.5,3.1,0.4
+2022,Piauí,UF,Urbana,Privada,96.5,3.1,0.4
+2022,Piauí,UF,Rural,Privada,98.6,0.0,1.4
+2022,Piauí,UF,Total,Pública,89.8,1.6,8.6
+2022,Piauí,UF,Urbana,Pública,90.1,1.5,8.4
+2022,Piauí,UF,Rural,Pública,84.7,2.1,13.2
+2022,Ceará,UF,Total,Total,96.4,0.7,2.9
+2022,Ceará,UF,Urbana,Total,96.3,0.7,3.0
+2022,Ceará,UF,Rural,Total,96.8,0.8,2.4
+2022,Ceará,UF,Total,Federal,80.1,17.2,2.7
+2022,Ceará,UF,Urbana,Federal,79.9,17.3,2.8
+2022,Ceará,UF,Rural,Federal,83.0,15.4,1.6
+2022,Ceará,UF,Total,Estadual,96.7,0.2,3.1
+2022,Ceará,UF,Urbana,Estadual,96.7,0.2,3.1
+2022,Ceará,UF,Rural,Estadual,97.1,0.5,2.4
+2022,Ceará,UF,Total,Municipal,,,
+2022,Ceará,UF,Urbana,Municipal,,,
+2022,Ceará,UF,Rural,Municipal,,,
+2022,Ceará,UF,Total,Privada,95.6,1.7,2.7
+2022,Ceará,UF,Urbana,Privada,95.6,1.7,2.7
+2022,Ceará,UF,Rural,Privada,100.0,0.0,0.0
+2022,Ceará,UF,Total,Pública,96.4,0.6,3.0
+2022,Ceará,UF,Urbana,Pública,96.4,0.5,3.1
+2022,Ceará,UF,Rural,Pública,96.8,0.8,2.4
+2022,Rio Grande do Norte,UF,Total,Total,76.0,13.9,10.1
+2022,Rio Grande do Norte,UF,Urbana,Total,76.1,14.0,9.9
+2022,Rio Grande do Norte,UF,Rural,Total,74.6,10.7,14.7
+2022,Rio Grande do Norte,UF,Total,Federal,90.0,8.7,1.3
+2022,Rio Grande do Norte,UF,Urbana,Federal,90.2,8.5,1.3
+2022,Rio Grande do Norte,UF,Rural,Federal,88.3,10.3,1.4
+2022,Rio Grande do Norte,UF,Total,Estadual,70.9,16.5,12.6
+2022,Rio Grande do Norte,UF,Urbana,Estadual,71.0,16.7,12.3
+2022,Rio Grande do Norte,UF,Rural,Estadual,69.8,10.8,19.4
+2022,Rio Grande do Norte,UF,Total,Municipal,,,
+2022,Rio Grande do Norte,UF,Urbana,Municipal,,,
+2022,Rio Grande do Norte,UF,Rural,Municipal,,,
+2022,Rio Grande do Norte,UF,Total,Privada,95.3,2.9,1.8
+2022,Rio Grande do Norte,UF,Urbana,Privada,95.3,2.9,1.8
+2022,Rio Grande do Norte,UF,Rural,Privada,92.3,7.7,0.0
+2022,Rio Grande do Norte,UF,Total,Pública,73.1,15.6,11.3
+2022,Rio Grande do Norte,UF,Urbana,Pública,73.0,15.8,11.2
+2022,Rio Grande do Norte,UF,Rural,Pública,74.5,10.7,14.8
+2022,Paraíba,UF,Total,Total,84.5,6.1,9.4
+2022,Paraíba,UF,Urbana,Total,84.5,6.1,9.4
+2022,Paraíba,UF,Rural,Total,84.6,5.1,10.3
+2022,Paraíba,UF,Total,Federal,91.7,6.7,1.6
+2022,Paraíba,UF,Urbana,Federal,91.7,6.8,1.5
+2022,Paraíba,UF,Rural,Federal,91.7,5.0,3.3
+2022,Paraíba,UF,Total,Estadual,82.1,6.7,11.2
+2022,Paraíba,UF,Urbana,Estadual,82.0,6.7,11.3
+2022,Paraíba,UF,Rural,Estadual,84.2,5.2,10.6
+2022,Paraíba,UF,Total,Municipal,80.4,1.5,18.1
+2022,Paraíba,UF,Urbana,Municipal,62.9,3.1,34.0
+2022,Paraíba,UF,Rural,Municipal,97.9,0.0,2.1
+2022,Paraíba,UF,Total,Privada,97.7,1.7,0.6
+2022,Paraíba,UF,Urbana,Privada,97.7,1.7,0.6
+2022,Paraíba,UF,Rural,Privada,,,
+2022,Paraíba,UF,Total,Pública,82.7,6.7,10.6
+2022,Paraíba,UF,Urbana,Pública,82.6,6.7,10.7
+2022,Paraíba,UF,Rural,Pública,84.6,5.1,10.3
+2022,Pernambuco,UF,Total,Total,93.8,4.7,1.5
+2022,Pernambuco,UF,Urbana,Total,94.1,4.6,1.3
+2022,Pernambuco,UF,Rural,Total,89.7,6.8,3.5
+2022,Pernambuco,UF,Total,Federal,79.1,16.8,4.1
+2022,Pernambuco,UF,Urbana,Federal,76.9,18.5,4.6
+2022,Pernambuco,UF,Rural,Federal,85.4,11.7,2.9
+2022,Pernambuco,UF,Total,Estadual,93.8,4.7,1.5
+2022,Pernambuco,UF,Urbana,Estadual,94.1,4.6,1.3
+2022,Pernambuco,UF,Rural,Estadual,90.0,6.4,3.6
+2022,Pernambuco,UF,Total,Municipal,97.4,1.6,1.0
+2022,Pernambuco,UF,Urbana,Municipal,,,
+2022,Pernambuco,UF,Rural,Municipal,97.4,1.6,1.0
+2022,Pernambuco,UF,Total,Privada,97.2,2.2,0.6
+2022,Pernambuco,UF,Urbana,Privada,97.2,2.2,0.6
+2022,Pernambuco,UF,Rural,Privada,97.3,2.4,0.3
+2022,Pernambuco,UF,Total,Pública,93.4,5.0,1.6
+2022,Pernambuco,UF,Urbana,Pública,93.7,4.9,1.4
+2022,Pernambuco,UF,Rural,Pública,89.7,6.8,3.5
+2022,Alagoas,UF,Total,Total,86.3,7.0,6.7
+2022,Alagoas,UF,Urbana,Total,86.4,7.0,6.6
+2022,Alagoas,UF,Rural,Total,86.0,7.1,6.9
+2022,Alagoas,UF,Total,Federal,83.4,11.4,5.2
+2022,Alagoas,UF,Urbana,Federal,83.4,11.4,5.2
+2022,Alagoas,UF,Total,Estadual,85.0,7.4,7.6
+2022,Alagoas,UF,Urbana,Estadual,84.9,7.4,7.7
+2022,Alagoas,UF,Rural,Estadual,86.0,7.2,6.8
+2022,Alagoas,UF,Total,Municipal,,,
+2022,Alagoas,UF,Urbana,Municipal,,,
+2022,Alagoas,UF,Rural,Municipal,,,
+2022,Alagoas,UF,Total,Privada,96.9,2.6,0.5
+2022,Alagoas,UF,Urbana,Privada,96.9,2.6,0.5
+2022,Alagoas,UF,Rural,Privada,96.6,0.0,3.4
+2022,Alagoas,UF,Total,Pública,84.9,7.6,7.5
+2022,Alagoas,UF,Urbana,Pública,84.8,7.6,7.6
+2022,Alagoas,UF,Rural,Pública,86.0,7.2,6.8
+2022,Sergipe,UF,Total,Total,84.9,10.5,4.6
+2022,Sergipe,UF,Urbana,Total,85.0,10.5,4.5
+2022,Sergipe,UF,Rural,Total,83.9,9.3,6.8
+2022,Sergipe,UF,Total,Federal,87.0,12.3,0.7
+2022,Sergipe,UF,Urbana,Federal,85.6,13.8,0.6
+2022,Sergipe,UF,Rural,Federal,89.2,9.8,1.0
+2022,Sergipe,UF,Total,Estadual,82.7,11.8,5.5
+2022,Sergipe,UF,Urbana,Estadual,82.7,12.0,5.3
+2022,Sergipe,UF,Rural,Estadual,82.6,9.2,8.2
+2022,Sergipe,UF,Total,Municipal,,,
+2022,Sergipe,UF,Urbana,Municipal,,,
+2022,Sergipe,UF,Rural,Municipal,,,
+2022,Sergipe,UF,Total,Privada,97.5,2.2,0.3
+2022,Sergipe,UF,Urbana,Privada,97.5,2.2,0.3
+2022,Sergipe,UF,Rural,Privada,,,
+2022,Sergipe,UF,Total,Pública,82.8,11.9,5.3
+2022,Sergipe,UF,Urbana,Pública,82.7,12.0,5.3
+2022,Sergipe,UF,Rural,Pública,83.9,9.3,6.8
+2022,Bahia,UF,Total,Total,73.2,15.1,11.7
+2022,Bahia,UF,Urbana,Total,72.9,15.5,11.6
+2022,Bahia,UF,Rural,Total,76.5,10.0,13.5
+2022,Bahia,UF,Total,Federal,88.8,7.9,3.3
+2022,Bahia,UF,Urbana,Federal,87.8,8.7,3.5
+2022,Bahia,UF,Rural,Federal,94.4,3.7,1.9
+2022,Bahia,UF,Total,Estadual,70.4,16.6,13.0
+2022,Bahia,UF,Urbana,Estadual,70.1,17.0,12.9
+2022,Bahia,UF,Rural,Estadual,74.0,11.2,14.8
+2022,Bahia,UF,Total,Municipal,81.4,3.7,14.9
+2022,Bahia,UF,Urbana,Municipal,78.8,4.5,16.7
+2022,Bahia,UF,Rural,Municipal,82.6,3.4,14.0
+2022,Bahia,UF,Total,Privada,96.2,2.8,1.0
+2022,Bahia,UF,Urbana,Privada,96.5,2.8,0.7
+2022,Bahia,UF,Rural,Privada,91.7,3.2,5.1
+2022,Bahia,UF,Total,Pública,70.8,16.3,12.9
+2022,Bahia,UF,Urbana,Pública,70.4,16.8,12.8
+2022,Bahia,UF,Rural,Pública,75.4,10.5,14.1
+2022,Minas Gerais,UF,Total,Total,85.8,7.4,6.8
+2022,Minas Gerais,UF,Urbana,Total,85.6,7.5,6.9
+2022,Minas Gerais,UF,Rural,Total,90.9,4.4,4.7
+2022,Minas Gerais,UF,Total,Federal,90.9,8.4,0.7
+2022,Minas Gerais,UF,Urbana,Federal,90.5,8.7,0.8
+2022,Minas Gerais,UF,Rural,Federal,92.0,7.3,0.7
+2022,Minas Gerais,UF,Total,Estadual,84.2,8.0,7.8
+2022,Minas Gerais,UF,Urbana,Estadual,84.1,8.1,7.8
+2022,Minas Gerais,UF,Rural,Estadual,90.4,3.0,6.6
+2022,Minas Gerais,UF,Total,Municipal,91.3,6.1,2.6
+2022,Minas Gerais,UF,Urbana,Municipal,91.4,6.1,2.5
+2022,Minas Gerais,UF,Rural,Municipal,89.8,6.4,3.8
+2022,Minas Gerais,UF,Total,Privada,95.5,2.9,1.6
+2022,Minas Gerais,UF,Urbana,Privada,95.6,2.9,1.5
+2022,Minas Gerais,UF,Rural,Privada,90.8,4.3,4.9
+2022,Minas Gerais,UF,Total,Pública,84.5,8.0,7.5
+2022,Minas Gerais,UF,Urbana,Pública,84.3,8.1,7.6
+2022,Minas Gerais,UF,Rural,Pública,90.9,4.4,4.7
+2022,Espírito Santo,UF,Total,Total,92.1,6.1,1.8
+2022,Espírito Santo,UF,Urbana,Total,92.0,6.2,1.8
+2022,Espírito Santo,UF,Rural,Total,94.2,4.4,1.4
+2022,Espírito Santo,UF,Total,Federal,90.9,7.1,2.0
+2022,Espírito Santo,UF,Urbana,Federal,90.3,7.5,2.2
+2022,Espírito Santo,UF,Rural,Federal,93.2,5.7,1.1
+2022,Espírito Santo,UF,Total,Estadual,91.4,6.6,2.0
+2022,Espírito Santo,UF,Urbana,Estadual,91.3,6.7,2.0
+2022,Espírito Santo,UF,Rural,Estadual,94.9,3.6,1.5
+2022,Espírito Santo,UF,Total,Municipal,,,
+2022,Espírito Santo,UF,Urbana,Municipal,,,
+2022,Espírito Santo,UF,Rural,Municipal,,,
+2022,Espírito Santo,UF,Total,Privada,97.5,2.2,0.3
+2022,Espírito Santo,UF,Urbana,Privada,97.8,2.1,0.1
+2022,Espírito Santo,UF,Rural,Privada,94.4,3.8,1.8
+2022,Espírito Santo,UF,Total,Pública,91.4,6.7,1.9
+2022,Espírito Santo,UF,Urbana,Pública,91.2,6.8,2.0
+2022,Espírito Santo,UF,Rural,Pública,94.1,4.5,1.4
+2022,Rio de Janeiro,UF,Total,Total,83.0,11.7,5.3
+2022,Rio de Janeiro,UF,Urbana,Total,82.9,11.8,5.3
+2022,Rio de Janeiro,UF,Rural,Total,87.7,8.5,3.8
+2022,Rio de Janeiro,UF,Total,Federal,84.1,13.0,2.9
+2022,Rio de Janeiro,UF,Urbana,Federal,84.4,12.9,2.7
+2022,Rio de Janeiro,UF,Rural,Federal,73.7,16.6,9.7
+2022,Rio de Janeiro,UF,Total,Estadual,79.9,13.6,6.5
+2022,Rio de Janeiro,UF,Urbana,Estadual,79.6,13.8,6.6
+2022,Rio de Janeiro,UF,Rural,Estadual,87.9,8.4,3.7
+2022,Rio de Janeiro,UF,Total,Municipal,83.4,7.8,8.8
+2022,Rio de Janeiro,UF,Urbana,Municipal,83.4,7.8,8.8
+2022,Rio de Janeiro,UF,Rural,Municipal,,,
+2022,Rio de Janeiro,UF,Total,Privada,94.5,4.3,1.2
+2022,Rio de Janeiro,UF,Urbana,Privada,94.5,4.3,1.2
+2022,Rio de Janeiro,UF,Rural,Privada,97.0,2.9,0.1
+2022,Rio de Janeiro,UF,Total,Pública,80.1,13.6,6.3
+2022,Rio de Janeiro,UF,Urbana,Pública,79.8,13.7,6.5
+2022,Rio de Janeiro,UF,Rural,Pública,87.3,8.7,4.0
+2022,São Paulo,UF,Total,Total,91.4,5.3,3.3
+2022,São Paulo,UF,Urbana,Total,91.3,5.4,3.3
+2022,São Paulo,UF,Rural,Total,95.9,2.2,1.9
+2022,São Paulo,UF,Total,Federal,95.8,3.9,0.3
+2022,São Paulo,UF,Urbana,Federal,95.8,3.9,0.3
+2022,São Paulo,UF,Total,Estadual,90.0,6.0,4.0
+2022,São Paulo,UF,Urbana,Estadual,89.9,6.1,4.0
+2022,São Paulo,UF,Rural,Estadual,95.8,2.2,2.0
+2022,São Paulo,UF,Total,Municipal,95.1,4.0,0.9
+2022,São Paulo,UF,Urbana,Municipal,95.1,4.0,0.9
+2022,São Paulo,UF,Rural,Municipal,97.3,2.2,0.5
+2022,São Paulo,UF,Total,Privada,98.3,1.6,0.1
+2022,São Paulo,UF,Urbana,Privada,98.3,1.6,0.1
+2022,São Paulo,UF,Rural,Privada,97.0,2.9,0.1
+2022,São Paulo,UF,Total,Pública,90.2,6.0,3.8
+2022,São Paulo,UF,Urbana,Pública,90.1,6.0,3.9
+2022,São Paulo,UF,Rural,Pública,95.8,2.2,2.0
+2022,Paraná,UF,Total,Total,89.6,6.8,3.6
+2022,Paraná,UF,Urbana,Total,89.5,6.8,3.7
+2022,Paraná,UF,Rural,Total,91.8,5.2,3.0
+2022,Paraná,UF,Total,Federal,90.1,8.0,1.9
+2022,Paraná,UF,Urbana,Federal,90.1,8.1,1.8
+2022,Paraná,UF,Rural,Federal,90.0,5.6,4.4
+2022,Paraná,UF,Total,Estadual,88.3,7.5,4.2
+2022,Paraná,UF,Urbana,Estadual,88.1,7.6,4.3
+2022,Paraná,UF,Rural,Estadual,91.8,5.2,3.0
+2022,Paraná,UF,Total,Municipal,100.0,0.0,0.0
+2022,Paraná,UF,Urbana,Municipal,100.0,0.0,0.0
+2022,Paraná,UF,Rural,Municipal,,,
+2022,Paraná,UF,Total,Privada,97.8,2.1,0.1
+2022,Paraná,UF,Urbana,Privada,97.8,2.1,0.1
+2022,Paraná,UF,Rural,Privada,96.1,3.7,0.2
+2022,Paraná,UF,Total,Pública,88.3,7.5,4.2
+2022,Paraná,UF,Urbana,Pública,88.2,7.6,4.2
+2022,Paraná,UF,Rural,Pública,91.7,5.2,3.1
+2022,Santa Catarina,UF,Total,Total,83.2,11.8,5.0
+2022,Santa Catarina,UF,Urbana,Total,83.0,12.0,5.0
+2022,Santa Catarina,UF,Rural,Total,90.3,7.2,2.5
+2022,Santa Catarina,UF,Total,Federal,88.3,9.2,2.5
+2022,Santa Catarina,UF,Urbana,Federal,88.0,9.5,2.5
+2022,Santa Catarina,UF,Rural,Federal,92.9,4.8,2.3
+2022,Santa Catarina,UF,Total,Estadual,80.6,13.5,5.9
+2022,Santa Catarina,UF,Urbana,Estadual,80.4,13.6,6.0
+2022,Santa Catarina,UF,Rural,Estadual,89.5,7.8,2.7
+2022,Santa Catarina,UF,Total,Municipal,93.7,3.8,2.5
+2022,Santa Catarina,UF,Urbana,Municipal,94.3,5.7,0.0
+2022,Santa Catarina,UF,Rural,Municipal,92.5,0.0,7.5
+2022,Santa Catarina,UF,Total,Privada,97.3,2.5,0.2
+2022,Santa Catarina,UF,Urbana,Privada,97.3,2.4,0.3
+2022,Santa Catarina,UF,Rural,Privada,93.5,6.3,0.2
+2022,Santa Catarina,UF,Total,Pública,81.0,13.3,5.7
+2022,Santa Catarina,UF,Urbana,Pública,80.8,13.4,5.8
+2022,Santa Catarina,UF,Rural,Pública,90.0,7.3,2.7
+2022,Rio Grande do Sul,UF,Total,Total,82.2,8.3,9.5
+2022,Rio Grande do Sul,UF,Urbana,Total,82.2,8.2,9.6
+2022,Rio Grande do Sul,UF,Rural,Total,81.5,10.4,8.1
+2022,Rio Grande do Sul,UF,Total,Federal,83.5,11.9,4.6
+2022,Rio Grande do Sul,UF,Urbana,Federal,83.7,11.4,4.9
+2022,Rio Grande do Sul,UF,Rural,Federal,83.0,13.8,3.2
+2022,Rio Grande do Sul,UF,Total,Estadual,80.1,8.9,11.0
+2022,Rio Grande do Sul,UF,Urbana,Estadual,80.0,8.8,11.2
+2022,Rio Grande do Sul,UF,Rural,Estadual,80.1,9.9,10.0
+2022,Rio Grande do Sul,UF,Total,Municipal,79.2,8.2,12.6
+2022,Rio Grande do Sul,UF,Urbana,Municipal,78.4,8.6,13.0
+2022,Rio Grande do Sul,UF,Rural,Municipal,84.8,5.6,9.6
+2022,Rio Grande do Sul,UF,Total,Privada,96.4,2.9,0.7
+2022,Rio Grande do Sul,UF,Urbana,Privada,96.4,2.9,0.7
+2022,Rio Grande do Sul,UF,Rural,Privada,96.2,1.1,2.7
+2022,Rio Grande do Sul,UF,Total,Pública,80.2,9.0,10.8
+2022,Rio Grande do Sul,UF,Urbana,Pública,80.2,8.9,10.9
+2022,Rio Grande do Sul,UF,Rural,Pública,80.9,10.8,8.3
+2022,Mato Grosso do Sul,UF,Total,Total,84.2,11.1,4.7
+2022,Mato Grosso do Sul,UF,Urbana,Total,84.5,11.0,4.5
+2022,Mato Grosso do Sul,UF,Rural,Total,81.4,12.9,5.7
+2022,Mato Grosso do Sul,UF,Total,Federal,88.7,7.6,3.7
+2022,Mato Grosso do Sul,UF,Urbana,Federal,87.6,8.3,4.1
+2022,Mato Grosso do Sul,UF,Rural,Federal,93.8,4.3,1.9
+2022,Mato Grosso do Sul,UF,Total,Estadual,82.5,12.4,5.1
+2022,Mato Grosso do Sul,UF,Urbana,Estadual,82.8,12.2,5.0
+2022,Mato Grosso do Sul,UF,Rural,Estadual,78.3,15.0,6.7
+2022,Mato Grosso do Sul,UF,Total,Municipal,97.1,2.9,0.0
+2022,Mato Grosso do Sul,UF,Urbana,Municipal,,,
+2022,Mato Grosso do Sul,UF,Rural,Municipal,97.1,2.9,0.0
+2022,Mato Grosso do Sul,UF,Total,Privada,96.8,2.5,0.7
+2022,Mato Grosso do Sul,UF,Urbana,Privada,96.8,2.5,0.7
+2022,Mato Grosso do Sul,UF,Rural,Privada,97.0,1.8,1.2
+2022,Mato Grosso do Sul,UF,Total,Pública,82.8,12.1,5.1
+2022,Mato Grosso do Sul,UF,Urbana,Pública,83.0,12.0,5.0
+2022,Mato Grosso do Sul,UF,Rural,Pública,80.6,13.4,6.0
+2022,Mato Grosso,UF,Total,Total,73.4,16.9,9.7
+2022,Mato Grosso,UF,Urbana,Total,72.8,17.3,9.9
+2022,Mato Grosso,UF,Rural,Total,78.2,14.3,7.5
+2022,Mato Grosso,UF,Total,Federal,91.6,7.2,1.2
+2022,Mato Grosso,UF,Urbana,Federal,92.1,6.5,1.4
+2022,Mato Grosso,UF,Rural,Federal,89.7,9.4,0.9
+2022,Mato Grosso,UF,Total,Estadual,70.0,19.0,11.0
+2022,Mato Grosso,UF,Urbana,Estadual,69.1,19.5,11.4
+2022,Mato Grosso,UF,Rural,Estadual,76.8,14.9,8.3
+2022,Mato Grosso,UF,Total,Municipal,,,
+2022,Mato Grosso,UF,Urbana,Municipal,,,
+2022,Mato Grosso,UF,Rural,Municipal,,,
+2022,Mato Grosso,UF,Total,Privada,97.1,1.8,1.1
+2022,Mato Grosso,UF,Urbana,Privada,97.1,1.8,1.1
+2022,Mato Grosso,UF,Rural,Privada,100.0,0.0,0.0
+2022,Mato Grosso,UF,Total,Pública,71.2,18.3,10.5
+2022,Mato Grosso,UF,Urbana,Pública,70.2,18.9,10.9
+2022,Mato Grosso,UF,Rural,Pública,78.1,14.4,7.5
+2022,Goiás,UF,Total,Total,95.5,2.9,1.6
+2022,Goiás,UF,Urbana,Total,95.5,2.9,1.6
+2022,Goiás,UF,Rural,Total,95.8,2.9,1.3
+2022,Goiás,UF,Total,Federal,86.1,12.3,1.6
+2022,Goiás,UF,Urbana,Federal,85.4,13.2,1.4
+2022,Goiás,UF,Rural,Federal,88.6,9.3,2.1
+2022,Goiás,UF,Total,Estadual,95.5,2.7,1.8
+2022,Goiás,UF,Urbana,Estadual,95.5,2.7,1.8
+2022,Goiás,UF,Rural,Estadual,98.0,0.7,1.3
+2022,Goiás,UF,Total,Municipal,93.8,4.0,2.2
+2022,Goiás,UF,Urbana,Municipal,93.0,4.3,2.7
+2022,Goiás,UF,Rural,Municipal,98.5,1.5,0.0
+2022,Goiás,UF,Total,Privada,97.6,2.0,0.4
+2022,Goiás,UF,Urbana,Privada,97.6,2.0,0.4
+2022,Goiás,UF,Rural,Privada,99.2,0.8,0.0
+2022,Goiás,UF,Total,Pública,95.2,3.0,1.8
+2022,Goiás,UF,Urbana,Pública,95.2,3.0,1.8
+2022,Goiás,UF,Rural,Pública,95.3,3.2,1.5
+2022,Distrito Federal,UF,Total,Total,88.2,8.2,3.6
+2022,Distrito Federal,UF,Urbana,Total,88.2,8.2,3.6
+2022,Distrito Federal,UF,Rural,Total,87.7,9.0,3.3
+2022,Distrito Federal,UF,Total,Federal,88.2,8.4,3.4
+2022,Distrito Federal,UF,Urbana,Federal,89.9,7.5,2.6
+2022,Distrito Federal,UF,Rural,Federal,78.1,13.8,8.1
+2022,Distrito Federal,UF,Total,Estadual,85.4,9.9,4.7
+2022,Distrito Federal,UF,Urbana,Estadual,85.4,9.9,4.7
+2022,Distrito Federal,UF,Rural,Estadual,88.0,9.3,2.7
+2022,Distrito Federal,UF,Total,Privada,96.9,2.6,0.5
+2022,Distrito Federal,UF,Urbana,Privada,96.9,2.6,0.5
+2022,Distrito Federal,UF,Rural,Privada,99.2,0.8,0.0
+2022,Distrito Federal,UF,Total,Pública,85.6,9.8,4.6
+2022,Distrito Federal,UF,Urbana,Pública,85.5,9.8,4.7
+2022,Distrito Federal,UF,Rural,Pública,86.0,10.2,3.8
+2023,Brasil,Brasil,Total,Total,91.3,5.3,3.4
+2023,Brasil,Brasil,Urbana,Total,91.3,5.4,3.3
+2023,Brasil,Brasil,Rural,Total,92.5,3.9,3.6
+2023,Brasil,Brasil,Total,Federal,90.3,8.3,1.4
+2023,Brasil,Brasil,Urbana,Federal,90.1,8.4,1.5
+2023,Brasil,Brasil,Rural,Federal,91.3,7.7,1.0
+2023,Brasil,Brasil,Total,Estadual,90.5,5.7,3.8
+2023,Brasil,Brasil,Urbana,Estadual,90.4,5.8,3.8
+2023,Brasil,Brasil,Rural,Estadual,92.6,3.6,3.8
+2023,Brasil,Brasil,Total,Municipal,93.7,4.2,2.1
+2023,Brasil,Brasil,Urbana,Municipal,93.6,4.4,2.0
+2023,Brasil,Brasil,Rural,Municipal,94.8,2.4,2.8
+2023,Brasil,Brasil,Total,Privada,97.1,2.3,0.6
+2023,Brasil,Brasil,Urbana,Privada,97.2,2.3,0.5
+2023,Brasil,Brasil,Rural,Privada,93.7,3.2,3.1
+2023,Brasil,Brasil,Total,Pública,90.5,5.7,3.8
+2023,Brasil,Brasil,Urbana,Pública,90.4,5.9,3.7
+2023,Brasil,Brasil,Rural,Pública,92.5,3.9,3.6
+2023,Norte,Regiao,Total,Total,93.9,3.7,2.4
+2023,Norte,Regiao,Urbana,Total,94.1,3.9,2.0
+2023,Norte,Regiao,Rural,Total,92.7,2.9,4.4
+2023,Norte,Regiao,Total,Federal,92.5,6.5,1.0
+2023,Norte,Regiao,Urbana,Federal,92.3,6.7,1.0
+2023,Norte,Regiao,Rural,Federal,93.7,5.4,0.9
+2023,Norte,Regiao,Total,Estadual,93.6,3.7,2.7
+2023,Norte,Regiao,Urbana,Estadual,93.8,3.9,2.3
+2023,Norte,Regiao,Rural,Estadual,92.8,2.8,4.4
+2023,Norte,Regiao,Total,Municipal,100.0,0.0,0.0
+2023,Norte,Regiao,Urbana,Municipal,100.0,0.0,0.0
+2023,Norte,Regiao,Rural,Municipal,,,
+2023,Norte,Regiao,Total,Privada,97.3,2.0,0.7
+2023,Norte,Regiao,Urbana,Privada,97.7,1.9,0.4
+2023,Norte,Regiao,Rural,Privada,88.9,3.5,7.6
+2023,Norte,Regiao,Total,Pública,93.6,3.8,2.6
+2023,Norte,Regiao,Urbana,Pública,93.8,4.0,2.2
+2023,Norte,Regiao,Rural,Pública,92.8,2.9,4.3
+2023,Nordeste,Regiao,Total,Total,92.5,4.1,3.4
+2023,Nordeste,Regiao,Urbana,Total,92.5,4.1,3.4
+2023,Nordeste,Regiao,Rural,Total,92.2,3.8,4.0
+2023,Nordeste,Regiao,Total,Federal,88.9,9.5,1.6
+2023,Nordeste,Regiao,Urbana,Federal,88.7,9.7,1.6
+2023,Nordeste,Regiao,Rural,Federal,90.3,8.5,1.2
+2023,Nordeste,Regiao,Total,Estadual,92.1,4.1,3.8
+2023,Nordeste,Regiao,Urbana,Estadual,92.1,4.1,3.8
+2023,Nordeste,Regiao,Rural,Estadual,92.4,3.5,4.1
+2023,Nordeste,Regiao,Total,Municipal,93.4,2.3,4.3
+2023,Nordeste,Regiao,Urbana,Municipal,89.7,3.3,7.0
+2023,Nordeste,Regiao,Rural,Municipal,95.5,1.7,2.8
+2023,Nordeste,Regiao,Total,Privada,97.1,2.3,0.6
+2023,Nordeste,Regiao,Urbana,Privada,97.2,2.2,0.6
+2023,Nordeste,Regiao,Rural,Privada,91.0,4.1,4.9
+2023,Nordeste,Regiao,Total,Pública,92.0,4.3,3.7
+2023,Nordeste,Regiao,Urbana,Pública,91.9,4.3,3.8
+2023,Nordeste,Regiao,Rural,Pública,92.3,3.8,3.9
+2023,Sudeste,Regiao,Total,Total,90.6,5.9,3.5
+2023,Sudeste,Regiao,Urbana,Total,90.5,6.0,3.5
+2023,Sudeste,Regiao,Rural,Total,93.2,4.6,2.2
+2023,Sudeste,Regiao,Total,Federal,91.0,7.9,1.1
+2023,Sudeste,Regiao,Urbana,Federal,91.0,7.9,1.1
+2023,Sudeste,Regiao,Rural,Federal,91.3,8.1,0.6
+2023,Sudeste,Regiao,Total,Estadual,89.3,6.6,4.1
+2023,Sudeste,Regiao,Urbana,Estadual,89.2,6.6,4.2
+2023,Sudeste,Regiao,Rural,Estadual,93.2,4.2,2.6
+2023,Sudeste,Regiao,Total,Municipal,95.4,3.4,1.2
+2023,Sudeste,Regiao,Urbana,Municipal,95.4,3.5,1.1
+2023,Sudeste,Regiao,Rural,Municipal,95.4,2.2,2.4
+2023,Sudeste,Regiao,Total,Privada,97.3,2.4,0.3
+2023,Sudeste,Regiao,Urbana,Privada,97.3,2.3,0.4
+2023,Sudeste,Regiao,Rural,Privada,96.3,2.5,1.2
+2023,Sudeste,Regiao,Total,Pública,89.4,6.6,4.0
+2023,Sudeste,Regiao,Urbana,Pública,89.3,6.6,4.1
+2023,Sudeste,Regiao,Rural,Pública,93.0,4.7,2.3
+2023,Sul,Regiao,Total,Total,88.4,7.6,4.0
+2023,Sul,Regiao,Urbana,Total,88.2,7.7,4.1
+2023,Sul,Regiao,Rural,Total,91.2,5.6,3.2
+2023,Sul,Regiao,Total,Federal,90.1,8.3,1.6
+2023,Sul,Regiao,Urbana,Federal,89.9,8.5,1.6
+2023,Sul,Regiao,Rural,Federal,91.7,7.1,1.2
+2023,Sul,Regiao,Total,Estadual,86.9,8.4,4.7
+2023,Sul,Regiao,Urbana,Estadual,86.8,8.5,4.7
+2023,Sul,Regiao,Rural,Estadual,90.9,5.5,3.6
+2023,Sul,Regiao,Total,Municipal,78.8,14.7,6.5
+2023,Sul,Regiao,Urbana,Municipal,76.9,16.2,6.9
+2023,Sul,Regiao,Rural,Municipal,89.7,6.0,4.3
+2023,Sul,Regiao,Total,Privada,96.7,2.5,0.8
+2023,Sul,Regiao,Urbana,Privada,96.7,2.5,0.8
+2023,Sul,Regiao,Rural,Privada,96.5,3.1,0.4
+2023,Sul,Regiao,Total,Pública,87.0,8.4,4.6
+2023,Sul,Regiao,Urbana,Pública,86.8,8.6,4.6
+2023,Sul,Regiao,Rural,Pública,91.0,5.7,3.3
+2023,Centro-Oeste,Regiao,Total,Total,93.5,4.4,2.1
+2023,Centro-Oeste,Regiao,Urbana,Total,93.5,4.4,2.1
+2023,Centro-Oeste,Regiao,Rural,Total,93.4,4.8,1.8
+2023,Centro-Oeste,Regiao,Total,Federal,90.9,7.0,2.1
+2023,Centro-Oeste,Regiao,Urbana,Federal,90.9,6.9,2.2
+2023,Centro-Oeste,Regiao,Rural,Federal,91.2,7.6,1.2
+2023,Centro-Oeste,Regiao,Total,Estadual,93.1,4.6,2.3
+2023,Centro-Oeste,Regiao,Urbana,Estadual,93.1,4.7,2.2
+2023,Centro-Oeste,Regiao,Rural,Estadual,93.5,4.3,2.2
+2023,Centro-Oeste,Regiao,Total,Municipal,92.8,5.6,1.6
+2023,Centro-Oeste,Regiao,Urbana,Municipal,93.4,4.3,2.3
+2023,Centro-Oeste,Regiao,Rural,Municipal,91.0,9.0,0.0
+2023,Centro-Oeste,Regiao,Total,Privada,96.6,2.3,1.1
+2023,Centro-Oeste,Regiao,Urbana,Privada,96.6,2.3,1.1
+2023,Centro-Oeste,Regiao,Rural,Privada,98.2,1.6,0.2
+2023,Centro-Oeste,Regiao,Total,Pública,93.0,4.8,2.2
+2023,Centro-Oeste,Regiao,Urbana,Pública,93.0,4.8,2.2
+2023,Centro-Oeste,Regiao,Rural,Pública,93.1,4.9,2.0
+2023,Rondônia,UF,Total,Total,91.0,5.1,3.9
+2023,Rondônia,UF,Urbana,Total,91.0,5.1,3.9
+2023,Rondônia,UF,Rural,Total,91.1,3.8,5.1
+2023,Rondônia,UF,Total,Federal,94.8,5.0,0.2
+2023,Rondônia,UF,Urbana,Federal,94.5,5.3,0.2
+2023,Rondônia,UF,Rural,Federal,95.7,4.0,0.3
+2023,Rondônia,UF,Total,Estadual,90.4,5.1,4.5
+2023,Rondônia,UF,Urbana,Estadual,90.5,5.2,4.3
+2023,Rondônia,UF,Rural,Estadual,87.8,3.5,8.7
+2023,Rondônia,UF,Total,Municipal,,,
+2023,Rondônia,UF,Urbana,Municipal,,,
+2023,Rondônia,UF,Rural,Municipal,,,
+2023,Rondônia,UF,Total,Privada,95.1,4.4,0.5
+2023,Rondônia,UF,Urbana,Privada,95.4,4.4,0.2
+2023,Rondônia,UF,Rural,Privada,93.7,4.1,2.2
+2023,Rondônia,UF,Total,Pública,90.7,5.1,4.2
+2023,Rondônia,UF,Urbana,Pública,90.7,5.2,4.1
+2023,Rondônia,UF,Rural,Pública,90.4,3.7,5.9
+2023,Acre,UF,Total,Total,87.7,6.2,6.1
+2023,Acre,UF,Urbana,Total,89.3,7.4,3.3
+2023,Acre,UF,Rural,Total,83.2,2.6,14.2
+2023,Acre,UF,Total,Federal,94.3,4.3,1.4
+2023,Acre,UF,Urbana,Federal,93.2,5.1,1.7
+2023,Acre,UF,Rural,Federal,98.1,1.5,0.4
+2023,Acre,UF,Total,Estadual,86.8,6.6,6.6
+2023,Acre,UF,Urbana,Estadual,88.4,8.0,3.6
+2023,Acre,UF,Rural,Estadual,82.5,2.6,14.9
+2023,Acre,UF,Total,Municipal,,,
+2023,Acre,UF,Urbana,Municipal,,,
+2023,Acre,UF,Rural,Municipal,,,
+2023,Acre,UF,Total,Privada,96.8,1.6,1.6
+2023,Acre,UF,Urbana,Privada,96.8,1.6,1.6
+2023,Acre,UF,Total,Pública,87.2,6.5,6.3
+2023,Acre,UF,Urbana,Pública,88.6,7.9,3.5
+2023,Acre,UF,Rural,Pública,83.2,2.6,14.2
+2023,Amazonas,UF,Total,Total,89.6,6.2,4.2
+2023,Amazonas,UF,Urbana,Total,89.8,6.5,3.7
+2023,Amazonas,UF,Rural,Total,89.0,4.5,6.5
+2023,Amazonas,UF,Total,Federal,91.8,7.7,0.5
+2023,Amazonas,UF,Urbana,Federal,91.4,8.0,0.6
+2023,Amazonas,UF,Rural,Federal,94.6,5.1,0.3
+2023,Amazonas,UF,Total,Estadual,89.2,6.3,4.5
+2023,Amazonas,UF,Urbana,Estadual,89.3,6.7,4.0
+2023,Amazonas,UF,Rural,Estadual,88.8,4.5,6.7
+2023,Amazonas,UF,Total,Municipal,,,
+2023,Amazonas,UF,Urbana,Municipal,,,
+2023,Amazonas,UF,Rural,Municipal,,,
+2023,Amazonas,UF,Total,Privada,96.9,2.7,0.4
+2023,Amazonas,UF,Urbana,Privada,96.8,2.7,0.5
+2023,Amazonas,UF,Rural,Privada,100.0,0.0,0.0
+2023,Amazonas,UF,Total,Pública,89.3,6.3,4.4
+2023,Amazonas,UF,Urbana,Pública,89.4,6.8,3.8
+2023,Amazonas,UF,Rural,Pública,88.9,4.5,6.6
+2023,Roraima,UF,Total,Total,88.0,7.7,4.3
+2023,Roraima,UF,Urbana,Total,88.1,8.8,3.1
+2023,Roraima,UF,Rural,Total,87.6,3.7,8.7
+2023,Roraima,UF,Total,Federal,92.1,5.3,2.6
+2023,Roraima,UF,Urbana,Federal,92.1,4.8,3.1
+2023,Roraima,UF,Rural,Federal,92.1,6.4,1.5
+2023,Roraima,UF,Total,Estadual,87.2,8.1,4.7
+2023,Roraima,UF,Urbana,Estadual,87.3,9.4,3.3
+2023,Roraima,UF,Rural,Estadual,87.1,3.5,9.4
+2023,Roraima,UF,Total,Municipal,,,
+2023,Roraima,UF,Urbana,Municipal,,,
+2023,Roraima,UF,Rural,Municipal,,,
+2023,Roraima,UF,Total,Privada,96.0,3.9,0.1
+2023,Roraima,UF,Urbana,Privada,95.9,3.9,0.2
+2023,Roraima,UF,Rural,Privada,100.0,0.0,0.0
+2023,Roraima,UF,Total,Pública,87.6,7.9,4.5
+2023,Roraima,UF,Urbana,Pública,87.6,9.1,3.3
+2023,Roraima,UF,Rural,Pública,87.6,3.7,8.7
+2023,Pará,UF,Total,Total,98.7,0.9,0.4
+2023,Pará,UF,Urbana,Total,99.0,0.8,0.2
+2023,Pará,UF,Rural,Total,97.6,1.5,0.9
+2023,Pará,UF,Total,Federal,91.1,7.1,1.8
+2023,Pará,UF,Urbana,Federal,91.1,7.3,1.6
+2023,Pará,UF,Rural,Federal,91.2,3.7,5.1
+2023,Pará,UF,Total,Estadual,99.0,0.7,0.3
+2023,Pará,UF,Urbana,Estadual,99.3,0.5,0.2
+2023,Pará,UF,Rural,Estadual,97.9,1.5,0.6
+2023,Pará,UF,Total,Municipal,100.0,0.0,0.0
+2023,Pará,UF,Urbana,Municipal,100.0,0.0,0.0
+2023,Pará,UF,Rural,Municipal,,,
+2023,Pará,UF,Total,Privada,97.8,1.4,0.8
+2023,Pará,UF,Urbana,Privada,98.3,1.3,0.4
+2023,Pará,UF,Rural,Privada,83.3,2.7,14.0
+2023,Pará,UF,Total,Pública,98.8,0.9,0.3
+2023,Pará,UF,Urbana,Pública,99.0,0.7,0.3
+2023,Pará,UF,Rural,Pública,97.8,1.5,0.7
+2023,Amapá,UF,Total,Total,86.6,8.6,4.8
+2023,Amapá,UF,Urbana,Total,87.3,8.8,3.9
+2023,Amapá,UF,Rural,Total,82.0,7.5,10.5
+2023,Amapá,UF,Total,Federal,96.4,3.4,0.2
+2023,Amapá,UF,Urbana,Federal,96.4,3.4,0.2
+2023,Amapá,UF,Total,Estadual,84.9,9.6,5.5
+2023,Amapá,UF,Urbana,Estadual,85.4,10.0,4.6
+2023,Amapá,UF,Rural,Estadual,82.0,7.6,10.4
+2023,Amapá,UF,Total,Municipal,,,
+2023,Amapá,UF,Urbana,Municipal,,,
+2023,Amapá,UF,Rural,Municipal,,,
+2023,Amapá,UF,Total,Privada,98.2,0.9,0.9
+2023,Amapá,UF,Urbana,Privada,99.5,0.5,0.0
+2023,Amapá,UF,Rural,Privada,82.1,5.8,12.1
+2023,Amapá,UF,Total,Pública,85.5,9.3,5.2
+2023,Amapá,UF,Urbana,Pública,86.2,9.5,4.3
+2023,Amapá,UF,Rural,Pública,82.0,7.6,10.4
+2023,Tocantins,UF,Total,Total,94.7,3.5,1.8
+2023,Tocantins,UF,Urbana,Total,94.9,3.3,1.8
+2023,Tocantins,UF,Rural,Total,92.6,4.9,2.5
+2023,Tocantins,UF,Total,Federal,91.2,8.4,0.4
+2023,Tocantins,UF,Urbana,Federal,91.6,8.0,0.4
+2023,Tocantins,UF,Rural,Federal,90.1,9.6,0.3
+2023,Tocantins,UF,Total,Estadual,94.6,3.3,2.1
+2023,Tocantins,UF,Urbana,Estadual,94.8,3.2,2.0
+2023,Tocantins,UF,Rural,Estadual,92.9,4.0,3.1
+2023,Tocantins,UF,Total,Municipal,,,
+2023,Tocantins,UF,Urbana,Municipal,,,
+2023,Tocantins,UF,Rural,Municipal,,,
+2023,Tocantins,UF,Total,Privada,97.7,2.2,0.1
+2023,Tocantins,UF,Urbana,Privada,97.8,2.1,0.1
+2023,Tocantins,UF,Rural,Privada,95.2,4.8,0.0
+2023,Tocantins,UF,Total,Pública,94.5,3.6,1.9
+2023,Tocantins,UF,Urbana,Pública,94.6,3.4,2.0
+2023,Tocantins,UF,Rural,Pública,92.5,4.9,2.6
+2023,Maranhão,UF,Total,Total,92.5,4.1,3.4
+2023,Maranhão,UF,Urbana,Total,92.9,4.1,3.0
+2023,Maranhão,UF,Rural,Total,90.2,4.5,5.3
+2023,Maranhão,UF,Total,Federal,90.1,8.6,1.3
+2023,Maranhão,UF,Urbana,Federal,90.0,8.7,1.3
+2023,Maranhão,UF,Rural,Federal,90.6,8.3,1.1
+2023,Maranhão,UF,Total,Estadual,92.3,4.1,3.6
+2023,Maranhão,UF,Urbana,Estadual,92.7,4.1,3.2
+2023,Maranhão,UF,Rural,Estadual,89.8,4.5,5.7
+2023,Maranhão,UF,Total,Municipal,99.0,0.1,0.9
+2023,Maranhão,UF,Urbana,Municipal,98.3,0.4,1.3
+2023,Maranhão,UF,Rural,Municipal,99.3,0.0,0.7
+2023,Maranhão,UF,Total,Privada,96.6,1.9,1.5
+2023,Maranhão,UF,Urbana,Privada,97.9,1.6,0.5
+2023,Maranhão,UF,Rural,Privada,82.2,4.9,12.9
+2023,Maranhão,UF,Total,Pública,92.3,4.3,3.4
+2023,Maranhão,UF,Urbana,Pública,92.6,4.2,3.2
+2023,Maranhão,UF,Rural,Pública,90.5,4.5,5.0
+2023,Piauí,UF,Total,Total,96.5,1.5,2.0
+2023,Piauí,UF,Urbana,Total,96.6,1.6,1.8
+2023,Piauí,UF,Rural,Total,96.0,1.0,3.0
+2023,Piauí,UF,Total,Federal,94.5,4.6,0.9
+2023,Piauí,UF,Urbana,Federal,94.4,4.8,0.8
+2023,Piauí,UF,Rural,Federal,94.9,2.8,2.3
+2023,Piauí,UF,Total,Estadual,96.7,1.1,2.2
+2023,Piauí,UF,Urbana,Estadual,96.7,1.1,2.2
+2023,Piauí,UF,Rural,Estadual,96.1,0.7,3.2
+2023,Piauí,UF,Total,Municipal,,,
+2023,Piauí,UF,Urbana,Municipal,,,
+2023,Piauí,UF,Rural,Municipal,,,
+2023,Piauí,UF,Total,Privada,96.9,2.8,0.3
+2023,Piauí,UF,Urbana,Privada,96.9,2.8,0.3
+2023,Piauí,UF,Rural,Privada,100.0,0.0,0.0
+2023,Piauí,UF,Total,Pública,96.5,1.4,2.1
+2023,Piauí,UF,Urbana,Pública,96.5,1.4,2.1
+2023,Piauí,UF,Rural,Pública,96.0,1.0,3.0
+2023,Ceará,UF,Total,Total,96.9,1.1,2.0
+2023,Ceará,UF,Urbana,Total,96.9,1.1,2.0
+2023,Ceará,UF,Rural,Total,97.7,0.6,1.7
+2023,Ceará,UF,Total,Federal,83.9,14.1,2.0
+2023,Ceará,UF,Urbana,Federal,83.9,14.0,2.1
+2023,Ceará,UF,Rural,Federal,83.5,16.0,0.5
+2023,Ceará,UF,Total,Estadual,97.1,0.8,2.1
+2023,Ceará,UF,Urbana,Estadual,97.0,0.8,2.2
+2023,Ceará,UF,Rural,Estadual,98.0,0.3,1.7
+2023,Ceará,UF,Total,Municipal,,,
+2023,Ceará,UF,Urbana,Municipal,,,
+2023,Ceará,UF,Rural,Municipal,,,
+2023,Ceará,UF,Total,Privada,97.9,1.7,0.4
+2023,Ceará,UF,Urbana,Privada,97.9,1.7,0.4
+2023,Ceará,UF,Rural,Privada,95.4,0.0,4.6
+2023,Ceará,UF,Total,Pública,96.8,1.0,2.2
+2023,Ceará,UF,Urbana,Pública,96.8,1.1,2.1
+2023,Ceará,UF,Rural,Pública,97.7,0.6,1.7
+2023,Rio Grande do Norte,UF,Total,Total,79.9,12.0,8.1
+2023,Rio Grande do Norte,UF,Urbana,Total,79.9,12.1,8.0
+2023,Rio Grande do Norte,UF,Rural,Total,81.7,9.0,9.3
+2023,Rio Grande do Norte,UF,Total,Federal,89.1,10.3,0.6
+2023,Rio Grande do Norte,UF,Urbana,Federal,88.9,10.4,0.7
+2023,Rio Grande do Norte,UF,Rural,Federal,90.5,9.4,0.1
+2023,Rio Grande do Norte,UF,Total,Estadual,75.8,14.0,10.2
+2023,Rio Grande do Norte,UF,Urbana,Estadual,75.7,14.2,10.1
+2023,Rio Grande do Norte,UF,Rural,Estadual,78.2,9.0,12.8
+2023,Rio Grande do Norte,UF,Total,Municipal,,,
+2023,Rio Grande do Norte,UF,Urbana,Municipal,,,
+2023,Rio Grande do Norte,UF,Rural,Municipal,,,
+2023,Rio Grande do Norte,UF,Total,Privada,95.8,2.6,1.6
+2023,Rio Grande do Norte,UF,Urbana,Privada,95.8,2.6,1.6
+2023,Rio Grande do Norte,UF,Rural,Privada,100.0,0.0,0.0
+2023,Rio Grande do Norte,UF,Total,Pública,77.4,13.5,9.1
+2023,Rio Grande do Norte,UF,Urbana,Pública,77.2,13.7,9.1
+2023,Rio Grande do Norte,UF,Rural,Pública,81.5,9.1,9.4
+2023,Paraíba,UF,Total,Total,86.0,7.5,6.5
+2023,Paraíba,UF,Urbana,Total,86.1,7.4,6.5
+2023,Paraíba,UF,Rural,Total,83.5,9.3,7.2
+2023,Paraíba,UF,Total,Federal,93.1,6.4,0.5
+2023,Paraíba,UF,Urbana,Federal,93.1,6.4,0.5
+2023,Paraíba,UF,Rural,Federal,90.3,5.8,3.9
+2023,Paraíba,UF,Total,Estadual,83.6,8.5,7.9
+2023,Paraíba,UF,Urbana,Estadual,83.6,8.4,8.0
+2023,Paraíba,UF,Rural,Estadual,83.2,9.5,7.3
+2023,Paraíba,UF,Total,Municipal,78.8,11.9,9.3
+2023,Paraíba,UF,Urbana,Municipal,71.2,16.2,12.6
+2023,Paraíba,UF,Rural,Municipal,95.9,2.0,2.1
+2023,Paraíba,UF,Total,Privada,97.6,2.0,0.4
+2023,Paraíba,UF,Urbana,Privada,97.6,2.0,0.4
+2023,Paraíba,UF,Rural,Privada,,,
+2023,Paraíba,UF,Total,Pública,84.2,8.3,7.5
+2023,Paraíba,UF,Urbana,Pública,84.2,8.3,7.5
+2023,Paraíba,UF,Rural,Pública,83.5,9.3,7.2
+2023,Pernambuco,UF,Total,Total,95.2,3.9,0.9
+2023,Pernambuco,UF,Urbana,Total,95.4,3.8,0.8
+2023,Pernambuco,UF,Rural,Total,91.6,6.0,2.4
+2023,Pernambuco,UF,Total,Federal,86.4,10.5,3.1
+2023,Pernambuco,UF,Urbana,Federal,86.6,9.7,3.7
+2023,Pernambuco,UF,Rural,Federal,85.8,12.8,1.4
+2023,Pernambuco,UF,Total,Estadual,95.1,4.0,0.9
+2023,Pernambuco,UF,Urbana,Estadual,95.3,3.9,0.8
+2023,Pernambuco,UF,Rural,Estadual,92.3,5.2,2.5
+2023,Pernambuco,UF,Total,Municipal,83.1,5.8,11.1
+2023,Pernambuco,UF,Urbana,Municipal,,,
+2023,Pernambuco,UF,Rural,Municipal,83.1,5.8,11.1
+2023,Pernambuco,UF,Total,Privada,97.5,2.1,0.4
+2023,Pernambuco,UF,Urbana,Privada,97.5,2.0,0.5
+2023,Pernambuco,UF,Rural,Privada,92.9,7.1,0.0
+2023,Pernambuco,UF,Total,Pública,94.9,4.2,0.9
+2023,Pernambuco,UF,Urbana,Pública,95.1,4.0,0.9
+2023,Pernambuco,UF,Rural,Pública,91.6,5.9,2.5
+2023,Alagoas,UF,Total,Total,93.8,3.6,2.6
+2023,Alagoas,UF,Urbana,Total,93.7,3.7,2.6
+2023,Alagoas,UF,Rural,Total,94.6,2.4,3.0
+2023,Alagoas,UF,Total,Federal,86.7,10.8,2.5
+2023,Alagoas,UF,Urbana,Federal,86.7,10.8,2.5
+2023,Alagoas,UF,Total,Estadual,93.9,3.2,2.9
+2023,Alagoas,UF,Urbana,Estadual,93.9,3.2,2.9
+2023,Alagoas,UF,Rural,Estadual,94.6,2.4,3.0
+2023,Alagoas,UF,Total,Municipal,,,
+2023,Alagoas,UF,Urbana,Municipal,,,
+2023,Alagoas,UF,Rural,Municipal,,,
+2023,Alagoas,UF,Total,Privada,96.8,2.8,0.4
+2023,Alagoas,UF,Urbana,Privada,96.8,2.9,0.3
+2023,Alagoas,UF,Rural,Privada,100.0,0.0,0.0
+2023,Alagoas,UF,Total,Pública,93.4,3.8,2.8
+2023,Alagoas,UF,Urbana,Pública,93.3,3.8,2.9
+2023,Alagoas,UF,Rural,Pública,94.6,2.4,3.0
+2023,Sergipe,UF,Total,Total,89.7,7.7,2.6
+2023,Sergipe,UF,Urbana,Total,89.5,7.8,2.7
+2023,Sergipe,UF,Rural,Total,91.9,6.2,1.9
+2023,Sergipe,UF,Total,Federal,84.2,14.1,1.7
+2023,Sergipe,UF,Urbana,Federal,80.9,17.2,1.9
+2023,Sergipe,UF,Rural,Federal,89.7,8.9,1.4
+2023,Sergipe,UF,Total,Estadual,88.4,8.5,3.1
+2023,Sergipe,UF,Urbana,Estadual,88.2,8.7,3.1
+2023,Sergipe,UF,Rural,Estadual,92.4,5.6,2.0
+2023,Sergipe,UF,Total,Municipal,,,
+2023,Sergipe,UF,Urbana,Municipal,,,
+2023,Sergipe,UF,Rural,Municipal,,,
+2023,Sergipe,UF,Total,Privada,97.7,1.9,0.4
+2023,Sergipe,UF,Urbana,Privada,97.7,1.9,0.4
+2023,Sergipe,UF,Rural,Privada,,,
+2023,Sergipe,UF,Total,Pública,88.3,8.7,3.0
+2023,Sergipe,UF,Urbana,Pública,88.0,8.8,3.2
+2023,Sergipe,UF,Rural,Pública,91.9,6.2,1.9
+2023,Bahia,UF,Total,Total,91.7,3.5,4.8
+2023,Bahia,UF,Urbana,Total,91.5,3.6,4.9
+2023,Bahia,UF,Rural,Total,93.5,2.5,4.0
+2023,Bahia,UF,Total,Federal,88.0,10.2,1.8
+2023,Bahia,UF,Urbana,Federal,87.1,11.0,1.9
+2023,Bahia,UF,Rural,Federal,93.9,4.8,1.3
+2023,Bahia,UF,Total,Estadual,91.2,3.4,5.4
+2023,Bahia,UF,Urbana,Estadual,91.0,3.5,5.5
+2023,Bahia,UF,Rural,Estadual,93.6,2.1,4.3
+2023,Bahia,UF,Total,Municipal,84.6,5.4,10.0
+2023,Bahia,UF,Urbana,Municipal,81.5,5.3,13.2
+2023,Bahia,UF,Rural,Municipal,87.7,5.5,6.8
+2023,Bahia,UF,Total,Privada,96.6,2.6,0.8
+2023,Bahia,UF,Urbana,Privada,96.8,2.6,0.6
+2023,Bahia,UF,Rural,Privada,94.0,3.7,2.3
+2023,Bahia,UF,Total,Pública,91.1,3.6,5.3
+2023,Bahia,UF,Urbana,Pública,90.9,3.7,5.4
+2023,Bahia,UF,Rural,Pública,93.5,2.3,4.2
+2023,Minas Gerais,UF,Total,Total,87.8,7.2,5.0
+2023,Minas Gerais,UF,Urbana,Total,87.6,7.3,5.1
+2023,Minas Gerais,UF,Rural,Total,93.3,4.2,2.5
+2023,Minas Gerais,UF,Total,Federal,91.7,7.8,0.5
+2023,Minas Gerais,UF,Urbana,Federal,91.5,8.0,0.5
+2023,Minas Gerais,UF,Rural,Federal,92.5,7.3,0.2
+2023,Minas Gerais,UF,Total,Estadual,86.5,7.7,5.8
+2023,Minas Gerais,UF,Urbana,Estadual,86.3,7.8,5.9
+2023,Minas Gerais,UF,Rural,Estadual,93.6,2.9,3.5
+2023,Minas Gerais,UF,Total,Municipal,92.4,6.2,1.4
+2023,Minas Gerais,UF,Urbana,Municipal,92.3,6.4,1.3
+2023,Minas Gerais,UF,Rural,Municipal,95.9,1.4,2.7
+2023,Minas Gerais,UF,Total,Privada,95.8,3.1,1.1
+2023,Minas Gerais,UF,Urbana,Privada,95.8,3.1,1.1
+2023,Minas Gerais,UF,Rural,Privada,94.7,2.6,2.7
+2023,Minas Gerais,UF,Total,Pública,86.8,7.7,5.5
+2023,Minas Gerais,UF,Urbana,Pública,86.6,7.8,5.6
+2023,Minas Gerais,UF,Rural,Pública,93.2,4.4,2.4
+2023,Espírito Santo,UF,Total,Total,95.5,2.9,1.6
+2023,Espírito Santo,UF,Urbana,Total,95.6,2.8,1.6
+2023,Espírito Santo,UF,Rural,Total,94.2,4.9,0.9
+2023,Espírito Santo,UF,Total,Federal,92.2,6.5,1.3
+2023,Espírito Santo,UF,Urbana,Federal,92.6,6.0,1.4
+2023,Espírito Santo,UF,Rural,Federal,90.7,8.2,1.1
+2023,Espírito Santo,UF,Total,Estadual,95.5,2.7,1.8
+2023,Espírito Santo,UF,Urbana,Estadual,95.5,2.7,1.8
+2023,Espírito Santo,UF,Rural,Estadual,96.7,3.1,0.2
+2023,Espírito Santo,UF,Total,Municipal,,,
+2023,Espírito Santo,UF,Urbana,Municipal,,,
+2023,Espírito Santo,UF,Rural,Municipal,,,
+2023,Espírito Santo,UF,Total,Privada,97.7,2.1,0.2
+2023,Espírito Santo,UF,Urbana,Privada,97.9,1.9,0.2
+2023,Espírito Santo,UF,Rural,Privada,95.1,3.3,1.6
+2023,Espírito Santo,UF,Total,Pública,95.2,3.0,1.8
+2023,Espírito Santo,UF,Urbana,Pública,95.3,2.9,1.8
+2023,Espírito Santo,UF,Rural,Pública,94.0,5.4,0.6
+2023,Rio de Janeiro,UF,Total,Total,84.0,11.8,4.2
+2023,Rio de Janeiro,UF,Urbana,Total,83.9,11.9,4.2
+2023,Rio de Janeiro,UF,Rural,Total,87.3,9.6,3.1
+2023,Rio de Janeiro,UF,Total,Federal,86.3,11.4,2.3
+2023,Rio de Janeiro,UF,Urbana,Federal,86.5,11.2,2.3
+2023,Rio de Janeiro,UF,Rural,Federal,80.4,16.8,2.8
+2023,Rio de Janeiro,UF,Total,Estadual,80.5,14.2,5.3
+2023,Rio de Janeiro,UF,Urbana,Estadual,80.2,14.4,5.4
+2023,Rio de Janeiro,UF,Rural,Estadual,87.2,9.6,3.2
+2023,Rio de Janeiro,UF,Total,Municipal,87.2,9.0,3.8
+2023,Rio de Janeiro,UF,Urbana,Municipal,87.2,9.0,3.8
+2023,Rio de Janeiro,UF,Rural,Municipal,,,
+2023,Rio de Janeiro,UF,Total,Privada,95.8,3.6,0.6
+2023,Rio de Janeiro,UF,Urbana,Privada,95.8,3.6,0.6
+2023,Rio de Janeiro,UF,Rural,Privada,96.4,3.6,0.0
+2023,Rio de Janeiro,UF,Total,Pública,80.8,14.1,5.1
+2023,Rio de Janeiro,UF,Urbana,Pública,80.5,14.2,5.3
+2023,Rio de Janeiro,UF,Rural,Pública,86.9,9.9,3.2
+2023,São Paulo,UF,Total,Total,93.3,3.9,2.8
+2023,São Paulo,UF,Urbana,Total,93.3,3.9,2.8
+2023,São Paulo,UF,Rural,Total,96.7,1.5,1.8
+2023,São Paulo,UF,Total,Federal,95.8,3.9,0.3
+2023,São Paulo,UF,Urbana,Federal,95.8,3.9,0.3
+2023,São Paulo,UF,Total,Estadual,92.4,4.3,3.3
+2023,São Paulo,UF,Urbana,Estadual,92.3,4.3,3.4
+2023,São Paulo,UF,Rural,Estadual,96.6,1.5,1.9
+2023,São Paulo,UF,Total,Municipal,96.9,2.2,0.9
+2023,São Paulo,UF,Urbana,Municipal,96.9,2.2,0.9
+2023,São Paulo,UF,Rural,Municipal,95.1,2.7,2.2
+2023,São Paulo,UF,Total,Privada,98.4,1.6,0.0
+2023,São Paulo,UF,Urbana,Privada,98.4,1.6,0.0
+2023,São Paulo,UF,Rural,Privada,98.5,1.4,0.1
+2023,São Paulo,UF,Total,Pública,92.4,4.3,3.3
+2023,São Paulo,UF,Urbana,Pública,92.4,4.3,3.3
+2023,São Paulo,UF,Rural,Pública,96.6,1.5,1.9
+2023,Paraná,UF,Total,Total,96.5,2.9,0.6
+2023,Paraná,UF,Urbana,Total,96.5,2.9,0.6
+2023,Paraná,UF,Rural,Total,97.5,1.8,0.7
+2023,Paraná,UF,Total,Federal,92.7,6.3,1.0
+2023,Paraná,UF,Urbana,Federal,92.4,6.5,1.1
+2023,Paraná,UF,Rural,Federal,98.3,1.3,0.4
+2023,Paraná,UF,Total,Estadual,96.4,2.9,0.7
+2023,Paraná,UF,Urbana,Estadual,96.3,3.0,0.7
+2023,Paraná,UF,Rural,Estadual,97.6,1.8,0.6
+2023,Paraná,UF,Total,Municipal,,,
+2023,Paraná,UF,Urbana,Municipal,,,
+2023,Paraná,UF,Rural,Municipal,,,
+2023,Paraná,UF,Total,Privada,98.0,1.9,0.1
+2023,Paraná,UF,Urbana,Privada,98.0,1.9,0.1
+2023,Paraná,UF,Rural,Privada,94.5,5.2,0.3
+2023,Paraná,UF,Total,Pública,96.3,3.0,0.7
+2023,Paraná,UF,Urbana,Pública,96.2,3.1,0.7
+2023,Paraná,UF,Rural,Pública,97.6,1.7,0.7
+2023,Santa Catarina,UF,Total,Total,83.6,12.0,4.4
+2023,Santa Catarina,UF,Urbana,Total,83.5,12.1,4.4
+2023,Santa Catarina,UF,Rural,Total,89.3,8.3,2.4
+2023,Santa Catarina,UF,Total,Federal,90.2,7.9,1.9
+2023,Santa Catarina,UF,Urbana,Federal,90.3,7.7,2.0
+2023,Santa Catarina,UF,Rural,Federal,89.1,10.3,0.6
+2023,Santa Catarina,UF,Total,Estadual,80.9,13.9,5.2
+2023,Santa Catarina,UF,Urbana,Estadual,80.7,14.0,5.3
+2023,Santa Catarina,UF,Rural,Estadual,88.3,8.8,2.9
+2023,Santa Catarina,UF,Total,Municipal,96.8,2.1,1.1
+2023,Santa Catarina,UF,Urbana,Municipal,97.6,2.0,0.4
+2023,Santa Catarina,UF,Rural,Municipal,95.3,2.4,2.3
+2023,Santa Catarina,UF,Total,Privada,97.4,2.3,0.3
+2023,Santa Catarina,UF,Urbana,Privada,97.4,2.3,0.3
+2023,Santa Catarina,UF,Rural,Privada,97.4,2.6,0.0
+2023,Santa Catarina,UF,Total,Pública,81.4,13.6,5.0
+2023,Santa Catarina,UF,Urbana,Pública,81.2,13.7,5.1
+2023,Santa Catarina,UF,Rural,Pública,88.5,8.8,2.7
+2023,Rio Grande do Sul,UF,Total,Total,82.7,9.6,7.7
+2023,Rio Grande do Sul,UF,Urbana,Total,82.7,9.7,7.6
+2023,Rio Grande do Sul,UF,Rural,Total,84.8,8.7,6.5
+2023,Rio Grande do Sul,UF,Total,Federal,88.8,9.6,1.6
+2023,Rio Grande do Sul,UF,Urbana,Federal,88.0,10.4,1.6
+2023,Rio Grande do Sul,UF,Rural,Federal,91.8,6.8,1.4
+2023,Rio Grande do Sul,UF,Total,Estadual,80.5,10.6,8.9
+2023,Rio Grande do Sul,UF,Urbana,Estadual,80.5,10.6,8.9
+2023,Rio Grande do Sul,UF,Rural,Estadual,81.4,9.9,8.7
+2023,Rio Grande do Sul,UF,Total,Municipal,76.2,16.5,7.3
+2023,Rio Grande do Sul,UF,Urbana,Municipal,74.7,17.8,7.5
+2023,Rio Grande do Sul,UF,Rural,Municipal,87.4,7.4,5.2
+2023,Rio Grande do Sul,UF,Total,Privada,94.5,3.3,2.2
+2023,Rio Grande do Sul,UF,Urbana,Privada,94.5,3.3,2.2
+2023,Rio Grande do Sul,UF,Rural,Privada,96.7,2.5,0.8
+2023,Rio Grande do Sul,UF,Total,Pública,81.0,10.6,8.4
+2023,Rio Grande do Sul,UF,Urbana,Pública,80.8,10.7,8.5
+2023,Rio Grande do Sul,UF,Rural,Pública,84.3,9.0,6.7
+2023,Mato Grosso do Sul,UF,Total,Total,87.6,8.8,3.6
+2023,Mato Grosso do Sul,UF,Urbana,Total,87.8,8.6,3.6
+2023,Mato Grosso do Sul,UF,Rural,Total,85.1,10.7,4.2
+2023,Mato Grosso do Sul,UF,Total,Federal,92.6,2.8,4.6
+2023,Mato Grosso do Sul,UF,Urbana,Federal,92.2,2.7,5.1
+2023,Mato Grosso do Sul,UF,Rural,Federal,94.8,3.4,1.8
+2023,Mato Grosso do Sul,UF,Total,Estadual,86.1,10.0,3.9
+2023,Mato Grosso do Sul,UF,Urbana,Estadual,86.3,9.8,3.9
+2023,Mato Grosso do Sul,UF,Rural,Estadual,82.8,12.3,4.9
+2023,Mato Grosso do Sul,UF,Total,Municipal,87.3,12.7,0.0
+2023,Mato Grosso do Sul,UF,Urbana,Municipal,,,
+2023,Mato Grosso do Sul,UF,Rural,Municipal,87.3,12.7,0.0
+2023,Mato Grosso do Sul,UF,Total,Privada,97.2,2.4,0.4
+2023,Mato Grosso do Sul,UF,Urbana,Privada,97.2,2.4,0.4
+2023,Mato Grosso do Sul,UF,Rural,Privada,95.8,3.6,0.6
+2023,Mato Grosso do Sul,UF,Total,Pública,86.5,9.5,4.0
+2023,Mato Grosso do Sul,UF,Urbana,Pública,86.7,9.4,3.9
+2023,Mato Grosso do Sul,UF,Rural,Pública,84.6,11.0,4.4
+2023,Mato Grosso,UF,Total,Total,96.0,1.5,2.5
+2023,Mato Grosso,UF,Urbana,Total,95.9,1.5,2.6
+2023,Mato Grosso,UF,Rural,Total,97.3,1.7,1.0
+2023,Mato Grosso,UF,Total,Federal,93.9,5.7,0.4
+2023,Mato Grosso,UF,Urbana,Federal,93.9,5.5,0.6
+2023,Mato Grosso,UF,Rural,Federal,93.8,6.1,0.1
+2023,Mato Grosso,UF,Total,Estadual,96.4,1.3,2.3
+2023,Mato Grosso,UF,Urbana,Estadual,96.2,1.3,2.5
+2023,Mato Grosso,UF,Rural,Estadual,97.8,1.0,1.2
+2023,Mato Grosso,UF,Total,Municipal,,,
+2023,Mato Grosso,UF,Urbana,Municipal,,,
+2023,Mato Grosso,UF,Rural,Municipal,,,
+2023,Mato Grosso,UF,Total,Privada,94.1,1.5,4.4
+2023,Mato Grosso,UF,Urbana,Privada,94.1,1.5,4.4
+2023,Mato Grosso,UF,Rural,Privada,100.0,0.0,0.0
+2023,Mato Grosso,UF,Total,Pública,96.2,1.6,2.2
+2023,Mato Grosso,UF,Urbana,Pública,96.1,1.5,2.4
+2023,Mato Grosso,UF,Rural,Pública,97.3,1.7,1.0
+2023,Goiás,UF,Total,Total,97.9,1.5,0.6
+2023,Goiás,UF,Urbana,Total,97.9,1.4,0.7
+2023,Goiás,UF,Rural,Total,96.2,3.0,0.8
+2023,Goiás,UF,Total,Federal,86.3,12.1,1.6
+2023,Goiás,UF,Urbana,Federal,85.9,12.6,1.5
+2023,Goiás,UF,Rural,Federal,87.9,10.3,1.8
+2023,Goiás,UF,Total,Estadual,98.3,1.0,0.7
+2023,Goiás,UF,Urbana,Estadual,98.3,1.0,0.7
+2023,Goiás,UF,Rural,Estadual,99.2,0.3,0.5
+2023,Goiás,UF,Total,Municipal,94.0,4.0,2.0
+2023,Goiás,UF,Urbana,Municipal,93.4,4.3,2.3
+2023,Goiás,UF,Rural,Municipal,98.3,1.7,0.0
+2023,Goiás,UF,Total,Privada,97.7,2.0,0.3
+2023,Goiás,UF,Urbana,Privada,97.7,2.0,0.3
+2023,Goiás,UF,Rural,Privada,98.3,1.5,0.2
+2023,Goiás,UF,Total,Pública,97.9,1.4,0.7
+2023,Goiás,UF,Urbana,Pública,98.0,1.4,0.6
+2023,Goiás,UF,Rural,Pública,95.9,3.2,0.9
+2023,Distrito Federal,UF,Total,Total,87.3,9.7,3.0
+2023,Distrito Federal,UF,Urbana,Total,87.2,9.7,3.1
+2023,Distrito Federal,UF,Rural,Total,90.3,7.9,1.8
+2023,Distrito Federal,UF,Total,Federal,89.9,8.1,2.0
+2023,Distrito Federal,UF,Urbana,Federal,90.7,7.4,1.9
+2023,Distrito Federal,UF,Rural,Federal,85.3,12.4,2.3
+2023,Distrito Federal,UF,Total,Estadual,84.3,11.8,3.9
+2023,Distrito Federal,UF,Urbana,Estadual,84.2,11.8,4.0
+2023,Distrito Federal,UF,Rural,Estadual,89.7,8.3,2.0
+2023,Distrito Federal,UF,Total,Privada,96.4,3.1,0.5
+2023,Distrito Federal,UF,Urbana,Privada,96.4,3.1,0.5
+2023,Distrito Federal,UF,Rural,Privada,100.0,0.0,0.0
+2023,Distrito Federal,UF,Total,Pública,84.6,11.6,3.8
+2023,Distrito Federal,UF,Urbana,Pública,84.4,11.7,3.9
+2023,Distrito Federal,UF,Rural,Pública,88.7,9.2,2.1
+2024,Brasil,Brasil,Total,Total,91.7,5.1,3.2
+2024,Brasil,Brasil,Urbana,Total,91.7,5.2,3.1
+2024,Brasil,Brasil,Rural,Total,92.7,3.7,3.6
+2024,Brasil,Brasil,Total,Federal,92.0,6.7,1.3
+2024,Brasil,Brasil,Urbana,Federal,91.9,6.7,1.4
+2024,Brasil,Brasil,Rural,Federal,92.5,6.5,1.0
+2024,Brasil,Brasil,Total,Estadual,90.8,5.5,3.7
+2024,Brasil,Brasil,Urbana,Estadual,90.7,5.7,3.6
+2024,Brasil,Brasil,Rural,Estadual,92.6,3.5,3.9
+2024,Brasil,Brasil,Total,Municipal,93.0,4.3,2.7
+2024,Brasil,Brasil,Urbana,Municipal,93.3,4.4,2.3
+2024,Brasil,Brasil,Rural,Municipal,90.5,3.3,6.2
+2024,Brasil,Brasil,Total,Privada,97.4,2.1,0.5
+2024,Brasil,Brasil,Urbana,Privada,97.5,2.1,0.4
+2024,Brasil,Brasil,Rural,Privada,95.2,2.8,2.0
+2024,Brasil,Brasil,Total,Pública,90.9,5.6,3.5
+2024,Brasil,Brasil,Urbana,Pública,90.7,5.7,3.6
+2024,Brasil,Brasil,Rural,Pública,92.6,3.7,3.7
+2024,Norte,Regiao,Total,Total,93.2,3.8,3.0
+2024,Norte,Regiao,Urbana,Total,93.3,4.1,2.6
+2024,Norte,Regiao,Rural,Total,93.1,2.3,4.6
+2024,Norte,Regiao,Total,Federal,93.1,5.9,1.0
+2024,Norte,Regiao,Urbana,Federal,92.9,6.1,1.0
+2024,Norte,Regiao,Rural,Federal,94.4,4.6,1.0
+2024,Norte,Regiao,Total,Estadual,92.9,3.9,3.2
+2024,Norte,Regiao,Urbana,Estadual,92.9,4.2,2.9
+2024,Norte,Regiao,Rural,Estadual,93.0,2.2,4.8
+2024,Norte,Regiao,Total,Municipal,97.8,0.0,2.2
+2024,Norte,Regiao,Urbana,Municipal,97.6,0.0,2.4
+2024,Norte,Regiao,Rural,Municipal,100.0,0.0,0.0
+2024,Norte,Regiao,Total,Privada,97.7,1.9,0.4
+2024,Norte,Regiao,Urbana,Privada,97.8,1.8,0.4
+2024,Norte,Regiao,Rural,Privada,93.3,4.4,2.3
+2024,Norte,Regiao,Total,Pública,92.9,3.9,3.2
+2024,Norte,Regiao,Urbana,Pública,92.9,4.3,2.8
+2024,Norte,Regiao,Rural,Pública,93.1,2.3,4.6
+2024,Nordeste,Regiao,Total,Total,92.1,4.4,3.5
+2024,Nordeste,Regiao,Urbana,Total,92.1,4.4,3.5
+2024,Nordeste,Regiao,Rural,Total,91.7,4.1,4.2
+2024,Nordeste,Regiao,Total,Federal,91.3,7.1,1.6
+2024,Nordeste,Regiao,Urbana,Federal,91.0,7.3,1.7
+2024,Nordeste,Regiao,Rural,Federal,93.1,5.9,1.0
+2024,Nordeste,Regiao,Total,Estadual,91.5,4.5,4.0
+2024,Nordeste,Regiao,Urbana,Estadual,91.5,4.6,3.9
+2024,Nordeste,Regiao,Rural,Estadual,91.6,4.1,4.3
+2024,Nordeste,Regiao,Total,Municipal,84.8,2.9,12.3
+2024,Nordeste,Regiao,Urbana,Municipal,74.0,4.2,21.8
+2024,Nordeste,Regiao,Rural,Municipal,90.7,2.2,7.1
+2024,Nordeste,Regiao,Total,Privada,97.3,2.2,0.5
+2024,Nordeste,Regiao,Urbana,Privada,97.4,2.1,0.5
+2024,Nordeste,Regiao,Rural,Privada,93.6,3.2,3.2
+2024,Nordeste,Regiao,Total,Pública,91.5,4.6,3.9
+2024,Nordeste,Regiao,Urbana,Pública,91.5,4.7,3.8
+2024,Nordeste,Regiao,Rural,Pública,91.7,4.2,4.1
+2024,Sudeste,Regiao,Total,Total,91.6,5.2,3.2
+2024,Sudeste,Regiao,Urbana,Total,91.6,5.2,3.2
+2024,Sudeste,Regiao,Rural,Total,93.8,4.2,2.0
+2024,Sudeste,Regiao,Total,Federal,92.9,6.2,0.9
+2024,Sudeste,Regiao,Urbana,Federal,92.9,6.2,0.9
+2024,Sudeste,Regiao,Rural,Federal,93.0,6.4,0.6
+2024,Sudeste,Regiao,Total,Estadual,90.4,5.8,3.8
+2024,Sudeste,Regiao,Urbana,Estadual,90.3,5.8,3.9
+2024,Sudeste,Regiao,Rural,Estadual,93.6,4.1,2.3
+2024,Sudeste,Regiao,Total,Municipal,95.2,3.9,0.9
+2024,Sudeste,Regiao,Urbana,Municipal,95.1,3.9,1.0
+2024,Sudeste,Regiao,Rural,Municipal,97.5,1.3,1.2
+2024,Sudeste,Regiao,Total,Privada,97.5,2.1,0.4
+2024,Sudeste,Regiao,Urbana,Privada,97.5,2.1,0.4
+2024,Sudeste,Regiao,Rural,Privada,96.7,2.1,1.2
+2024,Sudeste,Regiao,Total,Pública,90.5,5.8,3.7
+2024,Sudeste,Regiao,Urbana,Pública,90.4,5.8,3.8
+2024,Sudeste,Regiao,Rural,Pública,93.6,4.4,2.0
+2024,Sul,Regiao,Total,Total,88.9,8.0,3.1
+2024,Sul,Regiao,Urbana,Total,88.8,8.1,3.1
+2024,Sul,Regiao,Rural,Total,91.9,5.7,2.4
+2024,Sul,Regiao,Total,Federal,91.1,7.2,1.7
+2024,Sul,Regiao,Urbana,Federal,91.0,7.2,1.8
+2024,Sul,Regiao,Rural,Federal,92.0,6.7,1.3
+2024,Sul,Regiao,Total,Estadual,87.4,9.0,3.6
+2024,Sul,Regiao,Urbana,Estadual,87.2,9.1,3.7
+2024,Sul,Regiao,Rural,Estadual,91.7,5.6,2.7
+2024,Sul,Regiao,Total,Municipal,83.2,11.3,5.5
+2024,Sul,Regiao,Urbana,Municipal,83.0,11.5,5.5
+2024,Sul,Regiao,Rural,Municipal,84.2,10.3,5.5
+2024,Sul,Regiao,Total,Privada,97.4,2.2,0.4
+2024,Sul,Regiao,Urbana,Privada,97.4,2.2,0.4
+2024,Sul,Regiao,Rural,Privada,96.8,2.7,0.5
+2024,Sul,Regiao,Total,Pública,87.5,8.9,3.6
+2024,Sul,Regiao,Urbana,Pública,87.3,9.1,3.6
+2024,Sul,Regiao,Rural,Pública,91.6,5.8,2.6
+2024,Centro-Oeste,Regiao,Total,Total,93.9,4.1,2.0
+2024,Centro-Oeste,Regiao,Urbana,Total,93.9,4.1,2.0
+2024,Centro-Oeste,Regiao,Rural,Total,94.2,3.7,2.1
+2024,Centro-Oeste,Regiao,Total,Federal,92.2,6.5,1.3
+2024,Centro-Oeste,Regiao,Urbana,Federal,93.0,5.8,1.2
+2024,Centro-Oeste,Regiao,Rural,Federal,89.2,9.0,1.8
+2024,Centro-Oeste,Regiao,Total,Estadual,93.4,4.4,2.2
+2024,Centro-Oeste,Regiao,Urbana,Estadual,93.3,4.5,2.2
+2024,Centro-Oeste,Regiao,Rural,Estadual,95.2,2.7,2.1
+2024,Centro-Oeste,Regiao,Total,Municipal,92.2,6.9,0.9
+2024,Centro-Oeste,Regiao,Urbana,Municipal,92.5,6.6,0.9
+2024,Centro-Oeste,Regiao,Rural,Municipal,91.6,7.9,0.5
+2024,Centro-Oeste,Regiao,Total,Privada,97.2,2.0,0.8
+2024,Centro-Oeste,Regiao,Urbana,Privada,97.2,2.0,0.8
+2024,Centro-Oeste,Regiao,Rural,Privada,97.2,1.9,0.9
+2024,Centro-Oeste,Regiao,Total,Pública,93.3,4.5,2.2
+2024,Centro-Oeste,Regiao,Urbana,Pública,93.3,4.5,2.2
+2024,Centro-Oeste,Regiao,Rural,Pública,94.1,3.8,2.1
+2024,Rondônia,UF,Total,Total,90.8,5.2,4.0
+2024,Rondônia,UF,Urbana,Total,90.7,5.3,4.0
+2024,Rondônia,UF,Rural,Total,92.0,4.3,3.7
+2024,Rondônia,UF,Total,Federal,94.5,5.1,0.4
+2024,Rondônia,UF,Urbana,Federal,94.6,5.2,0.2
+2024,Rondônia,UF,Rural,Federal,94.2,4.8,1.0
+2024,Rondônia,UF,Total,Estadual,90.1,5.3,4.6
+2024,Rondônia,UF,Urbana,Estadual,90.1,5.3,4.6
+2024,Rondônia,UF,Rural,Estadual,90.3,3.8,5.9
+2024,Rondônia,UF,Total,Municipal,,,
+2024,Rondônia,UF,Urbana,Municipal,,,
+2024,Rondônia,UF,Rural,Municipal,,,
+2024,Rondônia,UF,Total,Privada,95.4,4.3,0.3
+2024,Rondônia,UF,Urbana,Privada,95.7,4.1,0.2
+2024,Rondônia,UF,Rural,Privada,93.9,5.1,1.0
+2024,Rondônia,UF,Total,Pública,90.4,5.3,4.3
+2024,Rondônia,UF,Urbana,Pública,90.4,5.3,4.3
+2024,Rondônia,UF,Rural,Pública,91.5,4.1,4.4
+2024,Acre,UF,Total,Total,87.4,7.8,4.8
+2024,Acre,UF,Urbana,Total,87.9,9.2,2.9
+2024,Acre,UF,Rural,Total,85.8,3.6,10.6
+2024,Acre,UF,Total,Federal,95.6,2.9,1.5
+2024,Acre,UF,Urbana,Federal,95.6,3.0,1.4
+2024,Acre,UF,Rural,Federal,95.5,2.6,1.9
+2024,Acre,UF,Total,Estadual,86.2,8.5,5.3
+2024,Acre,UF,Urbana,Estadual,86.6,10.3,3.1
+2024,Acre,UF,Rural,Estadual,85.2,3.7,11.1
+2024,Acre,UF,Total,Municipal,,,
+2024,Acre,UF,Urbana,Municipal,,,
+2024,Acre,UF,Rural,Municipal,,,
+2024,Acre,UF,Total,Privada,97.2,1.5,1.3
+2024,Acre,UF,Urbana,Privada,97.2,1.5,1.3
+2024,Acre,UF,Total,Pública,86.8,8.2,5.0
+2024,Acre,UF,Urbana,Pública,87.1,9.9,3.0
+2024,Acre,UF,Rural,Pública,85.8,3.6,10.6
+2024,Amazonas,UF,Total,Total,89.7,6.3,4.0
+2024,Amazonas,UF,Urbana,Total,89.6,6.8,3.6
+2024,Amazonas,UF,Rural,Total,89.7,3.7,6.6
+2024,Amazonas,UF,Total,Federal,93.4,6.1,0.5
+2024,Amazonas,UF,Urbana,Federal,93.1,6.3,0.6
+2024,Amazonas,UF,Rural,Federal,95.3,4.5,0.2
+2024,Amazonas,UF,Total,Estadual,89.1,6.5,4.4
+2024,Amazonas,UF,Urbana,Estadual,89.0,7.2,3.8
+2024,Amazonas,UF,Rural,Estadual,89.6,3.7,6.7
+2024,Amazonas,UF,Total,Municipal,,,
+2024,Amazonas,UF,Urbana,Municipal,,,
+2024,Amazonas,UF,Rural,Municipal,,,
+2024,Amazonas,UF,Total,Privada,97.6,1.8,0.6
+2024,Amazonas,UF,Urbana,Privada,97.7,1.8,0.5
+2024,Amazonas,UF,Rural,Privada,93.8,6.2,0.0
+2024,Amazonas,UF,Total,Pública,89.2,6.5,4.3
+2024,Amazonas,UF,Urbana,Pública,89.1,7.1,3.8
+2024,Amazonas,UF,Rural,Pública,89.7,3.7,6.6
+2024,Roraima,UF,Total,Total,89.2,7.2,3.6
+2024,Roraima,UF,Urbana,Total,88.9,8.3,2.8
+2024,Roraima,UF,Rural,Total,90.3,3.4,6.3
+2024,Roraima,UF,Total,Federal,95.9,2.9,1.2
+2024,Roraima,UF,Urbana,Federal,95.6,3.9,0.5
+2024,Roraima,UF,Rural,Federal,96.2,1.6,2.2
+2024,Roraima,UF,Total,Estadual,88.5,7.6,3.9
+2024,Roraima,UF,Urbana,Estadual,88.2,8.7,3.1
+2024,Roraima,UF,Rural,Estadual,89.7,3.6,6.7
+2024,Roraima,UF,Total,Municipal,,,
+2024,Roraima,UF,Urbana,Municipal,,,
+2024,Roraima,UF,Rural,Municipal,,,
+2024,Roraima,UF,Total,Privada,95.8,3.7,0.5
+2024,Roraima,UF,Urbana,Privada,95.7,3.8,0.5
+2024,Roraima,UF,Rural,Privada,100.0,0.0,0.0
+2024,Roraima,UF,Total,Pública,88.8,7.4,3.8
+2024,Roraima,UF,Urbana,Pública,88.4,8.6,3.0
+2024,Roraima,UF,Rural,Pública,90.2,3.4,6.4
+2024,Pará,UF,Total,Total,97.0,1.1,1.9
+2024,Pará,UF,Urbana,Total,97.1,1.1,1.8
+2024,Pará,UF,Rural,Total,96.5,0.8,2.7
+2024,Pará,UF,Total,Federal,91.3,6.7,2.0
+2024,Pará,UF,Urbana,Federal,91.3,6.7,2.0
+2024,Pará,UF,Rural,Federal,92.3,4.7,3.0
+2024,Pará,UF,Total,Estadual,97.0,0.9,2.1
+2024,Pará,UF,Urbana,Estadual,97.1,0.9,2.0
+2024,Pará,UF,Rural,Estadual,96.5,0.8,2.7
+2024,Pará,UF,Total,Municipal,97.8,0.0,2.2
+2024,Pará,UF,Urbana,Municipal,97.6,0.0,2.4
+2024,Pará,UF,Rural,Municipal,100.0,0.0,0.0
+2024,Pará,UF,Total,Privada,98.1,1.5,0.4
+2024,Pará,UF,Urbana,Privada,98.2,1.5,0.3
+2024,Pará,UF,Rural,Privada,91.4,4.5,4.1
+2024,Pará,UF,Total,Pública,96.9,1.0,2.1
+2024,Pará,UF,Urbana,Pública,96.9,1.1,2.0
+2024,Pará,UF,Rural,Pública,96.5,0.8,2.7
+2024,Amapá,UF,Total,Total,89.0,7.5,3.5
+2024,Amapá,UF,Urbana,Total,89.1,7.8,3.1
+2024,Amapá,UF,Rural,Total,88.1,5.1,6.8
+2024,Amapá,UF,Total,Federal,94.4,5.4,0.2
+2024,Amapá,UF,Urbana,Federal,94.4,5.4,0.2
+2024,Amapá,UF,Total,Estadual,87.7,8.3,4.0
+2024,Amapá,UF,Urbana,Estadual,87.7,8.8,3.5
+2024,Amapá,UF,Rural,Estadual,87.9,5.2,6.9
+2024,Amapá,UF,Total,Municipal,,,
+2024,Amapá,UF,Urbana,Municipal,,,
+2024,Amapá,UF,Rural,Municipal,,,
+2024,Amapá,UF,Total,Privada,98.9,0.6,0.5
+2024,Amapá,UF,Urbana,Privada,99.4,0.5,0.1
+2024,Amapá,UF,Rural,Privada,92.5,3.0,4.5
+2024,Amapá,UF,Total,Pública,88.0,8.1,3.9
+2024,Amapá,UF,Urbana,Pública,88.1,8.6,3.3
+2024,Amapá,UF,Rural,Pública,87.9,5.2,6.9
+2024,Tocantins,UF,Total,Total,93.9,4.1,2.0
+2024,Tocantins,UF,Urbana,Total,93.9,4.1,2.0
+2024,Tocantins,UF,Rural,Total,93.8,4.2,2.0
+2024,Tocantins,UF,Total,Federal,92.2,7.6,0.2
+2024,Tocantins,UF,Urbana,Federal,92.1,7.6,0.3
+2024,Tocantins,UF,Rural,Federal,92.3,7.7,0.0
+2024,Tocantins,UF,Total,Estadual,93.6,4.1,2.3
+2024,Tocantins,UF,Urbana,Estadual,93.6,4.1,2.3
+2024,Tocantins,UF,Rural,Estadual,93.9,3.7,2.4
+2024,Tocantins,UF,Total,Municipal,,,
+2024,Tocantins,UF,Urbana,Municipal,,,
+2024,Tocantins,UF,Rural,Municipal,,,
+2024,Tocantins,UF,Total,Privada,98.1,1.9,0.0
+2024,Tocantins,UF,Urbana,Privada,98.1,1.9,0.0
+2024,Tocantins,UF,Rural,Privada,98.6,1.4,0.0
+2024,Tocantins,UF,Total,Pública,93.6,4.2,2.2
+2024,Tocantins,UF,Urbana,Pública,93.6,4.2,2.2
+2024,Tocantins,UF,Rural,Pública,93.7,4.3,2.0
+2024,Maranhão,UF,Total,Total,92.3,4.4,3.3
+2024,Maranhão,UF,Urbana,Total,92.8,4.3,2.9
+2024,Maranhão,UF,Rural,Total,89.9,5.0,5.1
+2024,Maranhão,UF,Total,Federal,92.4,6.5,1.1
+2024,Maranhão,UF,Urbana,Federal,91.7,7.2,1.1
+2024,Maranhão,UF,Rural,Federal,94.8,4.2,1.0
+2024,Maranhão,UF,Total,Estadual,92.1,4.5,3.4
+2024,Maranhão,UF,Urbana,Estadual,92.6,4.3,3.1
+2024,Maranhão,UF,Rural,Estadual,89.6,5.3,5.1
+2024,Maranhão,UF,Total,Municipal,82.7,2.9,14.4
+2024,Maranhão,UF,Urbana,Municipal,67.7,5.1,27.2
+2024,Maranhão,UF,Rural,Municipal,90.2,1.8,8.0
+2024,Maranhão,UF,Total,Privada,96.4,2.0,1.6
+2024,Maranhão,UF,Urbana,Privada,97.2,1.9,0.9
+2024,Maranhão,UF,Rural,Privada,88.5,2.4,9.1
+2024,Maranhão,UF,Total,Pública,92.1,4.6,3.3
+2024,Maranhão,UF,Urbana,Pública,92.4,4.5,3.1
+2024,Maranhão,UF,Rural,Pública,90.0,5.1,4.9
+2024,Piauí,UF,Total,Total,96.5,1.5,2.0
+2024,Piauí,UF,Urbana,Total,96.6,1.5,1.9
+2024,Piauí,UF,Rural,Total,95.4,1.3,3.3
+2024,Piauí,UF,Total,Federal,94.2,4.4,1.4
+2024,Piauí,UF,Urbana,Federal,94.3,4.4,1.3
+2024,Piauí,UF,Rural,Federal,93.4,3.8,2.8
+2024,Piauí,UF,Total,Estadual,96.6,1.1,2.3
+2024,Piauí,UF,Urbana,Estadual,96.7,1.1,2.2
+2024,Piauí,UF,Rural,Estadual,95.7,1.0,3.3
+2024,Piauí,UF,Total,Municipal,,,
+2024,Piauí,UF,Urbana,Municipal,,,
+2024,Piauí,UF,Rural,Municipal,,,
+2024,Piauí,UF,Total,Privada,97.4,2.3,0.3
+2024,Piauí,UF,Urbana,Privada,97.4,2.3,0.3
+2024,Piauí,UF,Rural,Privada,100.0,0.0,0.0
+2024,Piauí,UF,Total,Pública,96.4,1.4,2.2
+2024,Piauí,UF,Urbana,Pública,96.5,1.4,2.1
+2024,Piauí,UF,Rural,Pública,95.4,1.4,3.2
+2024,Ceará,UF,Total,Total,97.0,1.2,1.8
+2024,Ceará,UF,Urbana,Total,96.9,1.2,1.9
+2024,Ceará,UF,Rural,Total,97.7,0.6,1.7
+2024,Ceará,UF,Total,Federal,88.4,9.9,1.7
+2024,Ceará,UF,Urbana,Federal,88.5,9.8,1.7
+2024,Ceará,UF,Rural,Federal,87.5,10.7,1.8
+2024,Ceará,UF,Total,Estadual,97.1,1.0,1.9
+2024,Ceará,UF,Urbana,Estadual,97.0,1.0,2.0
+2024,Ceará,UF,Rural,Estadual,97.9,0.4,1.7
+2024,Ceará,UF,Total,Municipal,,,
+2024,Ceará,UF,Urbana,Municipal,,,
+2024,Ceará,UF,Rural,Municipal,,,
+2024,Ceará,UF,Total,Privada,98.1,1.5,0.4
+2024,Ceará,UF,Urbana,Privada,98.1,1.5,0.4
+2024,Ceará,UF,Rural,Privada,95.1,2.4,2.5
+2024,Ceará,UF,Total,Pública,96.9,1.2,1.9
+2024,Ceará,UF,Urbana,Pública,96.8,1.2,2.0
+2024,Ceará,UF,Rural,Pública,97.7,0.6,1.7
+2024,Rio Grande do Norte,UF,Total,Total,81.4,11.8,6.8
+2024,Rio Grande do Norte,UF,Urbana,Total,81.3,11.8,6.9
+2024,Rio Grande do Norte,UF,Rural,Total,83.2,10.2,6.6
+2024,Rio Grande do Norte,UF,Total,Federal,91.4,7.8,0.8
+2024,Rio Grande do Norte,UF,Urbana,Federal,91.3,7.7,1.0
+2024,Rio Grande do Norte,UF,Rural,Federal,91.7,8.1,0.2
+2024,Rio Grande do Norte,UF,Total,Estadual,77.6,13.8,8.6
+2024,Rio Grande do Norte,UF,Urbana,Estadual,77.5,13.9,8.6
+2024,Rio Grande do Norte,UF,Rural,Estadual,80.3,11.0,8.7
+2024,Rio Grande do Norte,UF,Total,Municipal,,,
+2024,Rio Grande do Norte,UF,Urbana,Municipal,,,
+2024,Rio Grande do Norte,UF,Rural,Municipal,,,
+2024,Rio Grande do Norte,UF,Total,Privada,96.2,2.8,1.0
+2024,Rio Grande do Norte,UF,Urbana,Privada,96.2,2.8,1.0
+2024,Rio Grande do Norte,UF,Rural,Privada,94.4,2.8,2.8
+2024,Rio Grande do Norte,UF,Total,Pública,79.2,13.1,7.7
+2024,Rio Grande do Norte,UF,Urbana,Pública,79.0,13.2,7.8
+2024,Rio Grande do Norte,UF,Rural,Pública,83.1,10.3,6.6
+2024,Paraíba,UF,Total,Total,85.7,8.5,5.8
+2024,Paraíba,UF,Urbana,Total,86.0,8.3,5.7
+2024,Paraíba,UF,Rural,Total,80.0,11.2,8.8
+2024,Paraíba,UF,Total,Federal,94.7,4.4,0.9
+2024,Paraíba,UF,Urbana,Federal,94.7,4.4,0.9
+2024,Paraíba,UF,Rural,Federal,96.1,2.6,1.3
+2024,Paraíba,UF,Total,Estadual,83.2,9.8,7.0
+2024,Paraíba,UF,Urbana,Estadual,83.4,9.7,6.9
+2024,Paraíba,UF,Rural,Estadual,79.4,11.5,9.1
+2024,Paraíba,UF,Total,Municipal,77.0,2.1,20.9
+2024,Paraíba,UF,Urbana,Municipal,69.2,0.8,30.0
+2024,Paraíba,UF,Rural,Municipal,94.7,5.3,0.0
+2024,Paraíba,UF,Total,Privada,97.4,2.1,0.5
+2024,Paraíba,UF,Urbana,Privada,97.4,2.1,0.5
+2024,Paraíba,UF,Rural,Privada,,,
+2024,Paraíba,UF,Total,Pública,83.9,9.4,6.7
+2024,Paraíba,UF,Urbana,Pública,84.1,9.4,6.5
+2024,Paraíba,UF,Rural,Pública,80.0,11.2,8.8
+2024,Pernambuco,UF,Total,Total,96.3,3.0,0.7
+2024,Pernambuco,UF,Urbana,Total,96.5,2.9,0.6
+2024,Pernambuco,UF,Rural,Total,93.3,5.1,1.6
+2024,Pernambuco,UF,Total,Federal,91.0,6.8,2.2
+2024,Pernambuco,UF,Urbana,Federal,91.3,6.0,2.7
+2024,Pernambuco,UF,Rural,Federal,90.2,9.1,0.7
+2024,Pernambuco,UF,Total,Estadual,96.3,3.0,0.7
+2024,Pernambuco,UF,Urbana,Estadual,96.5,2.9,0.6
+2024,Pernambuco,UF,Rural,Estadual,93.6,4.7,1.7
+2024,Pernambuco,UF,Total,Municipal,94.0,1.2,4.8
+2024,Pernambuco,UF,Urbana,Municipal,,,
+2024,Pernambuco,UF,Rural,Municipal,94.0,1.2,4.8
+2024,Pernambuco,UF,Total,Privada,97.7,2.0,0.3
+2024,Pernambuco,UF,Urbana,Privada,97.7,2.0,0.3
+2024,Pernambuco,UF,Rural,Privada,97.4,2.6,0.0
+2024,Pernambuco,UF,Total,Pública,96.1,3.1,0.8
+2024,Pernambuco,UF,Urbana,Pública,96.3,3.0,0.7
+2024,Pernambuco,UF,Rural,Pública,93.2,5.1,1.7
+2024,Alagoas,UF,Total,Total,91.0,5.3,3.7
+2024,Alagoas,UF,Urbana,Total,91.1,5.3,3.6
+2024,Alagoas,UF,Rural,Total,90.3,5.9,3.8
+2024,Alagoas,UF,Total,Federal,89.4,8.7,1.9
+2024,Alagoas,UF,Urbana,Federal,89.4,8.7,1.9
+2024,Alagoas,UF,Total,Estadual,90.2,5.5,4.3
+2024,Alagoas,UF,Urbana,Estadual,90.2,5.5,4.3
+2024,Alagoas,UF,Rural,Estadual,90.3,5.9,3.8
+2024,Alagoas,UF,Total,Municipal,,,
+2024,Alagoas,UF,Urbana,Municipal,,,
+2024,Alagoas,UF,Rural,Municipal,,,
+2024,Alagoas,UF,Total,Privada,97.4,2.3,0.3
+2024,Alagoas,UF,Urbana,Privada,97.3,2.3,0.4
+2024,Alagoas,UF,Rural,Privada,100.0,0.0,0.0
+2024,Alagoas,UF,Total,Pública,90.2,5.7,4.1
+2024,Alagoas,UF,Urbana,Pública,90.2,5.7,4.1
+2024,Alagoas,UF,Rural,Pública,90.3,5.9,3.8
+2024,Sergipe,UF,Total,Total,92.9,5.5,1.6
+2024,Sergipe,UF,Urbana,Total,92.8,5.6,1.6
+2024,Sergipe,UF,Rural,Total,94.9,3.7,1.4
+2024,Sergipe,UF,Total,Federal,91.3,7.3,1.4
+2024,Sergipe,UF,Urbana,Federal,90.6,8.1,1.3
+2024,Sergipe,UF,Rural,Federal,92.7,5.7,1.6
+2024,Sergipe,UF,Total,Estadual,92.1,6.0,1.9
+2024,Sergipe,UF,Urbana,Estadual,91.9,6.2,1.9
+2024,Sergipe,UF,Rural,Estadual,95.3,3.3,1.4
+2024,Sergipe,UF,Total,Municipal,,,
+2024,Sergipe,UF,Urbana,Municipal,,,
+2024,Sergipe,UF,Rural,Municipal,,,
+2024,Sergipe,UF,Total,Privada,97.7,2.0,0.3
+2024,Sergipe,UF,Urbana,Privada,97.7,2.0,0.3
+2024,Sergipe,UF,Rural,Privada,,,
+2024,Sergipe,UF,Total,Pública,92.1,6.0,1.9
+2024,Sergipe,UF,Urbana,Pública,91.9,6.2,1.9
+2024,Sergipe,UF,Rural,Pública,94.9,3.7,1.4
+2024,Bahia,UF,Total,Total,89.3,4.9,5.8
+2024,Bahia,UF,Urbana,Total,89.1,5.0,5.9
+2024,Bahia,UF,Rural,Total,91.7,2.9,5.4
+2024,Bahia,UF,Total,Federal,88.8,8.6,2.6
+2024,Bahia,UF,Urbana,Federal,87.8,9.3,2.9
+2024,Bahia,UF,Rural,Federal,96.1,3.5,0.4
+2024,Bahia,UF,Total,Estadual,88.4,5.0,6.6
+2024,Bahia,UF,Urbana,Estadual,88.2,5.2,6.6
+2024,Bahia,UF,Rural,Estadual,91.0,2.7,6.3
+2024,Bahia,UF,Total,Municipal,89.2,3.3,7.5
+2024,Bahia,UF,Urbana,Municipal,86.4,3.4,10.2
+2024,Bahia,UF,Rural,Municipal,91.0,3.3,5.7
+2024,Bahia,UF,Total,Privada,96.9,2.5,0.6
+2024,Bahia,UF,Urbana,Privada,97.0,2.4,0.6
+2024,Bahia,UF,Rural,Privada,95.3,3.7,1.0
+2024,Bahia,UF,Total,Pública,88.4,5.1,6.5
+2024,Bahia,UF,Urbana,Pública,88.2,5.3,6.5
+2024,Bahia,UF,Rural,Pública,91.3,2.8,5.9
+2024,Minas Gerais,UF,Total,Total,88.2,6.6,5.2
+2024,Minas Gerais,UF,Urbana,Total,88.0,6.7,5.3
+2024,Minas Gerais,UF,Rural,Total,94.3,3.5,2.2
+2024,Minas Gerais,UF,Total,Federal,93.4,6.2,0.4
+2024,Minas Gerais,UF,Urbana,Federal,93.3,6.3,0.4
+2024,Minas Gerais,UF,Rural,Federal,93.7,5.9,0.4
+2024,Minas Gerais,UF,Total,Estadual,86.9,7.1,6.0
+2024,Minas Gerais,UF,Urbana,Estadual,86.7,7.2,6.1
+2024,Minas Gerais,UF,Rural,Estadual,94.3,2.6,3.1
+2024,Minas Gerais,UF,Total,Municipal,94.1,4.7,1.2
+2024,Minas Gerais,UF,Urbana,Municipal,94.1,4.8,1.1
+2024,Minas Gerais,UF,Rural,Municipal,94.5,2.7,2.8
+2024,Minas Gerais,UF,Total,Privada,96.0,2.8,1.2
+2024,Minas Gerais,UF,Urbana,Privada,96.0,2.8,1.2
+2024,Minas Gerais,UF,Rural,Privada,96.6,2.0,1.4
+2024,Minas Gerais,UF,Total,Pública,87.2,7.1,5.7
+2024,Minas Gerais,UF,Urbana,Pública,87.0,7.2,5.8
+2024,Minas Gerais,UF,Rural,Pública,94.1,3.7,2.2
+2024,Espírito Santo,UF,Total,Total,96.7,2.2,1.1
+2024,Espírito Santo,UF,Urbana,Total,96.8,2.2,1.0
+2024,Espírito Santo,UF,Rural,Total,95.4,3.3,1.3
+2024,Espírito Santo,UF,Total,Federal,92.6,6.5,0.9
+2024,Espírito Santo,UF,Urbana,Federal,92.6,6.6,0.8
+2024,Espírito Santo,UF,Rural,Federal,92.8,6.0,1.2
+2024,Espírito Santo,UF,Total,Estadual,96.9,1.9,1.2
+2024,Espírito Santo,UF,Urbana,Estadual,96.9,1.9,1.2
+2024,Espírito Santo,UF,Rural,Estadual,97.6,1.5,0.9
+2024,Espírito Santo,UF,Total,Municipal,,,
+2024,Espírito Santo,UF,Urbana,Municipal,,,
+2024,Espírito Santo,UF,Rural,Municipal,,,
+2024,Espírito Santo,UF,Total,Privada,97.7,1.9,0.4
+2024,Espírito Santo,UF,Urbana,Privada,98.0,1.8,0.2
+2024,Espírito Santo,UF,Rural,Privada,95.2,2.3,2.5
+2024,Espírito Santo,UF,Total,Pública,96.5,2.3,1.2
+2024,Espírito Santo,UF,Urbana,Pública,96.6,2.2,1.2
+2024,Espírito Santo,UF,Rural,Pública,95.5,3.6,0.9
+2024,Rio de Janeiro,UF,Total,Total,84.3,11.2,4.5
+2024,Rio de Janeiro,UF,Urbana,Total,84.2,11.3,4.5
+2024,Rio de Janeiro,UF,Rural,Total,87.1,9.9,3.0
+2024,Rio de Janeiro,UF,Total,Federal,89.5,8.4,2.1
+2024,Rio de Janeiro,UF,Urbana,Federal,89.7,8.2,2.1
+2024,Rio de Janeiro,UF,Rural,Federal,86.4,12.2,1.4
+2024,Rio de Janeiro,UF,Total,Estadual,80.8,13.6,5.6
+2024,Rio de Janeiro,UF,Urbana,Estadual,80.5,13.7,5.8
+2024,Rio de Janeiro,UF,Rural,Estadual,86.8,10.0,3.2
+2024,Rio de Janeiro,UF,Total,Municipal,88.8,8.2,3.0
+2024,Rio de Janeiro,UF,Urbana,Municipal,88.8,8.2,3.0
+2024,Rio de Janeiro,UF,Rural,Municipal,,,
+2024,Rio de Janeiro,UF,Total,Privada,96.0,3.4,0.6
+2024,Rio de Janeiro,UF,Urbana,Privada,96.0,3.3,0.7
+2024,Rio de Janeiro,UF,Rural,Privada,95.8,4.1,0.1
+2024,Rio de Janeiro,UF,Total,Pública,81.1,13.4,5.5
+2024,Rio de Janeiro,UF,Urbana,Pública,80.9,13.5,5.6
+2024,Rio de Janeiro,UF,Rural,Pública,86.7,10.1,3.2
+2024,São Paulo,UF,Total,Total,94.8,3.1,2.1
+2024,São Paulo,UF,Urbana,Total,94.7,3.1,2.2
+2024,São Paulo,UF,Rural,Total,97.3,1.4,1.3
+2024,São Paulo,UF,Total,Federal,96.0,3.5,0.5
+2024,São Paulo,UF,Urbana,Federal,96.0,3.5,0.5
+2024,São Paulo,UF,Total,Estadual,94.0,3.4,2.6
+2024,São Paulo,UF,Urbana,Estadual,93.9,3.4,2.7
+2024,São Paulo,UF,Rural,Estadual,97.1,1.4,1.5
+2024,São Paulo,UF,Total,Municipal,96.0,3.3,0.7
+2024,São Paulo,UF,Urbana,Municipal,95.9,3.3,0.8
+2024,São Paulo,UF,Rural,Municipal,100.0,0.0,0.0
+2024,São Paulo,UF,Total,Privada,98.5,1.5,0.0
+2024,São Paulo,UF,Urbana,Privada,98.5,1.5,0.0
+2024,São Paulo,UF,Rural,Privada,98.6,1.4,0.0
+2024,São Paulo,UF,Total,Pública,94.0,3.4,2.6
+2024,São Paulo,UF,Urbana,Pública,94.0,3.4,2.6
+2024,São Paulo,UF,Rural,Pública,97.2,1.4,1.4
+2024,Paraná,UF,Total,Total,93.6,5.1,1.3
+2024,Paraná,UF,Urbana,Total,93.6,5.2,1.2
+2024,Paraná,UF,Rural,Total,95.6,3.1,1.3
+2024,Paraná,UF,Total,Federal,93.1,5.9,1.0
+2024,Paraná,UF,Urbana,Federal,92.9,6.1,1.0
+2024,Paraná,UF,Rural,Federal,98.1,1.2,0.7
+2024,Paraná,UF,Total,Estadual,92.9,5.6,1.5
+2024,Paraná,UF,Urbana,Estadual,92.8,5.8,1.4
+2024,Paraná,UF,Rural,Estadual,95.5,3.1,1.4
+2024,Paraná,UF,Total,Municipal,,,
+2024,Paraná,UF,Urbana,Municipal,,,
+2024,Paraná,UF,Rural,Municipal,,,
+2024,Paraná,UF,Total,Privada,98.0,1.8,0.2
+2024,Paraná,UF,Urbana,Privada,98.0,1.8,0.2
+2024,Paraná,UF,Rural,Privada,95.7,4.3,0.0
+2024,Paraná,UF,Total,Pública,92.9,5.6,1.5
+2024,Paraná,UF,Urbana,Pública,92.8,5.8,1.4
+2024,Paraná,UF,Rural,Pública,95.5,3.0,1.5
+2024,Santa Catarina,UF,Total,Total,85.7,10.2,4.1
+2024,Santa Catarina,UF,Urbana,Total,85.5,10.3,4.2
+2024,Santa Catarina,UF,Rural,Total,92.0,5.4,2.6
+2024,Santa Catarina,UF,Total,Federal,92.4,5.9,1.7
+2024,Santa Catarina,UF,Urbana,Federal,92.4,5.8,1.8
+2024,Santa Catarina,UF,Rural,Federal,92.3,6.6,1.1
+2024,Santa Catarina,UF,Total,Estadual,83.2,11.9,4.9
+2024,Santa Catarina,UF,Urbana,Estadual,83.0,12.0,5.0
+2024,Santa Catarina,UF,Rural,Estadual,91.2,5.7,3.1
+2024,Santa Catarina,UF,Total,Municipal,97.0,0.9,2.1
+2024,Santa Catarina,UF,Urbana,Municipal,98.6,1.4,0.0
+2024,Santa Catarina,UF,Rural,Municipal,93.5,0.0,6.5
+2024,Santa Catarina,UF,Total,Privada,97.5,2.1,0.4
+2024,Santa Catarina,UF,Urbana,Privada,97.5,2.1,0.4
+2024,Santa Catarina,UF,Rural,Privada,98.1,1.9,0.0
+2024,Santa Catarina,UF,Total,Pública,83.7,11.6,4.7
+2024,Santa Catarina,UF,Urbana,Pública,83.5,11.7,4.8
+2024,Santa Catarina,UF,Rural,Pública,91.4,5.7,2.9
+2024,Rio Grande do Sul,UF,Total,Total,85.5,9.9,4.6
+2024,Rio Grande do Sul,UF,Urbana,Total,85.4,9.9,4.7
+2024,Rio Grande do Sul,UF,Rural,Total,87.2,9.0,3.8
+2024,Rio Grande do Sul,UF,Total,Federal,89.3,8.6,2.1
+2024,Rio Grande do Sul,UF,Urbana,Federal,88.8,9.0,2.2
+2024,Rio Grande do Sul,UF,Rural,Federal,91.4,7.2,1.4
+2024,Rio Grande do Sul,UF,Total,Estadual,83.5,11.1,5.4
+2024,Rio Grande do Sul,UF,Urbana,Estadual,83.5,11.1,5.4
+2024,Rio Grande do Sul,UF,Rural,Estadual,85.1,10.0,4.9
+2024,Rio Grande do Sul,UF,Total,Municipal,81.3,12.7,6.0
+2024,Rio Grande do Sul,UF,Urbana,Municipal,81.3,12.6,6.1
+2024,Rio Grande do Sul,UF,Rural,Municipal,81.0,13.8,5.2
+2024,Rio Grande do Sul,UF,Total,Privada,96.3,2.9,0.8
+2024,Rio Grande do Sul,UF,Urbana,Privada,96.3,2.9,0.8
+2024,Rio Grande do Sul,UF,Rural,Privada,96.3,2.6,1.1
+2024,Rio Grande do Sul,UF,Total,Pública,83.9,10.9,5.2
+2024,Rio Grande do Sul,UF,Urbana,Pública,83.7,11.0,5.3
+2024,Rio Grande do Sul,UF,Rural,Pública,86.7,9.3,4.0
+2024,Mato Grosso do Sul,UF,Total,Total,92.2,5.8,2.0
+2024,Mato Grosso do Sul,UF,Urbana,Total,92.2,5.9,1.9
+2024,Mato Grosso do Sul,UF,Rural,Total,91.8,4.3,3.9
+2024,Mato Grosso do Sul,UF,Total,Federal,95.3,3.3,1.4
+2024,Mato Grosso do Sul,UF,Urbana,Federal,95.9,2.7,1.4
+2024,Mato Grosso do Sul,UF,Rural,Federal,92.6,5.9,1.5
+2024,Mato Grosso do Sul,UF,Total,Estadual,91.3,6.4,2.3
+2024,Mato Grosso do Sul,UF,Urbana,Estadual,91.3,6.6,2.1
+2024,Mato Grosso do Sul,UF,Rural,Estadual,91.4,4.0,4.6
+2024,Mato Grosso do Sul,UF,Total,Municipal,87.8,12.2,0.0
+2024,Mato Grosso do Sul,UF,Urbana,Municipal,,,
+2024,Mato Grosso do Sul,UF,Rural,Municipal,87.8,12.2,0.0
+2024,Mato Grosso do Sul,UF,Total,Privada,97.8,2.1,0.1
+2024,Mato Grosso do Sul,UF,Urbana,Privada,97.8,2.2,0.0
+2024,Mato Grosso do Sul,UF,Rural,Privada,97.2,1.7,1.1
+2024,Mato Grosso do Sul,UF,Total,Pública,91.5,6.2,2.3
+2024,Mato Grosso do Sul,UF,Urbana,Pública,91.5,6.4,2.1
+2024,Mato Grosso do Sul,UF,Rural,Pública,91.5,4.4,4.1
+2024,Mato Grosso,UF,Total,Total,93.6,3.5,2.9
+2024,Mato Grosso,UF,Urbana,Total,93.3,3.7,3.0
+2024,Mato Grosso,UF,Rural,Total,96.0,2.7,1.3
+2024,Mato Grosso,UF,Total,Federal,93.4,5.6,1.0
+2024,Mato Grosso,UF,Urbana,Federal,94.3,4.6,1.1
+2024,Mato Grosso,UF,Rural,Federal,90.4,8.9,0.7
+2024,Mato Grosso,UF,Total,Estadual,93.2,3.6,3.2
+2024,Mato Grosso,UF,Urbana,Estadual,92.7,3.8,3.5
+2024,Mato Grosso,UF,Rural,Estadual,96.9,1.7,1.4
+2024,Mato Grosso,UF,Total,Municipal,,,
+2024,Mato Grosso,UF,Urbana,Municipal,,,
+2024,Mato Grosso,UF,Rural,Municipal,,,
+2024,Mato Grosso,UF,Total,Privada,97.9,1.6,0.5
+2024,Mato Grosso,UF,Urbana,Privada,97.9,1.6,0.5
+2024,Mato Grosso,UF,Rural,Privada,95.2,4.8,0.0
+2024,Mato Grosso,UF,Total,Pública,93.2,3.7,3.1
+2024,Mato Grosso,UF,Urbana,Pública,92.8,3.9,3.3
+2024,Mato Grosso,UF,Rural,Pública,96.0,2.7,1.3
+2024,Goiás,UF,Total,Total,96.9,1.9,1.2
+2024,Goiás,UF,Urbana,Total,96.9,1.9,1.2
+2024,Goiás,UF,Rural,Total,95.5,3.1,1.4
+2024,Goiás,UF,Total,Federal,89.8,9.1,1.1
+2024,Goiás,UF,Urbana,Federal,90.3,8.9,0.8
+2024,Goiás,UF,Rural,Federal,88.0,9.6,2.4
+2024,Goiás,UF,Total,Estadual,97.2,1.7,1.1
+2024,Goiás,UF,Urbana,Estadual,97.1,1.7,1.2
+2024,Goiás,UF,Rural,Estadual,98.1,0.7,1.2
+2024,Goiás,UF,Total,Municipal,93.1,5.9,1.0
+2024,Goiás,UF,Urbana,Municipal,92.5,6.6,0.9
+2024,Goiás,UF,Rural,Municipal,98.5,0.0,1.5
+2024,Goiás,UF,Total,Privada,96.7,1.8,1.5
+2024,Goiás,UF,Urbana,Privada,96.7,1.8,1.5
+2024,Goiás,UF,Rural,Privada,97.3,2.0,0.7
+2024,Goiás,UF,Total,Pública,96.9,2.0,1.1
+2024,Goiás,UF,Urbana,Pública,97.0,1.9,1.1
+2024,Goiás,UF,Rural,Pública,95.3,3.2,1.5
+2024,Distrito Federal,UF,Total,Total,88.9,8.4,2.7
+2024,Distrito Federal,UF,Urbana,Total,89.0,8.3,2.7
+2024,Distrito Federal,UF,Rural,Total,88.0,9.8,2.2
+2024,Distrito Federal,UF,Total,Federal,89.5,8.3,2.2
+2024,Distrito Federal,UF,Urbana,Federal,90.6,7.4,2.0
+2024,Distrito Federal,UF,Rural,Federal,83.5,12.8,3.7
+2024,Distrito Federal,UF,Total,Estadual,86.3,10.2,3.5
+2024,Distrito Federal,UF,Urbana,Estadual,86.2,10.3,3.5
+2024,Distrito Federal,UF,Rural,Estadual,89.4,8.9,1.7
+2024,Distrito Federal,UF,Total,Privada,97.3,2.5,0.2
+2024,Distrito Federal,UF,Urbana,Privada,97.3,2.5,0.2
+2024,Distrito Federal,UF,Rural,Privada,,,
+2024,Distrito Federal,UF,Total,Pública,86.4,10.1,3.5
+2024,Distrito Federal,UF,Urbana,Pública,86.4,10.1,3.5
+2024,Distrito Federal,UF,Rural,Pública,88.0,9.8,2.2
+2025,Brasil,Brasil,Total,Total,94.8,3.0,2.2
+2025,Brasil,Brasil,Urbana,Total,94.8,3.1,2.1
+2025,Brasil,Brasil,Rural,Total,95.0,2.5,2.5
+2025,Brasil,Brasil,Total,Federal,91.8,6.8,1.4
+2025,Brasil,Brasil,Urbana,Federal,91.7,6.9,1.4
+2025,Brasil,Brasil,Rural,Federal,92.3,6.7,1.0
+2025,Brasil,Brasil,Total,Estadual,94.4,3.0,2.6
+2025,Brasil,Brasil,Urbana,Estadual,94.4,3.1,2.5
+2025,Brasil,Brasil,Rural,Estadual,95.2,2.1,2.7
+2025,Brasil,Brasil,Total,Municipal,93.6,4.7,1.7
+2025,Brasil,Brasil,Urbana,Municipal,93.7,4.9,1.4
+2025,Brasil,Brasil,Rural,Municipal,93.2,1.9,4.9
+2025,Brasil,Brasil,Total,Privada,97.7,2.0,0.3
+2025,Brasil,Brasil,Urbana,Privada,97.7,1.9,0.4
+2025,Brasil,Brasil,Rural,Privada,95.3,2.4,2.3
+2025,Brasil,Brasil,Total,Pública,94.3,3.2,2.5
+2025,Brasil,Brasil,Urbana,Pública,94.3,3.2,2.5
+2025,Brasil,Brasil,Rural,Pública,95.0,2.5,2.5
+2025,Norte,Regiao,Total,Total,94.6,3.2,2.2
+2025,Norte,Regiao,Urbana,Total,94.6,3.4,2.0
+2025,Norte,Regiao,Rural,Total,94.6,2.0,3.4
+2025,Norte,Regiao,Total,Federal,93.0,5.9,1.1
+2025,Norte,Regiao,Urbana,Federal,92.9,5.9,1.2
+2025,Norte,Regiao,Rural,Federal,93.8,5.8,0.4
+2025,Norte,Regiao,Total,Estadual,94.4,3.2,2.4
+2025,Norte,Regiao,Urbana,Estadual,94.4,3.5,2.1
+2025,Norte,Regiao,Rural,Estadual,94.6,1.9,3.5
+2025,Norte,Regiao,Total,Municipal,100.0,0.0,0.0
+2025,Norte,Regiao,Urbana,Municipal,,,
+2025,Norte,Regiao,Rural,Municipal,100.0,0.0,0.0
+2025,Norte,Regiao,Total,Privada,98.0,1.6,0.4
+2025,Norte,Regiao,Urbana,Privada,98.3,1.6,0.1
+2025,Norte,Regiao,Rural,Privada,92.0,2.4,5.6
+2025,Norte,Regiao,Total,Pública,94.4,3.3,2.3
+2025,Norte,Regiao,Urbana,Pública,94.3,3.6,2.1
+2025,Norte,Regiao,Rural,Pública,94.6,2.0,3.4
+2025,Nordeste,Regiao,Total,Total,95.3,2.8,1.9
+2025,Nordeste,Regiao,Urbana,Total,95.3,2.8,1.9
+2025,Nordeste,Regiao,Rural,Total,94.4,2.7,2.9
+2025,Nordeste,Regiao,Total,Federal,91.3,7.1,1.6
+2025,Nordeste,Regiao,Urbana,Federal,91.2,7.1,1.7
+2025,Nordeste,Regiao,Rural,Federal,92.1,6.8,1.1
+2025,Nordeste,Regiao,Total,Estadual,95.2,2.7,2.1
+2025,Nordeste,Regiao,Urbana,Estadual,95.2,2.7,2.1
+2025,Nordeste,Regiao,Rural,Estadual,94.6,2.5,2.9
+2025,Nordeste,Regiao,Total,Municipal,90.6,1.9,7.5
+2025,Nordeste,Regiao,Urbana,Municipal,84.8,3.9,11.3
+2025,Nordeste,Regiao,Rural,Municipal,93.8,0.8,5.4
+2025,Nordeste,Regiao,Total,Privada,97.7,1.9,0.4
+2025,Nordeste,Regiao,Urbana,Privada,97.8,1.9,0.3
+2025,Nordeste,Regiao,Rural,Privada,94.3,2.6,3.1
+2025,Nordeste,Regiao,Total,Pública,95.0,2.9,2.1
+2025,Nordeste,Regiao,Urbana,Pública,95.0,2.9,2.1
+2025,Nordeste,Regiao,Rural,Pública,94.5,2.7,2.8
+2025,Sudeste,Regiao,Total,Total,94.6,2.7,2.7
+2025,Sudeste,Regiao,Urbana,Total,94.6,2.7,2.7
+2025,Sudeste,Regiao,Rural,Total,96.1,2.1,1.8
+2025,Sudeste,Regiao,Total,Federal,91.9,7.2,0.9
+2025,Sudeste,Regiao,Urbana,Federal,91.8,7.3,0.9
+2025,Sudeste,Regiao,Rural,Federal,92.7,6.3,1.0
+2025,Sudeste,Regiao,Total,Estadual,94.0,2.7,3.3
+2025,Sudeste,Regiao,Urbana,Estadual,93.9,2.7,3.4
+2025,Sudeste,Regiao,Rural,Estadual,96.6,1.4,2.0
+2025,Sudeste,Regiao,Total,Municipal,95.0,4.1,0.9
+2025,Sudeste,Regiao,Urbana,Municipal,95.0,4.1,0.9
+2025,Sudeste,Regiao,Rural,Municipal,96.4,3.2,0.4
+2025,Sudeste,Regiao,Total,Privada,97.7,1.9,0.4
+2025,Sudeste,Regiao,Urbana,Privada,97.8,1.9,0.3
+2025,Sudeste,Regiao,Rural,Privada,96.2,2.6,1.2
+2025,Sudeste,Regiao,Total,Pública,94.0,2.8,3.2
+2025,Sudeste,Regiao,Urbana,Pública,93.9,2.9,3.2
+2025,Sudeste,Regiao,Rural,Pública,96.1,2.0,1.9
+2025,Sul,Regiao,Total,Total,93.9,4.2,1.9
+2025,Sul,Regiao,Urbana,Total,93.8,4.3,1.9
+2025,Sul,Regiao,Rural,Total,95.9,3.0,1.1
+2025,Sul,Regiao,Total,Federal,91.6,6.8,1.6
+2025,Sul,Regiao,Urbana,Federal,91.5,6.7,1.8
+2025,Sul,Regiao,Rural,Federal,92.0,7.4,0.6
+2025,Sul,Regiao,Total,Estadual,93.5,4.4,2.1
+2025,Sul,Regiao,Urbana,Estadual,93.4,4.5,2.1
+2025,Sul,Regiao,Rural,Estadual,96.5,2.3,1.2
+2025,Sul,Regiao,Total,Municipal,81.6,15.5,2.9
+2025,Sul,Regiao,Urbana,Municipal,80.8,16.9,2.3
+2025,Sul,Regiao,Rural,Municipal,85.6,7.4,7.0
+2025,Sul,Regiao,Total,Privada,97.2,2.3,0.5
+2025,Sul,Regiao,Urbana,Privada,97.2,2.3,0.5
+2025,Sul,Regiao,Rural,Privada,97.4,1.6,1.0
+2025,Sul,Regiao,Total,Pública,93.4,4.6,2.0
+2025,Sul,Regiao,Urbana,Pública,93.2,4.6,2.2
+2025,Sul,Regiao,Rural,Pública,95.8,3.1,1.1
+2025,Centro-Oeste,Regiao,Total,Total,95.5,3.4,1.1
+2025,Centro-Oeste,Regiao,Urbana,Total,95.5,3.4,1.1
+2025,Centro-Oeste,Regiao,Rural,Total,96.2,3.0,0.8
+2025,Centro-Oeste,Regiao,Total,Federal,92.5,6.1,1.4
+2025,Centro-Oeste,Regiao,Urbana,Federal,92.7,5.8,1.5
+2025,Centro-Oeste,Regiao,Rural,Federal,91.6,7.4,1.0
+2025,Centro-Oeste,Regiao,Total,Estadual,95.2,3.6,1.2
+2025,Centro-Oeste,Regiao,Urbana,Estadual,95.2,3.6,1.2
+2025,Centro-Oeste,Regiao,Rural,Estadual,97.1,2.1,0.8
+2025,Centro-Oeste,Regiao,Total,Municipal,96.4,3.1,0.5
+2025,Centro-Oeste,Regiao,Urbana,Municipal,96.2,3.2,0.6
+2025,Centro-Oeste,Regiao,Rural,Municipal,97.1,2.9,0.0
+2025,Centro-Oeste,Regiao,Total,Privada,98.2,1.7,0.1
+2025,Centro-Oeste,Regiao,Urbana,Privada,98.2,1.7,0.1
+2025,Centro-Oeste,Regiao,Rural,Privada,98.0,1.4,0.6
+2025,Centro-Oeste,Regiao,Total,Pública,95.1,3.7,1.2
+2025,Centro-Oeste,Regiao,Urbana,Pública,95.0,3.7,1.3
+2025,Centro-Oeste,Regiao,Rural,Pública,96.1,3.0,0.9
+2025,Rondônia,UF,Total,Total,91.7,4.3,4.0
+2025,Rondônia,UF,Urbana,Total,91.7,4.3,4.0
+2025,Rondônia,UF,Rural,Total,92.7,4.0,3.3
+2025,Rondônia,UF,Total,Federal,92.9,6.8,0.3
+2025,Rondônia,UF,Urbana,Federal,92.1,7.7,0.2
+2025,Rondônia,UF,Rural,Federal,95.7,4.1,0.2
+2025,Rondônia,UF,Total,Estadual,91.2,4.2,4.6
+2025,Rondônia,UF,Urbana,Estadual,91.2,4.2,4.6
+2025,Rondônia,UF,Rural,Estadual,90.7,4.1,5.2
+2025,Rondônia,UF,Total,Municipal,,,
+2025,Rondônia,UF,Urbana,Municipal,,,
+2025,Rondônia,UF,Rural,Municipal,,,
+2025,Rondônia,UF,Total,Privada,97.1,2.4,0.5
+2025,Rondônia,UF,Urbana,Privada,97.7,2.2,0.1
+2025,Rondônia,UF,Rural,Privada,94.4,3.6,2.0
+2025,Rondônia,UF,Total,Pública,91.3,4.4,4.3
+2025,Rondônia,UF,Urbana,Pública,91.2,4.4,4.4
+2025,Rondônia,UF,Rural,Pública,92.3,4.1,3.6
+2025,Acre,UF,Total,Total,89.7,6.0,4.3
+2025,Acre,UF,Urbana,Total,90.4,6.9,2.7
+2025,Acre,UF,Rural,Total,87.6,3.3,9.1
+2025,Acre,UF,Total,Federal,92.9,4.6,2.5
+2025,Acre,UF,Urbana,Federal,92.4,4.9,2.7
+2025,Acre,UF,Rural,Federal,94.7,3.9,1.4
+2025,Acre,UF,Total,Estadual,89.0,6.3,4.7
+2025,Acre,UF,Urbana,Estadual,89.7,7.4,2.9
+2025,Acre,UF,Rural,Estadual,87.1,3.3,9.6
+2025,Acre,UF,Total,Municipal,,,
+2025,Acre,UF,Urbana,Municipal,,,
+2025,Acre,UF,Rural,Municipal,,,
+2025,Acre,UF,Total,Privada,97.6,2.3,0.1
+2025,Acre,UF,Urbana,Privada,97.6,2.3,0.1
+2025,Acre,UF,Total,Pública,89.2,6.2,4.6
+2025,Acre,UF,Urbana,Pública,89.9,7.3,2.8
+2025,Acre,UF,Rural,Pública,87.6,3.3,9.1
+2025,Amazonas,UF,Total,Total,89.8,6.3,3.9
+2025,Amazonas,UF,Urbana,Total,89.8,6.9,3.3
+2025,Amazonas,UF,Rural,Total,89.9,3.7,6.4
+2025,Amazonas,UF,Total,Federal,93.0,5.6,1.4
+2025,Amazonas,UF,Urbana,Federal,92.6,5.9,1.5
+2025,Amazonas,UF,Rural,Federal,95.6,3.9,0.5
+2025,Amazonas,UF,Total,Estadual,89.3,6.5,4.2
+2025,Amazonas,UF,Urbana,Estadual,89.1,7.2,3.7
+2025,Amazonas,UF,Rural,Estadual,89.8,3.7,6.5
+2025,Amazonas,UF,Total,Municipal,,,
+2025,Amazonas,UF,Urbana,Municipal,,,
+2025,Amazonas,UF,Rural,Municipal,,,
+2025,Amazonas,UF,Total,Privada,98.1,1.8,0.1
+2025,Amazonas,UF,Urbana,Privada,98.1,1.8,0.1
+2025,Amazonas,UF,Rural,Privada,100.0,0.0,0.0
+2025,Amazonas,UF,Total,Pública,89.4,6.5,4.1
+2025,Amazonas,UF,Urbana,Pública,89.3,7.2,3.5
+2025,Amazonas,UF,Rural,Pública,89.9,3.7,6.4
+2025,Roraima,UF,Total,Total,88.3,7.7,4.0
+2025,Roraima,UF,Urbana,Total,88.5,8.6,2.9
+2025,Roraima,UF,Rural,Total,87.8,4.8,7.4
+2025,Roraima,UF,Total,Federal,92.2,7.5,0.3
+2025,Roraima,UF,Urbana,Federal,95.1,4.6,0.3
+2025,Roraima,UF,Rural,Federal,80.8,19.2,0.0
+2025,Roraima,UF,Total,Estadual,87.7,8.0,4.3
+2025,Roraima,UF,Urbana,Estadual,87.6,9.2,3.2
+2025,Roraima,UF,Rural,Estadual,88.0,4.2,7.8
+2025,Roraima,UF,Total,Municipal,,,
+2025,Roraima,UF,Urbana,Municipal,,,
+2025,Roraima,UF,Rural,Municipal,,,
+2025,Roraima,UF,Total,Privada,95.9,4.0,0.1
+2025,Roraima,UF,Urbana,Privada,95.9,4.0,0.1
+2025,Roraima,UF,Rural,Privada,100.0,0.0,0.0
+2025,Roraima,UF,Total,Pública,87.9,8.0,4.1
+2025,Roraima,UF,Urbana,Pública,88.0,9.0,3.0
+2025,Roraima,UF,Rural,Pública,87.8,4.8,7.4
+2025,Pará,UF,Total,Total,99.0,0.4,0.6
+2025,Pará,UF,Urbana,Total,99.1,0.5,0.4
+2025,Pará,UF,Rural,Total,98.9,0.3,0.8
+2025,Pará,UF,Total,Federal,93.2,5.2,1.6
+2025,Pará,UF,Urbana,Federal,93.3,5.1,1.6
+2025,Pará,UF,Rural,Federal,89.6,10.1,0.3
+2025,Pará,UF,Total,Estadual,99.3,0.2,0.5
+2025,Pará,UF,Urbana,Estadual,99.4,0.2,0.4
+2025,Pará,UF,Rural,Estadual,99.0,0.3,0.7
+2025,Pará,UF,Total,Municipal,100.0,0.0,0.0
+2025,Pará,UF,Urbana,Municipal,,,
+2025,Pará,UF,Rural,Municipal,100.0,0.0,0.0
+2025,Pará,UF,Total,Privada,98.2,1.4,0.4
+2025,Pará,UF,Urbana,Privada,98.4,1.4,0.2
+2025,Pará,UF,Rural,Privada,88.2,2.0,9.8
+2025,Pará,UF,Total,Pública,99.1,0.3,0.6
+2025,Pará,UF,Urbana,Pública,99.1,0.3,0.6
+2025,Pará,UF,Rural,Pública,99.0,0.3,0.7
+2025,Amapá,UF,Total,Total,90.8,4.8,4.4
+2025,Amapá,UF,Urbana,Total,91.0,4.7,4.3
+2025,Amapá,UF,Rural,Total,89.1,5.1,5.8
+2025,Amapá,UF,Total,Federal,95.6,3.8,0.6
+2025,Amapá,UF,Urbana,Federal,95.6,3.8,0.6
+2025,Amapá,UF,Total,Estadual,89.8,5.2,5.0
+2025,Amapá,UF,Urbana,Estadual,89.9,5.2,4.9
+2025,Amapá,UF,Rural,Estadual,89.3,5.3,5.4
+2025,Amapá,UF,Total,Municipal,,,
+2025,Amapá,UF,Urbana,Municipal,,,
+2025,Amapá,UF,Rural,Municipal,,,
+2025,Amapá,UF,Total,Privada,98.2,0.7,1.1
+2025,Amapá,UF,Urbana,Privada,99.4,0.5,0.1
+2025,Amapá,UF,Rural,Privada,85.3,2.2,12.5
+2025,Amapá,UF,Total,Pública,90.1,5.1,4.8
+2025,Amapá,UF,Urbana,Pública,90.2,5.1,4.7
+2025,Amapá,UF,Rural,Pública,89.3,5.3,5.4
+2025,Tocantins,UF,Total,Total,96.0,2.9,1.1
+2025,Tocantins,UF,Urbana,Total,96.2,2.8,1.0
+2025,Tocantins,UF,Rural,Total,94.4,4.0,1.6
+2025,Tocantins,UF,Total,Federal,91.6,8.2,0.2
+2025,Tocantins,UF,Urbana,Federal,90.9,8.9,0.2
+2025,Tocantins,UF,Rural,Federal,93.7,6.2,0.1
+2025,Tocantins,UF,Total,Estadual,96.1,2.7,1.2
+2025,Tocantins,UF,Urbana,Estadual,96.3,2.7,1.0
+2025,Tocantins,UF,Rural,Estadual,94.4,3.8,1.8
+2025,Tocantins,UF,Total,Municipal,,,
+2025,Tocantins,UF,Urbana,Municipal,,,
+2025,Tocantins,UF,Rural,Municipal,,,
+2025,Tocantins,UF,Total,Privada,98.6,1.2,0.2
+2025,Tocantins,UF,Urbana,Privada,98.6,1.3,0.1
+2025,Tocantins,UF,Rural,Privada,100.0,0.0,0.0
+2025,Tocantins,UF,Total,Pública,95.9,3.0,1.1
+2025,Tocantins,UF,Urbana,Pública,96.0,2.9,1.1
+2025,Tocantins,UF,Rural,Pública,94.3,4.1,1.6
+2025,Maranhão,UF,Total,Total,93.4,3.6,3.0
+2025,Maranhão,UF,Urbana,Total,93.9,3.5,2.6
+2025,Maranhão,UF,Rural,Total,91.1,4.1,4.8
+2025,Maranhão,UF,Total,Federal,93.2,5.8,1.0
+2025,Maranhão,UF,Urbana,Federal,92.9,6.1,1.0
+2025,Maranhão,UF,Rural,Federal,94.2,4.8,1.0
+2025,Maranhão,UF,Total,Estadual,93.2,3.7,3.1
+2025,Maranhão,UF,Urbana,Estadual,93.6,3.6,2.8
+2025,Maranhão,UF,Rural,Estadual,90.8,4.3,4.9
+2025,Maranhão,UF,Total,Municipal,91.2,0.7,8.1
+2025,Maranhão,UF,Urbana,Municipal,86.8,1.3,11.9
+2025,Maranhão,UF,Rural,Municipal,93.8,0.3,5.9
+2025,Maranhão,UF,Total,Privada,97.0,1.8,1.2
+2025,Maranhão,UF,Urbana,Privada,97.8,1.7,0.5
+2025,Maranhão,UF,Rural,Privada,89.7,3.0,7.3
+2025,Maranhão,UF,Total,Pública,93.2,3.8,3.0
+2025,Maranhão,UF,Urbana,Pública,93.6,3.7,2.7
+2025,Maranhão,UF,Rural,Pública,91.1,4.2,4.7
+2025,Piauí,UF,Total,Total,98.9,0.7,0.4
+2025,Piauí,UF,Urbana,Total,98.9,0.7,0.4
+2025,Piauí,UF,Rural,Total,98.7,0.7,0.6
+2025,Piauí,UF,Total,Federal,95.2,3.6,1.2
+2025,Piauí,UF,Urbana,Federal,95.4,3.5,1.1
+2025,Piauí,UF,Rural,Federal,93.4,3.9,2.7
+2025,Piauí,UF,Total,Estadual,99.5,0.1,0.4
+2025,Piauí,UF,Urbana,Estadual,99.5,0.1,0.4
+2025,Piauí,UF,Rural,Estadual,99.6,0.2,0.2
+2025,Piauí,UF,Total,Municipal,,,
+2025,Piauí,UF,Urbana,Municipal,,,
+2025,Piauí,UF,Rural,Municipal,,,
+2025,Piauí,UF,Total,Privada,97.2,2.6,0.2
+2025,Piauí,UF,Urbana,Privada,97.2,2.6,0.2
+2025,Piauí,UF,Rural,Privada,100.0,0.0,0.0
+2025,Piauí,UF,Total,Pública,99.1,0.4,0.5
+2025,Piauí,UF,Urbana,Pública,99.1,0.4,0.5
+2025,Piauí,UF,Rural,Pública,98.6,0.7,0.7
+2025,Ceará,UF,Total,Total,97.6,1.0,1.4
+2025,Ceará,UF,Urbana,Total,97.5,1.0,1.5
+2025,Ceará,UF,Rural,Total,98.2,0.6,1.2
+2025,Ceará,UF,Total,Federal,89.2,9.2,1.6
+2025,Ceará,UF,Urbana,Federal,88.9,9.4,1.7
+2025,Ceará,UF,Rural,Federal,92.4,7.4,0.2
+2025,Ceará,UF,Total,Estadual,97.6,0.8,1.6
+2025,Ceará,UF,Urbana,Estadual,97.6,0.8,1.6
+2025,Ceará,UF,Rural,Estadual,98.4,0.4,1.2
+2025,Ceará,UF,Total,Municipal,,,
+2025,Ceará,UF,Urbana,Municipal,,,
+2025,Ceará,UF,Rural,Municipal,,,
+2025,Ceará,UF,Total,Privada,98.6,1.2,0.2
+2025,Ceará,UF,Urbana,Privada,98.6,1.2,0.2
+2025,Ceará,UF,Rural,Privada,100.0,0.0,0.0
+2025,Ceará,UF,Total,Pública,97.5,1.0,1.5
+2025,Ceará,UF,Urbana,Pública,97.4,1.0,1.6
+2025,Ceará,UF,Rural,Pública,98.2,0.6,1.2
+2025,Rio Grande do Norte,UF,Total,Total,93.9,3.4,2.7
+2025,Rio Grande do Norte,UF,Urbana,Total,93.8,3.4,2.8
+2025,Rio Grande do Norte,UF,Rural,Total,95.3,2.8,1.9
+2025,Rio Grande do Norte,UF,Total,Federal,92.5,7.0,0.5
+2025,Rio Grande do Norte,UF,Urbana,Federal,92.6,6.9,0.5
+2025,Rio Grande do Norte,UF,Rural,Federal,92.0,7.0,1.0
+2025,Rio Grande do Norte,UF,Total,Estadual,93.4,3.0,3.6
+2025,Rio Grande do Norte,UF,Urbana,Estadual,93.3,3.1,3.6
+2025,Rio Grande do Norte,UF,Rural,Estadual,96.5,1.2,2.3
+2025,Rio Grande do Norte,UF,Total,Municipal,,,
+2025,Rio Grande do Norte,UF,Urbana,Municipal,,,
+2025,Rio Grande do Norte,UF,Rural,Municipal,,,
+2025,Rio Grande do Norte,UF,Total,Privada,97.7,2.1,0.2
+2025,Rio Grande do Norte,UF,Urbana,Privada,97.7,2.1,0.2
+2025,Rio Grande do Norte,UF,Rural,Privada,100.0,0.0,0.0
+2025,Rio Grande do Norte,UF,Total,Pública,93.3,3.6,3.1
+2025,Rio Grande do Norte,UF,Urbana,Pública,93.2,3.6,3.2
+2025,Rio Grande do Norte,UF,Rural,Pública,95.3,2.8,1.9
+2025,Paraíba,UF,Total,Total,93.9,2.7,3.4
+2025,Paraíba,UF,Urbana,Total,94.0,2.7,3.3
+2025,Paraíba,UF,Rural,Total,93.1,3.2,3.7
+2025,Paraíba,UF,Total,Federal,95.2,3.9,0.9
+2025,Paraíba,UF,Urbana,Federal,95.2,3.9,0.9
+2025,Paraíba,UF,Rural,Federal,92.6,7.4,0.0
+2025,Paraíba,UF,Total,Estadual,93.1,2.8,4.1
+2025,Paraíba,UF,Urbana,Estadual,93.1,2.7,4.2
+2025,Paraíba,UF,Rural,Estadual,93.1,3.1,3.8
+2025,Paraíba,UF,Total,Municipal,79.5,8.1,12.4
+2025,Paraíba,UF,Urbana,Municipal,71.4,11.3,17.3
+2025,Paraíba,UF,Rural,Municipal,100.0,0.0,0.0
+2025,Paraíba,UF,Total,Privada,98.1,1.6,0.3
+2025,Paraíba,UF,Urbana,Privada,98.1,1.6,0.3
+2025,Paraíba,UF,Rural,Privada,,,
+2025,Paraíba,UF,Total,Pública,93.3,2.8,3.9
+2025,Paraíba,UF,Urbana,Pública,93.3,2.8,3.9
+2025,Paraíba,UF,Rural,Pública,93.1,3.2,3.7
+2025,Pernambuco,UF,Total,Total,97.2,2.2,0.6
+2025,Pernambuco,UF,Urbana,Total,97.4,2.0,0.6
+2025,Pernambuco,UF,Rural,Total,95.2,3.7,1.1
+2025,Pernambuco,UF,Total,Federal,90.3,7.8,1.9
+2025,Pernambuco,UF,Urbana,Federal,90.2,7.5,2.3
+2025,Pernambuco,UF,Rural,Federal,90.5,8.6,0.9
+2025,Pernambuco,UF,Total,Estadual,97.4,2.0,0.6
+2025,Pernambuco,UF,Urbana,Estadual,97.5,1.9,0.6
+2025,Pernambuco,UF,Rural,Estadual,95.8,3.1,1.1
+2025,Pernambuco,UF,Total,Municipal,92.1,1.7,6.2
+2025,Pernambuco,UF,Urbana,Municipal,,,
+2025,Pernambuco,UF,Rural,Municipal,92.1,1.7,6.2
+2025,Pernambuco,UF,Total,Privada,97.8,2.0,0.2
+2025,Pernambuco,UF,Urbana,Privada,97.8,2.0,0.2
+2025,Pernambuco,UF,Rural,Privada,95.9,4.1,0.0
+2025,Pernambuco,UF,Total,Pública,97.2,2.2,0.6
+2025,Pernambuco,UF,Urbana,Pública,97.3,2.1,0.6
+2025,Pernambuco,UF,Rural,Pública,95.2,3.7,1.1
+2025,Alagoas,UF,Total,Total,96.1,2.6,1.3
+2025,Alagoas,UF,Urbana,Total,96.0,2.7,1.3
+2025,Alagoas,UF,Rural,Total,97.2,1.1,1.7
+2025,Alagoas,UF,Total,Federal,89.3,9.0,1.7
+2025,Alagoas,UF,Urbana,Federal,89.3,9.0,1.7
+2025,Alagoas,UF,Total,Estadual,96.4,2.2,1.4
+2025,Alagoas,UF,Urbana,Estadual,96.3,2.3,1.4
+2025,Alagoas,UF,Rural,Estadual,97.2,1.2,1.6
+2025,Alagoas,UF,Total,Municipal,,,
+2025,Alagoas,UF,Urbana,Municipal,,,
+2025,Alagoas,UF,Rural,Municipal,,,
+2025,Alagoas,UF,Total,Privada,97.5,2.1,0.4
+2025,Alagoas,UF,Urbana,Privada,97.5,2.2,0.3
+2025,Alagoas,UF,Rural,Privada,100.0,0.0,0.0
+2025,Alagoas,UF,Total,Pública,95.9,2.7,1.4
+2025,Alagoas,UF,Urbana,Pública,95.8,2.8,1.4
+2025,Alagoas,UF,Rural,Pública,97.2,1.2,1.6
+2025,Sergipe,UF,Total,Total,94.5,3.9,1.6
+2025,Sergipe,UF,Urbana,Total,94.5,3.9,1.6
+2025,Sergipe,UF,Rural,Total,94.7,3.8,1.5
+2025,Sergipe,UF,Total,Federal,86.5,11.0,2.5
+2025,Sergipe,UF,Urbana,Federal,87.3,10.4,2.3
+2025,Sergipe,UF,Rural,Federal,84.8,12.4,2.8
+2025,Sergipe,UF,Total,Estadual,94.3,4.0,1.7
+2025,Sergipe,UF,Urbana,Estadual,94.1,4.1,1.8
+2025,Sergipe,UF,Rural,Estadual,96.9,1.9,1.2
+2025,Sergipe,UF,Total,Municipal,,,
+2025,Sergipe,UF,Urbana,Municipal,,,
+2025,Sergipe,UF,Rural,Municipal,,,
+2025,Sergipe,UF,Total,Privada,97.7,2.1,0.2
+2025,Sergipe,UF,Urbana,Privada,97.7,2.1,0.2
+2025,Sergipe,UF,Rural,Privada,,,
+2025,Sergipe,UF,Total,Pública,94.0,4.2,1.8
+2025,Sergipe,UF,Urbana,Pública,93.9,4.3,1.8
+2025,Sergipe,UF,Rural,Pública,94.7,3.8,1.5
+2025,Bahia,UF,Total,Total,92.9,4.4,2.7
+2025,Bahia,UF,Urbana,Total,92.8,4.6,2.6
+2025,Bahia,UF,Rural,Total,94.6,2.3,3.1
+2025,Bahia,UF,Total,Federal,87.7,9.3,3.0
+2025,Bahia,UF,Urbana,Federal,87.1,9.7,3.2
+2025,Bahia,UF,Rural,Federal,93.1,6.1,0.8
+2025,Bahia,UF,Total,Estadual,92.5,4.4,3.1
+2025,Bahia,UF,Urbana,Estadual,92.3,4.7,3.0
+2025,Bahia,UF,Rural,Estadual,94.5,2.2,3.3
+2025,Bahia,UF,Total,Municipal,91.1,3.6,5.3
+2025,Bahia,UF,Urbana,Municipal,85.4,7.8,6.8
+2025,Bahia,UF,Rural,Municipal,93.7,1.7,4.6
+2025,Bahia,UF,Total,Privada,97.5,2.2,0.3
+2025,Bahia,UF,Urbana,Privada,97.6,2.2,0.2
+2025,Bahia,UF,Rural,Privada,96.1,2.4,1.5
+2025,Bahia,UF,Total,Pública,92.4,4.6,3.0
+2025,Bahia,UF,Urbana,Pública,92.1,4.9,3.0
+2025,Bahia,UF,Rural,Pública,94.5,2.3,3.2
+2025,Minas Gerais,UF,Total,Total,95.3,2.3,2.4
+2025,Minas Gerais,UF,Urbana,Total,95.3,2.3,2.4
+2025,Minas Gerais,UF,Rural,Total,96.1,2.2,1.7
+2025,Minas Gerais,UF,Total,Federal,91.3,8.0,0.7
+2025,Minas Gerais,UF,Urbana,Federal,90.8,8.5,0.7
+2025,Minas Gerais,UF,Rural,Federal,93.2,6.1,0.7
+2025,Minas Gerais,UF,Total,Estadual,95.4,2.0,2.6
+2025,Minas Gerais,UF,Urbana,Estadual,95.3,2.0,2.7
+2025,Minas Gerais,UF,Rural,Estadual,97.2,0.8,2.0
+2025,Minas Gerais,UF,Total,Municipal,94.2,5.0,0.8
+2025,Minas Gerais,UF,Urbana,Municipal,94.3,5.0,0.7
+2025,Minas Gerais,UF,Rural,Municipal,93.3,5.9,0.8
+2025,Minas Gerais,UF,Total,Privada,96.3,2.5,1.2
+2025,Minas Gerais,UF,Urbana,Privada,96.3,2.5,1.2
+2025,Minas Gerais,UF,Rural,Privada,95.3,2.5,2.2
+2025,Minas Gerais,UF,Total,Pública,95.2,2.3,2.5
+2025,Minas Gerais,UF,Urbana,Pública,95.2,2.3,2.5
+2025,Minas Gerais,UF,Rural,Pública,96.2,2.2,1.6
+2025,Espírito Santo,UF,Total,Total,98.2,1.3,0.5
+2025,Espírito Santo,UF,Urbana,Total,98.4,1.1,0.5
+2025,Espírito Santo,UF,Rural,Total,94.9,4.1,1.0
+2025,Espírito Santo,UF,Total,Federal,93.1,5.9,1.0
+2025,Espírito Santo,UF,Urbana,Federal,93.3,5.6,1.1
+2025,Espírito Santo,UF,Rural,Federal,92.2,6.9,0.9
+2025,Espírito Santo,UF,Total,Estadual,98.8,0.7,0.5
+2025,Espírito Santo,UF,Urbana,Estadual,98.9,0.6,0.5
+2025,Espírito Santo,UF,Rural,Estadual,98.2,1.2,0.6
+2025,Espírito Santo,UF,Total,Municipal,,,
+2025,Espírito Santo,UF,Urbana,Municipal,,,
+2025,Espírito Santo,UF,Rural,Municipal,,,
+2025,Espírito Santo,UF,Total,Privada,97.3,2.4,0.3
+2025,Espírito Santo,UF,Urbana,Privada,97.8,2.1,0.1
+2025,Espírito Santo,UF,Rural,Privada,93.1,5.0,1.9
+2025,Espírito Santo,UF,Total,Pública,98.4,1.1,0.5
+2025,Espírito Santo,UF,Urbana,Pública,98.5,1.0,0.5
+2025,Espírito Santo,UF,Rural,Pública,95.5,3.8,0.7
+2025,Rio de Janeiro,UF,Total,Total,92.8,4.1,3.1
+2025,Rio de Janeiro,UF,Urbana,Total,92.7,4.2,3.1
+2025,Rio de Janeiro,UF,Rural,Total,95.5,1.9,2.6
+2025,Rio de Janeiro,UF,Total,Federal,89.8,8.8,1.4
+2025,Rio de Janeiro,UF,Urbana,Federal,89.8,8.9,1.3
+2025,Rio de Janeiro,UF,Rural,Federal,88.8,5.8,5.4
+2025,Rio de Janeiro,UF,Total,Estadual,91.8,4.1,4.1
+2025,Rio de Janeiro,UF,Urbana,Estadual,91.6,4.2,4.2
+2025,Rio de Janeiro,UF,Rural,Estadual,95.6,1.8,2.6
+2025,Rio de Janeiro,UF,Total,Municipal,87.6,9.1,3.3
+2025,Rio de Janeiro,UF,Urbana,Municipal,87.6,9.1,3.3
+2025,Rio de Janeiro,UF,Rural,Municipal,,,
+2025,Rio de Janeiro,UF,Total,Privada,96.6,3.1,0.3
+2025,Rio de Janeiro,UF,Urbana,Privada,96.6,3.1,0.3
+2025,Rio de Janeiro,UF,Rural,Privada,98.9,1.1,0.0
+2025,Rio de Janeiro,UF,Total,Pública,91.6,4.4,4.0
+2025,Rio de Janeiro,UF,Urbana,Pública,91.5,4.5,4.0
+2025,Rio de Janeiro,UF,Rural,Pública,95.4,1.9,2.7
+2025,São Paulo,UF,Total,Total,94.7,2.5,2.8
+2025,São Paulo,UF,Urbana,Total,94.7,2.5,2.8
+2025,São Paulo,UF,Rural,Total,96.7,1.6,1.7
+2025,São Paulo,UF,Total,Federal,95.4,3.9,0.7
+2025,São Paulo,UF,Urbana,Federal,95.4,3.9,0.7
+2025,São Paulo,UF,Total,Estadual,93.7,2.7,3.6
+2025,São Paulo,UF,Urbana,Estadual,93.6,2.8,3.6
+2025,São Paulo,UF,Rural,Estadual,96.5,1.6,1.9
+2025,São Paulo,UF,Total,Municipal,96.0,3.3,0.7
+2025,São Paulo,UF,Urbana,Municipal,96.0,3.4,0.6
+2025,São Paulo,UF,Rural,Municipal,100.0,0.0,0.0
+2025,São Paulo,UF,Total,Privada,98.6,1.3,0.1
+2025,São Paulo,UF,Urbana,Privada,98.6,1.3,0.1
+2025,São Paulo,UF,Rural,Privada,98.3,1.6,0.1
+2025,São Paulo,UF,Total,Pública,93.7,2.8,3.5
+2025,São Paulo,UF,Urbana,Pública,93.7,2.8,3.5
+2025,São Paulo,UF,Rural,Pública,96.5,1.6,1.9
+2025,Paraná,UF,Total,Total,98.2,1.5,0.3
+2025,Paraná,UF,Urbana,Total,98.2,1.5,0.3
+2025,Paraná,UF,Rural,Total,98.9,0.8,0.3
+2025,Paraná,UF,Total,Federal,93.6,5.5,0.9
+2025,Paraná,UF,Urbana,Federal,93.4,5.6,1.0
+2025,Paraná,UF,Rural,Federal,96.8,2.1,1.1
+2025,Paraná,UF,Total,Estadual,98.4,1.3,0.3
+2025,Paraná,UF,Urbana,Estadual,98.4,1.3,0.3
+2025,Paraná,UF,Rural,Estadual,98.9,0.7,0.4
+2025,Paraná,UF,Total,Municipal,,,
+2025,Paraná,UF,Urbana,Municipal,,,
+2025,Paraná,UF,Rural,Municipal,,,
+2025,Paraná,UF,Total,Privada,98.1,1.8,0.1
+2025,Paraná,UF,Urbana,Privada,98.1,1.8,0.1
+2025,Paraná,UF,Rural,Privada,97.8,2.2,0.0
+2025,Paraná,UF,Total,Pública,98.3,1.4,0.3
+2025,Paraná,UF,Urbana,Pública,98.2,1.4,0.4
+2025,Paraná,UF,Rural,Pública,98.9,0.8,0.3
+2025,Santa Catarina,UF,Total,Total,90.1,6.6,3.3
+2025,Santa Catarina,UF,Urbana,Total,90.0,6.7,3.3
+2025,Santa Catarina,UF,Rural,Total,93.9,4.4,1.7
+2025,Santa Catarina,UF,Total,Federal,92.8,5.5,1.7
+2025,Santa Catarina,UF,Urbana,Federal,93.0,5.2,1.8
+2025,Santa Catarina,UF,Rural,Federal,90.9,8.7,0.4
+2025,Santa Catarina,UF,Total,Estadual,88.5,7.5,4.0
+2025,Santa Catarina,UF,Urbana,Estadual,88.4,7.6,4.0
+2025,Santa Catarina,UF,Rural,Estadual,94.1,3.9,2.0
+2025,Santa Catarina,UF,Total,Municipal,98.2,1.4,0.4
+2025,Santa Catarina,UF,Urbana,Municipal,98.0,2.0,0.0
+2025,Santa Catarina,UF,Rural,Municipal,98.8,0.0,1.2
+2025,Santa Catarina,UF,Total,Privada,97.5,2.3,0.2
+2025,Santa Catarina,UF,Urbana,Privada,97.5,2.3,0.2
+2025,Santa Catarina,UF,Rural,Privada,97.5,2.5,0.0
+2025,Santa Catarina,UF,Total,Pública,88.8,7.3,3.9
+2025,Santa Catarina,UF,Urbana,Pública,88.6,7.4,4.0
+2025,Santa Catarina,UF,Rural,Pública,93.7,4.6,1.7
+2025,Rio Grande do Sul,UF,Total,Total,91.9,5.6,2.5
+2025,Rio Grande do Sul,UF,Urbana,Total,91.8,5.6,2.6
+2025,Rio Grande do Sul,UF,Rural,Total,93.2,5.0,1.8
+2025,Rio Grande do Sul,UF,Total,Federal,89.8,8.3,1.9
+2025,Rio Grande do Sul,UF,Urbana,Federal,89.3,8.4,2.3
+2025,Rio Grande do Sul,UF,Rural,Federal,91.9,7.5,0.6
+2025,Rio Grande do Sul,UF,Total,Estadual,91.5,5.8,2.7
+2025,Rio Grande do Sul,UF,Urbana,Estadual,91.4,5.9,2.7
+2025,Rio Grande do Sul,UF,Rural,Estadual,93.7,4.2,2.1
+2025,Rio Grande do Sul,UF,Total,Municipal,79.4,17.3,3.3
+2025,Rio Grande do Sul,UF,Urbana,Municipal,79.0,18.5,2.5
+2025,Rio Grande do Sul,UF,Rural,Municipal,82.3,9.4,8.3
+2025,Rio Grande do Sul,UF,Total,Privada,95.6,2.8,1.6
+2025,Rio Grande do Sul,UF,Urbana,Privada,95.6,2.8,1.6
+2025,Rio Grande do Sul,UF,Rural,Privada,97.2,0.8,2.0
+2025,Rio Grande do Sul,UF,Total,Pública,91.3,6.1,2.6
+2025,Rio Grande do Sul,UF,Urbana,Pública,91.2,6.1,2.7
+2025,Rio Grande do Sul,UF,Rural,Pública,92.9,5.3,1.8
+2025,Mato Grosso do Sul,UF,Total,Total,95.5,3.7,0.8
+2025,Mato Grosso do Sul,UF,Urbana,Total,95.5,3.7,0.8
+2025,Mato Grosso do Sul,UF,Rural,Total,95.8,3.4,0.8
+2025,Mato Grosso do Sul,UF,Total,Federal,95.1,3.0,1.9
+2025,Mato Grosso do Sul,UF,Urbana,Federal,94.8,3.1,2.1
+2025,Mato Grosso do Sul,UF,Rural,Federal,96.6,2.6,0.8
+2025,Mato Grosso do Sul,UF,Total,Estadual,95.2,4.0,0.8
+2025,Mato Grosso do Sul,UF,Urbana,Estadual,95.2,4.0,0.8
+2025,Mato Grosso do Sul,UF,Rural,Estadual,95.6,3.6,0.8
+2025,Mato Grosso do Sul,UF,Total,Municipal,98.1,1.9,0.0
+2025,Mato Grosso do Sul,UF,Urbana,Municipal,,,
+2025,Mato Grosso do Sul,UF,Rural,Municipal,98.1,1.9,0.0
+2025,Mato Grosso do Sul,UF,Total,Privada,98.0,2.0,0.0
+2025,Mato Grosso do Sul,UF,Urbana,Privada,98.1,1.9,0.0
+2025,Mato Grosso do Sul,UF,Rural,Privada,96.1,2.8,1.1
+2025,Mato Grosso do Sul,UF,Total,Pública,95.2,3.9,0.9
+2025,Mato Grosso do Sul,UF,Urbana,Pública,95.2,4.0,0.8
+2025,Mato Grosso do Sul,UF,Rural,Pública,95.8,3.5,0.7
+2025,Mato Grosso,UF,Total,Total,98.8,1.1,0.1
+2025,Mato Grosso,UF,Urbana,Total,98.9,1.0,0.1
+2025,Mato Grosso,UF,Rural,Total,98.6,1.2,0.2
+2025,Mato Grosso,UF,Total,Federal,94.0,5.2,0.8
+2025,Mato Grosso,UF,Urbana,Federal,94.0,5.0,1.0
+2025,Mato Grosso,UF,Rural,Federal,94.0,5.6,0.4
+2025,Mato Grosso,UF,Total,Estadual,99.2,0.7,0.1
+2025,Mato Grosso,UF,Urbana,Estadual,99.2,0.7,0.1
+2025,Mato Grosso,UF,Rural,Estadual,99.3,0.5,0.2
+2025,Mato Grosso,UF,Total,Municipal,,,
+2025,Mato Grosso,UF,Urbana,Municipal,,,
+2025,Mato Grosso,UF,Rural,Municipal,,,
+2025,Mato Grosso,UF,Total,Privada,98.6,1.3,0.1
+2025,Mato Grosso,UF,Urbana,Privada,98.6,1.3,0.1
+2025,Mato Grosso,UF,Rural,Privada,90.6,6.3,3.1
+2025,Mato Grosso,UF,Total,Pública,98.8,1.0,0.2
+2025,Mato Grosso,UF,Urbana,Pública,98.9,1.0,0.1
+2025,Mato Grosso,UF,Rural,Pública,98.6,1.2,0.2
+2025,Goiás,UF,Total,Total,97.9,1.2,0.9
+2025,Goiás,UF,Urbana,Total,98.0,1.2,0.8
+2025,Goiás,UF,Rural,Total,95.7,3.0,1.3
+2025,Goiás,UF,Total,Federal,90.1,8.5,1.4
+2025,Goiás,UF,Urbana,Federal,90.3,8.0,1.7
+2025,Goiás,UF,Rural,Federal,89.5,9.9,0.6
+2025,Goiás,UF,Total,Estadual,98.1,1.0,0.9
+2025,Goiás,UF,Urbana,Estadual,98.1,1.0,0.9
+2025,Goiás,UF,Rural,Estadual,97.7,0.5,1.8
+2025,Goiás,UF,Total,Municipal,96.1,3.4,0.5
+2025,Goiás,UF,Urbana,Municipal,96.2,3.2,0.6
+2025,Goiás,UF,Rural,Municipal,95.5,4.5,0.0
+2025,Goiás,UF,Total,Privada,98.4,1.4,0.2
+2025,Goiás,UF,Urbana,Privada,98.3,1.5,0.2
+2025,Goiás,UF,Rural,Privada,99.8,0.2,0.0
+2025,Goiás,UF,Total,Pública,97.8,1.2,1.0
+2025,Goiás,UF,Urbana,Pública,97.9,1.2,0.9
+2025,Goiás,UF,Rural,Pública,95.3,3.3,1.4
+2025,Distrito Federal,UF,Total,Total,86.0,11.0,3.0
+2025,Distrito Federal,UF,Urbana,Total,86.0,11.0,3.0
+2025,Distrito Federal,UF,Rural,Total,84.4,12.1,3.5
+2025,Distrito Federal,UF,Total,Federal,88.9,9.0,2.1
+2025,Distrito Federal,UF,Urbana,Federal,90.5,7.9,1.6
+2025,Distrito Federal,UF,Rural,Federal,79.8,14.9,5.3
+2025,Distrito Federal,UF,Total,Estadual,82.1,13.9,4.0
+2025,Distrito Federal,UF,Urbana,Estadual,82.0,14.0,4.0
+2025,Distrito Federal,UF,Rural,Estadual,85.7,11.3,3.0
+2025,Distrito Federal,UF,Total,Privada,97.8,2.2,0.0
+2025,Distrito Federal,UF,Urbana,Privada,97.8,2.2,0.0
+2025,Distrito Federal,UF,Rural,Privada,,,
+2025,Distrito Federal,UF,Total,Pública,82.4,13.7,3.9
+2025,Distrito Federal,UF,Urbana,Pública,82.3,13.7,4.0
+2025,Distrito Federal,UF,Rural,Pública,84.4,12.1,3.5
