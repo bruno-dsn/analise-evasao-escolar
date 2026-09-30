@@ -1,3 +1,5 @@
+[![Python checks](https://github.com/bruno-dsn/analise-evasao-escolar/actions/workflows/tests.yml/badge.svg)](https://github.com/bruno-dsn/analise-evasao-escolar/actions/workflows/tests.yml)
+
 <div align="center">
 
 # Observatório do abandono escolar no ensino médio
@@ -175,3 +177,8 @@ As justificativas completas estão em [decisões do projeto](docs/decisoes-do-pr
 Ciência de Dados e Inteligência Artificial
 
 [LinkedIn](https://www.linkedin.com/in/bruno-dsnunes/) | [GitHub](https://github.com/bruno-dsn)
+
+
+## Verificação automatizada
+
+O workflow [Python checks](.github/workflows/tests.yml) instala as dependências de desenvolvimento e executa a suíte de testes em Python 3.12 a cada push ou pull request. O badge acima mostra o resultado real da execução, sem um número fixo de testes.
