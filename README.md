@@ -1,21 +1,20 @@
-[![Python checks](https://github.com/bruno-dsn/analise-evasao-escolar/actions/workflows/tests.yml/badge.svg)](https://github.com/bruno-dsn/analise-evasao-escolar/actions/workflows/tests.yml)
+# Observatório do abandono escolar
 
-<div align="center">
+![Observatório do abandono escolar](assets/portfolio-cover.svg)
 
-# Observatório do abandono escolar no ensino médio
+Compare as taxas de aprovação, reprovação e abandono do ensino médio por ano, território e dependência administrativa. A base processada usa dados públicos do Inep de 2019 a 2025.
 
-Análise territorial das taxas de rendimento escolar publicadas pelo Inep para o período de 2019 a 2025.
+[Como executar](#como-executar) · [Dados e método](docs/fontes-e-metodologia.md) · [Testes](tests/) · [Histórico](https://github.com/bruno-dsn/analise-evasao-escolar/commits/main)
 
-[![Python](https://img.shields.io/badge/Python-3.14-3157D5?logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-3.0-12263A?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.61-E25555?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Plotly](https://img.shields.io/badge/Plotly-6.9-7656D8?logo=plotly&logoColor=white)](https://plotly.com/python/)
-[![Testes](https://img.shields.io/badge/Testes-10%20aprovados-159A8C)](#testes)
-[![Licença](https://img.shields.io/badge/Licença-MIT-F2B134)](LICENSE)
+[![Verificações Python](https://github.com/bruno-dsn/analise-evasao-escolar/actions/workflows/tests.yml/badge.svg)](https://github.com/bruno-dsn/analise-evasao-escolar/actions/workflows/tests.yml) · [Licença MIT](LICENSE)
 
-</div>
+## Veja a aplicação
 
-![Painel com a evolução nacional e as maiores taxas de abandono entre as UFs](assets/dashboard_abandono_escolar.png)
+![Captura real da interface revisada](assets/interface-desktop.png)
+
+Captura da aplicação executada localmente com os dados de demonstração. A fonte dos dados, os filtros e as hipóteses permanecem visíveis no painel.
+
+**Primeira exploração:** Escolha ano e localização; compare Brasil e UFs; exporte o recorte para investigar as diferenças.
 
 ## Problema analisado
 

@@ -86,7 +86,43 @@ st.markdown(
         padding: 10px 15px;
     }
     .stTabs [aria-selected="true"] { background: #FFFFFF; }
-    </style>
+
+/* Interface revisada: contraste, hierarquia e navegação responsiva. */
+:root { --ui-accent: #3157D5; --ui-surface: #FFFFFF; --ui-ink: #172033; --ui-muted: #56657A; --ui-line: #DEE5EE; }
+.stApp { background: #F5F7FA !important; }
+.stApp .block-container { max-width: 1400px; padding-top: 1.2rem; padding-bottom: 3.5rem; }
+[data-testid="stSidebar"] { background: #FFFFFF !important; border-right: 1px solid #DEE5EE !important; }
+.workspace-bar { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 8px; color: #56657A; padding: 2px 0 17px; margin-bottom: 6px; border-bottom: 1px solid #DEE5EE; font-size: .78rem; }
+.workspace-bar strong { color: #172033; font-weight: 650; }
+.workspace-source { border: 1px solid #DEE5EE; border-radius: 6px; padding: 4px 9px; background: #FFFFFF; color: #56657A; font-size: .72rem; }
+.stApp .hero { border: 1px solid #DEE5EE !important; border-left: 4px solid #3157D5 !important; border-radius: 12px !important; padding: 24px 28px !important; background: #132D43 !important; box-shadow: none !important; margin-bottom: 20px !important; }
+.stApp .hero h1 { color: #F7FAFF; font-size: clamp(1.65rem, 2.4vw, 2.3rem) !important; line-height: 1.2 !important; letter-spacing: -.035em; max-width: 1000px; margin: 6px 0 10px !important; }
+.stApp .hero p { color: #C5D1E0 !important; font-size: .96rem !important; line-height: 1.65 !important; max-width: 940px !important; }
+.stApp .hero .eyebrow, .stApp .hero-kicker { color: #A5D7FF !important; font-size: .69rem !important; letter-spacing: .11em !important; }
+.stApp h1 { font-size: clamp(1.7rem, 2.5vw, 2.4rem); line-height: 1.2; letter-spacing: -.035em; }
+.stApp h2 { font-size: 1.4rem; letter-spacing: -.02em; }
+.stApp h3 { font-size: 1.13rem; letter-spacing: -.015em; }
+[data-testid="stMetric"] { background: #FFFFFF !important; border: 1px solid #DEE5EE !important; border-top: 2px solid #DEE5EE !important; border-radius: 10px !important; padding: 18px 20px !important; box-shadow: none !important; min-height: 112px; }
+[data-testid="stMetricLabel"] { color: #56657A !important; font-size: .81rem !important; }
+[data-testid="stMetricValue"] { color: #172033 !important; font-size: 1.75rem !important; font-weight: 700 !important; font-variant-numeric: tabular-nums; }
+[data-testid="stDataFrame"] { border: 1px solid #DEE5EE; border-radius: 10px; overflow: hidden; }
+[data-testid="stPlotlyChart"], [data-testid="stVegaLiteChart"] { border: 1px solid #DEE5EE; border-radius: 12px; padding: 10px; background: #FFFFFF; }
+.stTabs [data-baseweb="tab-list"] { gap: 8px !important; border-bottom: 1px solid #DEE5EE; overflow-x: auto; padding-bottom: 3px; }
+.stTabs [data-baseweb="tab"] { background: transparent !important; padding: 9px 12px !important; border-radius: 6px !important; font-size: .87rem; white-space: nowrap; }
+.stTabs [aria-selected="true"] { color: #3157D5 !important; border: none !important; background: #FFFFFF !important; font-weight: 650; }
+.stButton > button, .stDownloadButton > button { border-radius: 7px; min-height: 42px; font-weight: 600; }
+.stApp button:focus-visible, .stApp input:focus-visible, .stApp textarea:focus-visible, .stApp a:focus-visible { outline: 3px solid #3157D5; outline-offset: 3px; }
+.stApp .lesson-card, .stApp .schema-card, .stApp .clause-card, .stApp .step { box-shadow: none !important; border-radius: 10px !important; }
+@media (max-width: 900px) {
+  .stApp .block-container { padding-left: 1rem; padding-right: 1rem; }
+  .stApp .hero { padding: 20px !important; }
+  [data-testid="stHorizontalBlock"] { flex-wrap: wrap; }
+  [data-testid="stHorizontalBlock"] > [data-testid="stColumn"] { min-width: min(240px, 100%); flex: 1 1 240px; }
+  [data-testid="stMetricValue"] { font-size: 1.5rem !important; }
+}
+@media (prefers-reduced-motion: reduce) { .stApp *, .stApp *::before, .stApp *::after { scroll-behavior: auto !important; transition: none !important; animation: none !important; } }
+</style>
+<div class="workspace-bar"><strong>Educação · Monitoramento territorial</strong><span class="workspace-source">Inep · 2019 a 2025</span></div>
     """,
     unsafe_allow_html=True,
 )
